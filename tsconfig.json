@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "outDir": "",
+        "declaration": true,
+        "strict": true,
+        "strictNullChecks": true,
+        "noImplicitAny": true,
+        "noImplicitReturns": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "removeComments": true,
+        "forceConsistentCasingInFileNames": true
+    },
+    "include": [
+        "src/"
+    ]
+}
