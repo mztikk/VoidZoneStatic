@@ -1,0 +1,2226 @@
+{
+  "ReportID": "Yg2zkmyxMZVQa3Ww",
+  "Bosses": [
+    {
+      "Name": "Champion of the Light",
+      "BossTries": [
+        {
+          "TryString": "Try 1 (id: 1)",
+          "TryID": 1,
+          "SpellHits": [
+            {
+              "Name": "Consecration",
+              "PlayerHits": [
+                {
+                  "Name": "Deekay",
+                  "Hits": 9
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Wave of Light",
+              "PlayerHits": [],
+              "HitType": 1
+            },
+            {
+              "Name": "Blinding Faith",
+              "PlayerHits": [
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Deekay",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 1
+            }
+          ],
+          "Time": {
+            "start": 0,
+            "end": 96336
+          }
+        }
+      ]
+    },
+    {
+      "Name": "Jadefire Masters",
+      "BossTries": [
+        {
+          "TryString": "Try 1 (id: 3)",
+          "TryID": 3,
+          "SpellHits": [
+            {
+              "Name": "Multi-Sided Strike",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Beam",
+              "PlayerHits": [
+                {
+                  "Name": "Awyen",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Phoenix Strike",
+              "PlayerHits": [],
+              "HitType": 0
+            }
+          ],
+          "Time": {
+            "start": 465909,
+            "end": 553729
+          }
+        },
+        {
+          "TryString": "Try 2 (id: 4)",
+          "TryID": 4,
+          "SpellHits": [
+            {
+              "Name": "Multi-Sided Strike",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Beam",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Phoenix Strike",
+              "PlayerHits": [
+                {
+                  "Name": "Blueboa",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Deekay",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Walgaz",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            }
+          ],
+          "Time": {
+            "start": 712788,
+            "end": 984105
+          }
+        }
+      ]
+    },
+    {
+      "Name": "Grong the Revenant",
+      "BossTries": [
+        {
+          "TryString": "Try 1 (id: 6)",
+          "TryID": 6,
+          "SpellHits": [
+            {
+              "Name": "Deathly Echo",
+              "PlayerHits": [
+                {
+                  "Name": "Awyen",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Spirit Dispersion",
+              "PlayerHits": [
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 3
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Ferocious Roar",
+              "PlayerHits": [
+                {
+                  "Name": "Deekay",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 1
+            }
+          ],
+          "Time": {
+            "start": 1354496,
+            "end": 1565141
+          }
+        }
+      ]
+    },
+    {
+      "Name": "Opulence",
+      "BossTries": [
+        {
+          "TryString": "Try 1 (id: 7)",
+          "TryID": 7,
+          "SpellHits": [
+            {
+              "Name": "Volatile Charge",
+              "PlayerHits": [
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Molten Gold",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Scorching Ground",
+              "PlayerHits": [
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Deekay",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 9
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Walgaz",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 4
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Flame Jet",
+              "PlayerHits": [
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Walgaz",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Flames of Punishment",
+              "PlayerHits": [
+                {
+                  "Name": "Awyen",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Crush",
+              "PlayerHits": [
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 1
+            }
+          ],
+          "Time": {
+            "start": 2123541,
+            "end": 2214694
+          }
+        },
+        {
+          "TryString": "Try 2 (id: 8)",
+          "TryID": 8,
+          "SpellHits": [
+            {
+              "Name": "Volatile Charge",
+              "PlayerHits": [
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Molten Gold",
+              "PlayerHits": [
+                {
+                  "Name": "Sos",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Scorching Ground",
+              "PlayerHits": [
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Deekay",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 10
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 6
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Walgaz",
+                  "Hits": 3
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Flame Jet",
+              "PlayerHits": [
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blueboa",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 9
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Walgaz",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Flames of Punishment",
+              "PlayerHits": [
+                {
+                  "Name": "Deekay",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Crush",
+              "PlayerHits": [
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Walgaz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 1
+            }
+          ],
+          "Time": {
+            "start": 2326532,
+            "end": 2754999
+          }
+        }
+      ]
+    },
+    {
+      "Name": "Conclave of the Chosen",
+      "BossTries": [
+        {
+          "TryString": "Try 1 (id: 9)",
+          "TryID": 9,
+          "SpellHits": [
+            {
+              "Name": "Static Orb",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Krag'wa's Wrath",
+              "PlayerHits": [
+                {
+                  "Name": "Deekay",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Walgaz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Thundering Storm",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Lacerating Claws",
+              "PlayerHits": [
+                {
+                  "Name": "Blueboa",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Deekay",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 1
+            }
+          ],
+          "Time": {
+            "start": 3441483,
+            "end": 3584240
+          }
+        },
+        {
+          "TryString": "Try 2 (id: 10)",
+          "TryID": 10,
+          "SpellHits": [
+            {
+              "Name": "Static Orb",
+              "PlayerHits": [
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Krag'wa's Wrath",
+              "PlayerHits": [
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Walgaz",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Thundering Storm",
+              "PlayerHits": [
+                {
+                  "Name": "Deekay",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Lacerating Claws",
+              "PlayerHits": [
+                {
+                  "Name": "Deekay",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 1
+            }
+          ],
+          "Time": {
+            "start": 3793064,
+            "end": 4008628
+          }
+        },
+        {
+          "TryString": "Try 3 (id: 11)",
+          "TryID": 11,
+          "SpellHits": [
+            {
+              "Name": "Static Orb",
+              "PlayerHits": [
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Walgaz",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Krag'wa's Wrath",
+              "PlayerHits": [
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Deekay",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Thundering Storm",
+              "PlayerHits": [
+                {
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Walgaz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Lacerating Claws",
+              "PlayerHits": [
+                {
+                  "Name": "Deekay",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 1
+            }
+          ],
+          "Time": {
+            "start": 4204357,
+            "end": 4475584
+          }
+        },
+        {
+          "TryString": "Try 4 (id: 12)",
+          "TryID": 12,
+          "SpellHits": [
+            {
+              "Name": "Static Orb",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Krag'wa's Wrath",
+              "PlayerHits": [
+                {
+                  "Name": "Blueboa",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Deekay",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Thundering Storm",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Lacerating Claws",
+              "PlayerHits": [
+                {
+                  "Name": "Deekay",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Walgaz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 1
+            }
+          ],
+          "Time": {
+            "start": 4653536,
+            "end": 4801717
+          }
+        },
+        {
+          "TryString": "Try 5 (id: 13)",
+          "TryID": 13,
+          "SpellHits": [
+            {
+              "Name": "Static Orb",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Krag'wa's Wrath",
+              "PlayerHits": [
+                {
+                  "Name": "Sos",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Thundering Storm",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Lacerating Claws",
+              "PlayerHits": [
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 1
+            }
+          ],
+          "Time": {
+            "start": 5033724,
+            "end": 5120692
+          }
+        },
+        {
+          "TryString": "Try 6 (id: 14)",
+          "TryID": 14,
+          "SpellHits": [
+            {
+              "Name": "Static Orb",
+              "PlayerHits": [
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Walgaz",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Krag'wa's Wrath",
+              "PlayerHits": [
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Deekay",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Thundering Storm",
+              "PlayerHits": [
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Lacerating Claws",
+              "PlayerHits": [
+                {
+                  "Name": "Deekay",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 1
+            }
+          ],
+          "Time": {
+            "start": 5321914,
+            "end": 5692708
+          }
+        }
+      ]
+    },
+    {
+      "Name": "King Rastakhan",
+      "BossTries": [
+        {
+          "TryString": "Try 1 (id: 15)",
+          "TryID": 15,
+          "SpellHits": [
+            {
+              "Name": "Poison Toad Slime",
+              "PlayerHits": [
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Deekay",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Serpent's Breath",
+              "PlayerHits": [
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Walgaz",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Dread Reaping",
+              "PlayerHits": [
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Deekay",
+                  "Hits": 10
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 7
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 11
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 6
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 11
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 9
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 16
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Walgaz",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Necrotic Smash",
+              "PlayerHits": [
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Toad Toxin",
+              "PlayerHits": [
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Deekay",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 1
+            }
+          ],
+          "Time": {
+            "start": 7110918,
+            "end": 7515962
+          }
+        }
+      ]
+    },
+    {
+      "Name": "Mekkatorque",
+      "BossTries": [
+        {
+          "TryString": "Try 1 (id: 16)",
+          "TryID": 16,
+          "SpellHits": [
+            {
+              "Name": "Buster Cannon",
+              "PlayerHits": [
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Deekay",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Sheep Shrapnel",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Spark Pulse",
+              "PlayerHits": [
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Walgaz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            }
+          ],
+          "Time": {
+            "start": 8097274,
+            "end": 8265238
+          }
+        },
+        {
+          "TryString": "Try 2 (id: 17)",
+          "TryID": 17,
+          "SpellHits": [
+            {
+              "Name": "Buster Cannon",
+              "PlayerHits": [
+                {
+                  "Name": "Deekay",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Sheep Shrapnel",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Spark Pulse",
+              "PlayerHits": [
+                {
+                  "Name": "Awyen",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            }
+          ],
+          "Time": {
+            "start": 8357406,
+            "end": 8508066
+          }
+        },
+        {
+          "TryString": "Try 3 (id: 18)",
+          "TryID": 18,
+          "SpellHits": [
+            {
+              "Name": "Buster Cannon",
+              "PlayerHits": [
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Sheep Shrapnel",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Spark Pulse",
+              "PlayerHits": [
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            }
+          ],
+          "Time": {
+            "start": 8670103,
+            "end": 8857233
+          }
+        },
+        {
+          "TryString": "Try 4 (id: 19)",
+          "TryID": 19,
+          "SpellHits": [
+            {
+              "Name": "Buster Cannon",
+              "PlayerHits": [
+                {
+                  "Name": "Deekay",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Sheep Shrapnel",
+              "PlayerHits": [
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Walgaz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Spark Pulse",
+              "PlayerHits": [
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Walgaz",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            }
+          ],
+          "Time": {
+            "start": 9521408,
+            "end": 9839440
+          }
+        },
+        {
+          "TryString": "Try 5 (id: 20)",
+          "TryID": 20,
+          "SpellHits": [
+            {
+              "Name": "Buster Cannon",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Sheep Shrapnel",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Spark Pulse",
+              "PlayerHits": [
+                {
+                  "Name": "Sos",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            }
+          ],
+          "Time": {
+            "start": 9991055,
+            "end": 10135834
+          }
+        },
+        {
+          "TryString": "Try 6 (id: 21)",
+          "TryID": 21,
+          "SpellHits": [
+            {
+              "Name": "Buster Cannon",
+              "PlayerHits": [
+                {
+                  "Name": "Deekay",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Sheep Shrapnel",
+              "PlayerHits": [
+                {
+                  "Name": "Deekay",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Spark Pulse",
+              "PlayerHits": [
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            }
+          ],
+          "Time": {
+            "start": 10304534,
+            "end": 10581609
+          }
+        },
+        {
+          "TryString": "Try 7 (id: 22)",
+          "TryID": 22,
+          "SpellHits": [
+            {
+              "Name": "Buster Cannon",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Sheep Shrapnel",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Spark Pulse",
+              "PlayerHits": [
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            }
+          ],
+          "Time": {
+            "start": 10712855,
+            "end": 10863346
+          }
+        },
+        {
+          "TryString": "Try 8 (id: 23)",
+          "TryID": 23,
+          "SpellHits": [
+            {
+              "Name": "Buster Cannon",
+              "PlayerHits": [
+                {
+                  "Name": "Deekay",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Sheep Shrapnel",
+              "PlayerHits": [
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Spark Pulse",
+              "PlayerHits": [
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            }
+          ],
+          "Time": {
+            "start": 10992114,
+            "end": 11318126
+          }
+        },
+        {
+          "TryString": "Try 9 (id: 24)",
+          "TryID": 24,
+          "SpellHits": [
+            {
+              "Name": "Buster Cannon",
+              "PlayerHits": [
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Sheep Shrapnel",
+              "PlayerHits": [
+                {
+                  "Name": "Deekay",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Spark Pulse",
+              "PlayerHits": [
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Walgaz",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            }
+          ],
+          "Time": {
+            "start": 11432975,
+            "end": 11795180
+          }
+        },
+        {
+          "TryString": "Try 10 (id: 25)",
+          "TryID": 25,
+          "SpellHits": [
+            {
+              "Name": "Buster Cannon",
+              "PlayerHits": [
+                {
+                  "Name": "Deekay",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Sheep Shrapnel",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Spark Pulse",
+              "PlayerHits": [
+                {
+                  "Name": "Sos",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Walgaz",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            }
+          ],
+          "Time": {
+            "start": 11880583,
+            "end": 12010495
+          }
+        },
+        {
+          "TryString": "Try 11 (id: 26)",
+          "TryID": 26,
+          "SpellHits": [
+            {
+              "Name": "Buster Cannon",
+              "PlayerHits": [
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Walgaz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Sheep Shrapnel",
+              "PlayerHits": [
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Spark Pulse",
+              "PlayerHits": [
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            }
+          ],
+          "Time": {
+            "start": 12095354,
+            "end": 12401780
+          }
+        },
+        {
+          "TryString": "Try 12 (id: 27)",
+          "TryID": 27,
+          "SpellHits": [
+            {
+              "Name": "Buster Cannon",
+              "PlayerHits": [
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Sheep Shrapnel",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Spark Pulse",
+              "PlayerHits": [],
+              "HitType": 0
+            }
+          ],
+          "Time": {
+            "start": 12666936,
+            "end": 12699118
+          }
+        }
+      ]
+    }
+  ]
+}

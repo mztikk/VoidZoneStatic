@@ -1,0 +1,111 @@
+/* @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700'); */
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/5.7.2/css/font-awesome.min.css');
+
+:root {
+    --backColor: #252526;
+    --foreColor: #ffffff;
+    --objectColor: #007ACC;
+    --mouseOverColor: #52B0EF;
+    --activeColor: rgb(4, 81, 133);
+}
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: fontawesome;
+    font-weight: normal;
+    padding: 40px;
+    color: var(--foreColor);
+    background: var(--backColor);
+}
+
+a:link {
+    color: var(--objectColor);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: var(--objectColor);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--mouseOverColor);
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: var(--activeColor);
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+p:not(:last-child) {
+    margin: 0 0 20px;
+}
+
+main {
+    padding: 40px;
+    border: 1px solid rgba(0, 0, 0, .2);
+    background: var(--backColor);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .1);
+}
+
+section {
+    display: none;
+    padding: 20px 0 0;
+    border-top: 1px solid var(--foreColor);
+}
+
+input {
+    display: none;
+}
+
+label {
+    display: inline-block;
+    margin: 0 0 -1px;
+    padding: 15px 25px;
+    font-weight: 600;
+    text-align: center;
+    color: var(--foreColor);
+    border: 1px solid transparent;
+}
+
+label:before {
+    margin-right: 10px;
+}
+
+label:hover {
+    color: var(--mouseOverColor);
+    cursor: pointer;
+}
+
+input:checked+label {
+    color: var(--objectColor);
+    border: 1px solid var(--foreColor);
+    border-top: 2px solid var(--objectColor);
+    border-bottom: 1px solid var(--foreColor);
+}
+
+div.indent {
+    text-indent: 5%;
+}
+
+div.box {
+    padding-bottom: 1%;
+    padding-top: 1%;
+    margin-right: 75%;
+    margin-bottom: 2%;
+    border: 1px solid var(--objectColor);
+
+    text-align: center;
+}

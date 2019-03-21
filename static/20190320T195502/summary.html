@@ -1,0 +1,3850 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html []>
+<html>
+  <head>
+    <meta name="viewport" content="width = device - width, initial - scale = 1" />
+    <style>
+﻿@import url('https://maxcdn.bootstrapcdn.com/font-awesome/5.7.2/css/font-awesome.min.css');
+
+p:not(:last-child) {
+    margin: 0 0 20px;
+}
+
+main {
+    padding: 40px;
+    border: 1px solid rgba(0, 0, 0, .2);
+    background: var(--backColor);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .1);
+}
+
+section {
+    display: none;
+    padding: 20px 0 0;
+    border-top: 1px solid var(--foreColor);
+}
+
+input {
+    display: none;
+}
+
+label {
+    display: inline-block;
+    margin: 0 0 -1px;
+    padding: 15px 25px;
+    font-weight: 600;
+    text-align: center;
+    color: black;
+    border: 1px solid transparent;
+}
+
+    label:hover {
+        color: gray;
+        cursor: pointer;
+    }
+
+input:checked + label {
+    color: black;
+    border-top: 2px solid rgb(6, 57, 168);
+}
+
+div.indent {
+    text-indent: 5%;
+}
+#ChampionoftheLightMythicsummary:checked ~ #ChampionoftheLightMythicsummarycontent,
+#ChampionoftheLightHeroicsummary:checked ~ #ChampionoftheLightHeroicsummarycontent,
+#JadefireMastersHeroicsummary:checked ~ #JadefireMastersHeroicsummarycontent,
+#GrongtheRevenantHeroicsummary:checked ~ #GrongtheRevenantHeroicsummarycontent,
+#OpulenceHeroicsummary:checked ~ #OpulenceHeroicsummarycontent,
+#ConclaveoftheChosenHeroicsummary:checked ~ #ConclaveoftheChosenHeroicsummarycontent,
+#KingRastakhanHeroicsummary:checked ~ #KingRastakhanHeroicsummarycontent,
+#MekkatorqueHeroicsummary:checked ~ #MekkatorqueHeroicsummarycontent{display: block;}
+#ChampionoftheLightMythicdetail:checked ~ #ChampionoftheLightMythicdetailcontent,
+#ChampionoftheLightHeroicdetail:checked ~ #ChampionoftheLightHeroicdetailcontent,
+#JadefireMastersHeroicdetail:checked ~ #JadefireMastersHeroicdetailcontent,
+#GrongtheRevenantHeroicdetail:checked ~ #GrongtheRevenantHeroicdetailcontent,
+#OpulenceHeroicdetail:checked ~ #OpulenceHeroicdetailcontent,
+#ConclaveoftheChosenHeroicdetail:checked ~ #ConclaveoftheChosenHeroicdetailcontent,
+#KingRastakhanHeroicdetail:checked ~ #KingRastakhanHeroicdetailcontent,
+#MekkatorqueHeroicdetail:checked ~ #MekkatorqueHeroicdetailcontent{display: block;}
+#Try1id1detailed:checked ~ #Try1id1detailedcontent,
+#Try2id2detailed:checked ~ #Try2id2detailedcontent,
+#Try3id3detailed:checked ~ #Try3id3detailedcontent,
+#Try1id5detailed:checked ~ #Try1id5detailedcontent,
+#Try1id8detailed:checked ~ #Try1id8detailedcontent,
+#Try1id11detailed:checked ~ #Try1id11detailedcontent,
+#Try1id13detailed:checked ~ #Try1id13detailedcontent,
+#Try1id15detailed:checked ~ #Try1id15detailedcontent,
+#Try2id16detailed:checked ~ #Try2id16detailedcontent,
+#Try3id17detailed:checked ~ #Try3id17detailedcontent,
+#Try4id18detailed:checked ~ #Try4id18detailedcontent,
+#Try1id22detailed:checked ~ #Try1id22detailedcontent,
+#Try1id25detailed:checked ~ #Try1id25detailedcontent,
+#Try2id26detailed:checked ~ #Try2id26detailedcontent,
+#Try3id28detailed:checked ~ #Try3id28detailedcontent,
+#Try4id29detailed:checked ~ #Try4id29detailedcontent,
+#Try5id31detailed:checked ~ #Try5id31detailedcontent{display: block;}
+</style>
+    <script>var whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
+    <script src="http://wow.zamimg.com/widgets/power.js"></script>
+    <link rel="stylesheet" href="../../style.css" />
+  </head>
+  <body>
+    <div class="box">
+      <a href="../../index.html">
+        <h2>Index</h2>
+      </a>
+    </div>
+    <h2>Summary for: <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT" target="_blank">D4YBKjcZn2WFk8HT</a></h2>
+    <div class="body">
+      <main>
+        <input id="ChampionoftheLightMythicsummary" type="radio" name="summary" />
+        <label for="ChampionoftheLightMythicsummary">Champion of the Light (Mythic)</label>
+        <input id="ChampionoftheLightHeroicsummary" type="radio" name="summary" />
+        <label for="ChampionoftheLightHeroicsummary">Champion of the Light (Heroic)</label>
+        <input id="JadefireMastersHeroicsummary" type="radio" name="summary" />
+        <label for="JadefireMastersHeroicsummary">Jadefire Masters (Heroic)</label>
+        <input id="GrongtheRevenantHeroicsummary" type="radio" name="summary" />
+        <label for="GrongtheRevenantHeroicsummary">Grong the Revenant (Heroic)</label>
+        <input id="OpulenceHeroicsummary" type="radio" name="summary" />
+        <label for="OpulenceHeroicsummary">Opulence (Heroic)</label>
+        <input id="ConclaveoftheChosenHeroicsummary" type="radio" name="summary" />
+        <label for="ConclaveoftheChosenHeroicsummary">Conclave of the Chosen (Heroic)</label>
+        <input id="KingRastakhanHeroicsummary" type="radio" name="summary" />
+        <label for="KingRastakhanHeroicsummary">King Rastakhan (Heroic)</label>
+        <input id="MekkatorqueHeroicsummary" type="radio" name="summary" />
+        <label for="MekkatorqueHeroicsummary">Mekkatorque (Heroic)</label>
+        <section id="ChampionoftheLightMythicsummarycontent">
+          <div>
+            <a href="https://www.wowhead.com/spell=283582" target="_blank">Consecration</a>
+            <br />
+            <div class="indent">
+Rágnáár: 7
+</div>
+            <div class="indent">
+Laona: 6
+</div>
+            <div class="indent">
+Locktaâr: 4
+</div>
+            <div class="indent">
+Dèathnight: 4
+</div>
+            <div class="indent">
+Walgaz: 3
+</div>
+            <div class="indent">
+Terránigma: 2
+</div>
+            <div class="indent">
+Deekay: 2
+</div>
+            <div class="indent">
+Cord: 2
+</div>
+            <div class="indent">
+Shyreal: 2
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <div class="indent">
+Thsndftz: 1
+</div>
+            <div class="indent">
+Thomämmer: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=283617" target="_blank">Wave of Light</a>
+            <br />
+            <div class="indent">
+Deekay: 7
+</div>
+            <div class="indent">
+Locktaâr: 4
+</div>
+            <div class="indent">
+Dèathnight: 3
+</div>
+            <div class="indent">
+Awyen: 2
+</div>
+            <div class="indent">
+Terránigma: 2
+</div>
+            <div class="indent">
+Sos: 2
+</div>
+            <div class="indent">
+Thomämmer: 2
+</div>
+            <div class="indent">
+Rágnáár: 2
+</div>
+            <div class="indent">
+Shyreal: 2
+</div>
+            <div class="indent">
+Laona: 2
+</div>
+            <div class="indent">
+Cord: 1
+</div>
+            <div class="indent">
+Blòódý: 1
+</div>
+            <div class="indent">
+Aleksândra: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=283651" target="_blank">Blinding Faith</a>
+            <br />
+            <div class="indent">
+Deekay: 3
+</div>
+            <div class="indent">
+Sharia: 3
+</div>
+            <div class="indent">
+Dèathnight: 3
+</div>
+            <div class="indent">
+Rágnáár: 3
+</div>
+            <div class="indent">
+Aleksândra: 2
+</div>
+            <div class="indent">
+Sos: 2
+</div>
+            <div class="indent">
+Shyreal: 2
+</div>
+            <div class="indent">
+Laona: 2
+</div>
+            <div class="indent">
+Blòódý: 1
+</div>
+            <div class="indent">
+Walgaz: 1
+</div>
+            <div class="indent">
+Terránigma: 1
+</div>
+            <div class="indent">
+Locktaâr: 1
+</div>
+            <div class="indent">
+Thomämmer: 1
+</div>
+            <br />
+          </div>
+        </section>
+        <section id="ChampionoftheLightHeroicsummarycontent">
+          <div>
+            <a href="https://www.wowhead.com/spell=283582" target="_blank">Consecration</a>
+            <br />
+            <div class="indent">
+Rágnáár: 3
+</div>
+            <div class="indent">
+Deekay: 2
+</div>
+            <div class="indent">
+Laona: 2
+</div>
+            <div class="indent">
+Endiness: 1
+</div>
+            <div class="indent">
+Terránigma: 1
+</div>
+            <div class="indent">
+Dèathnight: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=283617" target="_blank">Wave of Light</a>
+            <br />
+            <div class="indent">
+Deekay: 3
+</div>
+            <div class="indent">
+Dèathnight: 1
+</div>
+            <div class="indent">
+Rágnáár: 1
+</div>
+            <div class="indent">
+Laona: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=283651" target="_blank">Blinding Faith</a>
+            <br />
+            <div class="indent">
+Aleksândra: 1
+</div>
+            <div class="indent">
+Cord: 1
+</div>
+            <div class="indent">
+Walgaz: 1
+</div>
+            <div class="indent">
+Thsndftz: 1
+</div>
+            <div class="indent">
+Thomämmer: 1
+</div>
+            <div class="indent">
+Shyreal: 1
+</div>
+            <br />
+          </div>
+        </section>
+        <section id="JadefireMastersHeroicsummarycontent">
+          <div>
+            <a href="https://www.wowhead.com/spell=284028" target="_blank">Multi-Sided Strike</a>
+            <br />
+            <div class="indent">
+Endiness: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=286503" target="_blank">Beam</a>
+            <br />
+            <div class="indent">
+Awyen: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=284388" target="_blank">Phoenix Strike</a>
+            <br />
+            <div class="indent">
+Deekay: 4
+</div>
+            <div class="indent">
+Sharia: 4
+</div>
+            <div class="indent">
+Dèathnight: 3
+</div>
+            <div class="indent">
+Thomämmer: 3
+</div>
+            <div class="indent">
+Shyreal: 3
+</div>
+            <div class="indent">
+Awyen: 2
+</div>
+            <div class="indent">
+Locktaâr: 2
+</div>
+            <div class="indent">
+Laona: 2
+</div>
+            <div class="indent">
+Walgaz: 2
+</div>
+            <div class="indent">
+Cord: 1
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Aleksândra: 1
+</div>
+            <div class="indent">
+Terránigma: 1
+</div>
+            <div class="indent">
+Thsndftz: 1
+</div>
+            <br />
+          </div>
+        </section>
+        <section id="GrongtheRevenantHeroicsummarycontent">
+          <div>
+            <a href="https://www.wowhead.com/spell=282545" target="_blank">Deathly Echo</a>
+            <br />
+            <div class="indent">
+Aleksândra: 1
+</div>
+            <div class="indent">
+Cord: 1
+</div>
+            <div class="indent">
+Deekay: 1
+</div>
+            <div class="indent">
+Rágnáár: 1
+</div>
+            <div class="indent">
+Blòódý: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=286430" target="_blank">Spirit Dispersion</a>
+            <br />
+            <div class="indent">
+Aleksândra: 3
+</div>
+            <div class="indent">
+Terránigma: 3
+</div>
+            <div class="indent">
+Rágnáár: 3
+</div>
+            <div class="indent">
+Locktaâr: 2
+</div>
+            <div class="indent">
+Laona: 2
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=285998" target="_blank">Ferocious Roar</a>
+            <br />
+            <div class="indent">
+Rágnáár: 2
+</div>
+            <div class="indent">
+Endiness: 1
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Locktaâr: 1
+</div>
+            <div class="indent">
+Laona: 1
+</div>
+            <br />
+          </div>
+        </section>
+        <section id="OpulenceHeroicsummarycontent">
+          <div>
+            <a href="https://www.wowhead.com/spell=287074" target="_blank">Molten Gold</a>
+            <br />
+            <div class="indent">
+Awyen: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=284424" target="_blank">Scorching Ground</a>
+            <br />
+            <div class="indent">
+Rágnáár: 9
+</div>
+            <div class="indent">
+Aleksândra: 5
+</div>
+            <div class="indent">
+Dèathnight: 5
+</div>
+            <div class="indent">
+Laona: 5
+</div>
+            <div class="indent">
+Shyreal: 4
+</div>
+            <div class="indent">
+Awyen: 3
+</div>
+            <div class="indent">
+Deekay: 3
+</div>
+            <div class="indent">
+Terránigma: 2
+</div>
+            <div class="indent">
+Locktaâr: 2
+</div>
+            <div class="indent">
+Cord: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Thomämmer: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=285479" target="_blank">Flame Jet</a>
+            <br />
+            <div class="indent">
+Laona: 5
+</div>
+            <div class="indent">
+Awyen: 4
+</div>
+            <div class="indent">
+Aleksândra: 4
+</div>
+            <div class="indent">
+Sos: 3
+</div>
+            <div class="indent">
+Rágnáár: 3
+</div>
+            <div class="indent">
+Thomämmer: 3
+</div>
+            <div class="indent">
+Terránigma: 2
+</div>
+            <div class="indent">
+Dèathnight: 2
+</div>
+            <div class="indent">
+Blòódý: 2
+</div>
+            <div class="indent">
+Cord: 1
+</div>
+            <div class="indent">
+Endiness: 1
+</div>
+            <div class="indent">
+Walgaz: 1
+</div>
+            <div class="indent">
+Deekay: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <div class="indent">
+Shyreal: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=287513" target="_blank">Flames of Punishment</a>
+            <br />
+            <div class="indent">
+Walgaz: 3
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=283610" target="_blank">Crush</a>
+            <br />
+            <div class="indent">
+Cord: 3
+</div>
+            <div class="indent">
+Shyreal: 3
+</div>
+            <div class="indent">
+Awyen: 1
+</div>
+            <div class="indent">
+Endiness: 1
+</div>
+            <div class="indent">
+Laona: 1
+</div>
+            <div class="indent">
+Aleksândra: 1
+</div>
+            <div class="indent">
+Walgaz: 1
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Rágnáár: 1
+</div>
+            <br />
+          </div>
+        </section>
+        <section id="ConclaveoftheChosenHeroicsummarycontent">
+          <div>
+            <a href="https://www.wowhead.com/spell=286838" target="_blank">Static Orb</a>
+            <br />
+            <div class="indent">
+Laona: 5
+</div>
+            <div class="indent">
+Blòódý: 3
+</div>
+            <div class="indent">
+Thsndftz: 2
+</div>
+            <div class="indent">
+Aleksândra: 2
+</div>
+            <div class="indent">
+Cord: 2
+</div>
+            <div class="indent">
+Terránigma: 2
+</div>
+            <div class="indent">
+Awyen: 2
+</div>
+            <div class="indent">
+Thomämmer: 2
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Dèathnight: 1
+</div>
+            <div class="indent">
+Shyreal: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=282636" target="_blank">Krag'wa's Wrath</a>
+            <br />
+            <div class="indent">
+Awyen: 10
+</div>
+            <div class="indent">
+Sos: 10
+</div>
+            <div class="indent">
+Cord: 8
+</div>
+            <div class="indent">
+Rágnáár: 8
+</div>
+            <div class="indent">
+Shyreal: 7
+</div>
+            <div class="indent">
+Thomämmer: 6
+</div>
+            <div class="indent">
+Deekay: 5
+</div>
+            <div class="indent">
+Sharia: 4
+</div>
+            <div class="indent">
+Locktaâr: 4
+</div>
+            <div class="indent">
+Thsndftz: 4
+</div>
+            <div class="indent">
+Walgaz: 4
+</div>
+            <div class="indent">
+Dèathnight: 3
+</div>
+            <div class="indent">
+Endiness: 3
+</div>
+            <div class="indent">
+Aleksândra: 2
+</div>
+            <div class="indent">
+Blòódý: 2
+</div>
+            <div class="indent">
+Laona: 2
+</div>
+            <div class="indent">
+Terránigma: 2
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=282411" target="_blank">Thundering Storm</a>
+            <br />
+            <div class="indent">
+Cord: 6
+</div>
+            <div class="indent">
+Awyen: 5
+</div>
+            <div class="indent">
+Aleksândra: 4
+</div>
+            <div class="indent">
+Deekay: 4
+</div>
+            <div class="indent">
+Blòódý: 4
+</div>
+            <div class="indent">
+Sharia: 3
+</div>
+            <div class="indent">
+Sos: 3
+</div>
+            <div class="indent">
+Rágnáár: 3
+</div>
+            <div class="indent">
+Walgaz: 2
+</div>
+            <div class="indent">
+Shyreal: 2
+</div>
+            <div class="indent">
+Dèathnight: 2
+</div>
+            <div class="indent">
+Thomämmer: 2
+</div>
+            <div class="indent">
+Endiness: 1
+</div>
+            <div class="indent">
+Terránigma: 1
+</div>
+            <div class="indent">
+Locktaâr: 1
+</div>
+            <div class="indent">
+Thsndftz: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=282444" target="_blank">Lacerating Claws</a>
+            <br />
+            <div class="indent">
+Endiness: 9
+</div>
+            <div class="indent">
+Deekay: 7
+</div>
+            <div class="indent">
+Locktaâr: 4
+</div>
+            <div class="indent">
+Aleksândra: 2
+</div>
+            <div class="indent">
+Awyen: 1
+</div>
+            <div class="indent">
+Thsndftz: 1
+</div>
+            <br />
+          </div>
+        </section>
+        <section id="KingRastakhanHeroicsummarycontent">
+          <div>
+            <a href="https://www.wowhead.com/spell=285010" target="_blank">Poison Toad Slime</a>
+            <br />
+            <div class="indent">
+Dèathnight: 2
+</div>
+            <div class="indent">
+Awyen: 1
+</div>
+            <div class="indent">
+Rágnáár: 1
+</div>
+            <div class="indent">
+Laona: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=285178" target="_blank">Serpent's Breath</a>
+            <br />
+            <div class="indent">
+Awyen: 1
+</div>
+            <div class="indent">
+Thsndftz: 1
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Cord: 1
+</div>
+            <div class="indent">
+Blòódý: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <div class="indent">
+Thomämmer: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=287147" target="_blank">Dread Reaping</a>
+            <br />
+            <div class="indent">
+Awyen: 7
+</div>
+            <div class="indent">
+Thomämmer: 7
+</div>
+            <div class="indent">
+Aleksândra: 6
+</div>
+            <div class="indent">
+Rágnáár: 5
+</div>
+            <div class="indent">
+Thsndftz: 3
+</div>
+            <div class="indent">
+Endiness: 2
+</div>
+            <div class="indent">
+Blòódý: 2
+</div>
+            <div class="indent">
+Sharia: 2
+</div>
+            <div class="indent">
+Laona: 1
+</div>
+            <div class="indent">
+Cord: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=286742" target="_blank">Necrotic Smash</a>
+            <br />
+            <div class="indent">
+Rágnáár: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=285044" target="_blank">Toad Toxin</a>
+            <br />
+            <div class="indent">
+Rágnáár: 3
+</div>
+            <div class="indent">
+Aleksândra: 2
+</div>
+            <div class="indent">
+Endiness: 2
+</div>
+            <div class="indent">
+Laona: 2
+</div>
+            <div class="indent">
+Terránigma: 2
+</div>
+            <div class="indent">
+Dèathnight: 2
+</div>
+            <div class="indent">
+Cord: 1
+</div>
+            <div class="indent">
+Blòódý: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <div class="indent">
+Deekay: 1
+</div>
+            <br />
+          </div>
+        </section>
+        <section id="MekkatorqueHeroicsummarycontent">
+          <div>
+            <a href="https://www.wowhead.com/spell=282182" target="_blank">Buster Cannon</a>
+            <br />
+            <div class="indent">
+Aleksândra: 7
+</div>
+            <div class="indent">
+Cord: 4
+</div>
+            <div class="indent">
+Sos: 3
+</div>
+            <div class="indent">
+Blòódý: 3
+</div>
+            <div class="indent">
+Deekay: 3
+</div>
+            <div class="indent">
+Thomämmer: 3
+</div>
+            <div class="indent">
+Rágnáár: 2
+</div>
+            <div class="indent">
+Dèathnight: 1
+</div>
+            <div class="indent">
+Thsndftz: 1
+</div>
+            <div class="indent">
+Awyen: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=287891" target="_blank">Sheep Shrapnel</a>
+            <br />
+            <div class="indent">
+Cord: 9
+</div>
+            <div class="indent">
+Awyen: 8
+</div>
+            <div class="indent">
+Blòódý: 6
+</div>
+            <div class="indent">
+Laona: 5
+</div>
+            <div class="indent">
+Deekay: 4
+</div>
+            <div class="indent">
+Dèathnight: 4
+</div>
+            <div class="indent">
+Endiness: 4
+</div>
+            <div class="indent">
+Rágnáár: 3
+</div>
+            <div class="indent">
+Aleksândra: 3
+</div>
+            <div class="indent">
+Sharia: 3
+</div>
+            <div class="indent">
+Thomämmer: 2
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Terránigma: 1
+</div>
+            <div class="indent">
+Thsndftz: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=282408" target="_blank">Spark Pulse</a>
+            <br />
+            <div class="indent">
+Aleksândra: 9
+</div>
+            <div class="indent">
+Deekay: 8
+</div>
+            <div class="indent">
+Awyen: 8
+</div>
+            <div class="indent">
+Rágnáár: 5
+</div>
+            <div class="indent">
+Endiness: 5
+</div>
+            <div class="indent">
+Laona: 5
+</div>
+            <div class="indent">
+Cord: 5
+</div>
+            <div class="indent">
+Sharia: 5
+</div>
+            <div class="indent">
+Blòódý: 3
+</div>
+            <div class="indent">
+Dèathnight: 3
+</div>
+            <div class="indent">
+Terránigma: 2
+</div>
+            <div class="indent">
+Thsndftz: 2
+</div>
+            <div class="indent">
+Thomämmer: 2
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <br />
+          </div>
+        </section>
+      </main>
+    </div>
+    <h2>Detailed report for: <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT" target="_blank">D4YBKjcZn2WFk8HT</a></h2>
+    <div class="body">
+      <main>
+        <input id="ChampionoftheLightMythicdetail" type="radio" name="bossdetailed" />
+        <label for="ChampionoftheLightMythicdetail">Champion of the Light (Mythic)</label>
+        <input id="ChampionoftheLightHeroicdetail" type="radio" name="bossdetailed" />
+        <label for="ChampionoftheLightHeroicdetail">Champion of the Light (Heroic)</label>
+        <input id="JadefireMastersHeroicdetail" type="radio" name="bossdetailed" />
+        <label for="JadefireMastersHeroicdetail">Jadefire Masters (Heroic)</label>
+        <input id="GrongtheRevenantHeroicdetail" type="radio" name="bossdetailed" />
+        <label for="GrongtheRevenantHeroicdetail">Grong the Revenant (Heroic)</label>
+        <input id="OpulenceHeroicdetail" type="radio" name="bossdetailed" />
+        <label for="OpulenceHeroicdetail">Opulence (Heroic)</label>
+        <input id="ConclaveoftheChosenHeroicdetail" type="radio" name="bossdetailed" />
+        <label for="ConclaveoftheChosenHeroicdetail">Conclave of the Chosen (Heroic)</label>
+        <input id="KingRastakhanHeroicdetail" type="radio" name="bossdetailed" />
+        <label for="KingRastakhanHeroicdetail">King Rastakhan (Heroic)</label>
+        <input id="MekkatorqueHeroicdetail" type="radio" name="bossdetailed" />
+        <label for="MekkatorqueHeroicdetail">Mekkatorque (Heroic)</label>
+        <section id="ChampionoftheLightMythicdetailcontent">
+          <input id="Try1id1detailed" type="radio" name="detailed" />
+          <label for="Try1id1detailed">Champion of the Light (Mythic): Try 1 (id: 1)</label>
+          <input id="Try2id2detailed" type="radio" name="detailed" />
+          <label for="Try2id2detailed">Champion of the Light (Mythic): Try 2 (id: 2)</label>
+          <input id="Try3id3detailed" type="radio" name="detailed" />
+          <label for="Try3id3detailed">Champion of the Light (Mythic): Try 3 (id: 3)</label>
+          <section id="Try1id1detailedcontent">
+            <div>
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=1&amp;start=1581282&amp;end=1665684&amp;type=damage-taken&amp;ability=283582" target="_blank" data-wowhead="spell=283582">Consecration</a>
+              <br />
+              <div class="indent">
+Rágnáár: 5
+</div>
+              <div class="indent">
+Locktaâr: 3
+</div>
+              <div class="indent">
+Laona: 2
+</div>
+              <div class="indent">
+Terránigma: 1
+</div>
+              <div class="indent">
+Deekay: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=1&amp;start=1581282&amp;end=1665684&amp;type=auras&amp;spells=debuffs&amp;ability=283617" target="_blank" data-wowhead="spell=283617">Wave of Light</a>
+              <br />
+              <div class="indent">
+Deekay: 3
+</div>
+              <div class="indent">
+Locktaâr: 2
+</div>
+              <div class="indent">
+Awyen: 1
+</div>
+              <div class="indent">
+Cord: 1
+</div>
+              <div class="indent">
+Terránigma: 1
+</div>
+              <div class="indent">
+Sos: 1
+</div>
+              <div class="indent">
+Dèathnight: 1
+</div>
+              <div class="indent">
+Thomämmer: 1
+</div>
+              <div class="indent">
+Blòódý: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=1&amp;start=1581282&amp;end=1665684&amp;type=auras&amp;spells=debuffs&amp;ability=283651" target="_blank" data-wowhead="spell=283651">Blinding Faith</a>
+              <br />
+              <div class="indent">
+Deekay: 2
+</div>
+              <div class="indent">
+Sharia: 2
+</div>
+              <div class="indent">
+Aleksândra: 1
+</div>
+              <div class="indent">
+Sos: 1
+</div>
+              <div class="indent">
+Dèathnight: 1
+</div>
+              <div class="indent">
+Shyreal: 1
+</div>
+              <br />
+            </div>
+          </section>
+          <section id="Try2id2detailedcontent">
+            <div>
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=2&amp;start=1832430&amp;end=1880840&amp;type=auras&amp;spells=debuffs&amp;ability=283651" target="_blank" data-wowhead="spell=283651">Blinding Faith</a>
+              <br />
+              <div class="indent">
+Sos: 1
+</div>
+              <div class="indent">
+Blòódý: 1
+</div>
+              <br />
+            </div>
+          </section>
+          <section id="Try3id3detailedcontent">
+            <div>
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=3&amp;start=2057558&amp;end=2273906&amp;type=damage-taken&amp;ability=283582" target="_blank" data-wowhead="spell=283582">Consecration</a>
+              <br />
+              <div class="indent">
+Laona: 4
+</div>
+              <div class="indent">
+Dèathnight: 4
+</div>
+              <div class="indent">
+Walgaz: 3
+</div>
+              <div class="indent">
+Cord: 2
+</div>
+              <div class="indent">
+Rágnáár: 2
+</div>
+              <div class="indent">
+Shyreal: 2
+</div>
+              <div class="indent">
+Locktaâr: 1
+</div>
+              <div class="indent">
+Sos: 1
+</div>
+              <div class="indent">
+Deekay: 1
+</div>
+              <div class="indent">
+Terránigma: 1
+</div>
+              <div class="indent">
+Sharia: 1
+</div>
+              <div class="indent">
+Thsndftz: 1
+</div>
+              <div class="indent">
+Thomämmer: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=3&amp;start=2057558&amp;end=2273906&amp;type=auras&amp;spells=debuffs&amp;ability=283617" target="_blank" data-wowhead="spell=283617">Wave of Light</a>
+              <br />
+              <div class="indent">
+Deekay: 4
+</div>
+              <div class="indent">
+Locktaâr: 2
+</div>
+              <div class="indent">
+Dèathnight: 2
+</div>
+              <div class="indent">
+Rágnáár: 2
+</div>
+              <div class="indent">
+Shyreal: 2
+</div>
+              <div class="indent">
+Laona: 2
+</div>
+              <div class="indent">
+Awyen: 1
+</div>
+              <div class="indent">
+Aleksândra: 1
+</div>
+              <div class="indent">
+Terránigma: 1
+</div>
+              <div class="indent">
+Sharia: 1
+</div>
+              <div class="indent">
+Sos: 1
+</div>
+              <div class="indent">
+Thomämmer: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=3&amp;start=2057558&amp;end=2273906&amp;type=auras&amp;spells=debuffs&amp;ability=283651" target="_blank" data-wowhead="spell=283651">Blinding Faith</a>
+              <br />
+              <div class="indent">
+Rágnáár: 3
+</div>
+              <div class="indent">
+Dèathnight: 2
+</div>
+              <div class="indent">
+Laona: 2
+</div>
+              <div class="indent">
+Aleksândra: 1
+</div>
+              <div class="indent">
+Walgaz: 1
+</div>
+              <div class="indent">
+Terránigma: 1
+</div>
+              <div class="indent">
+Deekay: 1
+</div>
+              <div class="indent">
+Sharia: 1
+</div>
+              <div class="indent">
+Locktaâr: 1
+</div>
+              <div class="indent">
+Thomämmer: 1
+</div>
+              <div class="indent">
+Shyreal: 1
+</div>
+              <br />
+            </div>
+          </section>
+        </section>
+        <section id="ChampionoftheLightHeroicdetailcontent">
+          <input id="Try1id5detailed" type="radio" name="detailed" />
+          <label for="Try1id5detailed">Champion of the Light (Heroic): Try 1 (id: 5)</label>
+          <section id="Try1id5detailedcontent">
+            <div>
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=5&amp;start=2734385&amp;end=2818059&amp;type=damage-taken&amp;ability=283582" target="_blank" data-wowhead="spell=283582">Consecration</a>
+              <br />
+              <div class="indent">
+Rágnáár: 3
+</div>
+              <div class="indent">
+Deekay: 2
+</div>
+              <div class="indent">
+Laona: 2
+</div>
+              <div class="indent">
+Endiness: 1
+</div>
+              <div class="indent">
+Terránigma: 1
+</div>
+              <div class="indent">
+Dèathnight: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=5&amp;start=2734385&amp;end=2818059&amp;type=auras&amp;spells=debuffs&amp;ability=283617" target="_blank" data-wowhead="spell=283617">Wave of Light</a>
+              <br />
+              <div class="indent">
+Deekay: 3
+</div>
+              <div class="indent">
+Dèathnight: 1
+</div>
+              <div class="indent">
+Rágnáár: 1
+</div>
+              <div class="indent">
+Laona: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=5&amp;start=2734385&amp;end=2818059&amp;type=auras&amp;spells=debuffs&amp;ability=283651" target="_blank" data-wowhead="spell=283651">Blinding Faith</a>
+              <br />
+              <div class="indent">
+Aleksândra: 1
+</div>
+              <div class="indent">
+Cord: 1
+</div>
+              <div class="indent">
+Walgaz: 1
+</div>
+              <div class="indent">
+Thsndftz: 1
+</div>
+              <div class="indent">
+Thomämmer: 1
+</div>
+              <div class="indent">
+Shyreal: 1
+</div>
+              <br />
+            </div>
+          </section>
+        </section>
+        <section id="JadefireMastersHeroicdetailcontent">
+          <input id="Try1id8detailed" type="radio" name="detailed" />
+          <label for="Try1id8detailed">Jadefire Masters (Heroic): Try 1 (id: 8)</label>
+          <section id="Try1id8detailedcontent">
+            <div>
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=8&amp;start=3162134&amp;end=3409694&amp;type=damage-taken&amp;ability=284028" target="_blank" data-wowhead="spell=284028">Multi-Sided Strike</a>
+              <br />
+              <div class="indent">
+Endiness: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=8&amp;start=3162134&amp;end=3409694&amp;type=damage-taken&amp;ability=286503" target="_blank" data-wowhead="spell=286503">Beam</a>
+              <br />
+              <div class="indent">
+Awyen: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=8&amp;start=3162134&amp;end=3409694&amp;type=damage-taken&amp;ability=284388" target="_blank" data-wowhead="spell=284388">Phoenix Strike</a>
+              <br />
+              <div class="indent">
+Deekay: 4
+</div>
+              <div class="indent">
+Sharia: 4
+</div>
+              <div class="indent">
+Dèathnight: 3
+</div>
+              <div class="indent">
+Thomämmer: 3
+</div>
+              <div class="indent">
+Shyreal: 3
+</div>
+              <div class="indent">
+Awyen: 2
+</div>
+              <div class="indent">
+Locktaâr: 2
+</div>
+              <div class="indent">
+Laona: 2
+</div>
+              <div class="indent">
+Walgaz: 2
+</div>
+              <div class="indent">
+Cord: 1
+</div>
+              <div class="indent">
+Sos: 1
+</div>
+              <div class="indent">
+Aleksândra: 1
+</div>
+              <div class="indent">
+Terránigma: 1
+</div>
+              <div class="indent">
+Thsndftz: 1
+</div>
+              <br />
+            </div>
+          </section>
+        </section>
+        <section id="GrongtheRevenantHeroicdetailcontent">
+          <input id="Try1id11detailed" type="radio" name="detailed" />
+          <label for="Try1id11detailed">Grong the Revenant (Heroic): Try 1 (id: 11)</label>
+          <section id="Try1id11detailedcontent">
+            <div>
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=11&amp;start=3727978&amp;end=3930336&amp;type=damage-taken&amp;ability=282545" target="_blank" data-wowhead="spell=282545">Deathly Echo</a>
+              <br />
+              <div class="indent">
+Aleksândra: 1
+</div>
+              <div class="indent">
+Cord: 1
+</div>
+              <div class="indent">
+Deekay: 1
+</div>
+              <div class="indent">
+Rágnáár: 1
+</div>
+              <div class="indent">
+Blòódý: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=11&amp;start=3727978&amp;end=3930336&amp;type=damage-taken&amp;ability=286430" target="_blank" data-wowhead="spell=286430">Spirit Dispersion</a>
+              <br />
+              <div class="indent">
+Aleksândra: 3
+</div>
+              <div class="indent">
+Terránigma: 3
+</div>
+              <div class="indent">
+Rágnáár: 3
+</div>
+              <div class="indent">
+Locktaâr: 2
+</div>
+              <div class="indent">
+Laona: 2
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=11&amp;start=3727978&amp;end=3930336&amp;type=auras&amp;spells=debuffs&amp;ability=285998" target="_blank" data-wowhead="spell=285998">Ferocious Roar</a>
+              <br />
+              <div class="indent">
+Rágnáár: 2
+</div>
+              <div class="indent">
+Endiness: 1
+</div>
+              <div class="indent">
+Sos: 1
+</div>
+              <div class="indent">
+Locktaâr: 1
+</div>
+              <div class="indent">
+Laona: 1
+</div>
+              <br />
+            </div>
+          </section>
+        </section>
+        <section id="OpulenceHeroicdetailcontent">
+          <input id="Try1id13detailed" type="radio" name="detailed" />
+          <label for="Try1id13detailed">Opulence (Heroic): Try 1 (id: 13)</label>
+          <section id="Try1id13detailedcontent">
+            <div>
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=13&amp;start=4398738&amp;end=4820080&amp;type=damage-taken&amp;ability=287074" target="_blank" data-wowhead="spell=287074">Molten Gold</a>
+              <br />
+              <div class="indent">
+Awyen: 1
+</div>
+              <div class="indent">
+Sharia: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=13&amp;start=4398738&amp;end=4820080&amp;type=damage-taken&amp;ability=284424" target="_blank" data-wowhead="spell=284424">Scorching Ground</a>
+              <br />
+              <div class="indent">
+Rágnáár: 9
+</div>
+              <div class="indent">
+Aleksândra: 5
+</div>
+              <div class="indent">
+Dèathnight: 5
+</div>
+              <div class="indent">
+Laona: 5
+</div>
+              <div class="indent">
+Shyreal: 4
+</div>
+              <div class="indent">
+Awyen: 3
+</div>
+              <div class="indent">
+Deekay: 3
+</div>
+              <div class="indent">
+Terránigma: 2
+</div>
+              <div class="indent">
+Locktaâr: 2
+</div>
+              <div class="indent">
+Cord: 1
+</div>
+              <div class="indent">
+Sharia: 1
+</div>
+              <div class="indent">
+Sos: 1
+</div>
+              <div class="indent">
+Thomämmer: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=13&amp;start=4398738&amp;end=4820080&amp;type=damage-taken&amp;ability=285479" target="_blank" data-wowhead="spell=285479">Flame Jet</a>
+              <br />
+              <div class="indent">
+Laona: 5
+</div>
+              <div class="indent">
+Awyen: 4
+</div>
+              <div class="indent">
+Aleksândra: 4
+</div>
+              <div class="indent">
+Sos: 3
+</div>
+              <div class="indent">
+Rágnáár: 3
+</div>
+              <div class="indent">
+Thomämmer: 3
+</div>
+              <div class="indent">
+Terránigma: 2
+</div>
+              <div class="indent">
+Dèathnight: 2
+</div>
+              <div class="indent">
+Blòódý: 2
+</div>
+              <div class="indent">
+Cord: 1
+</div>
+              <div class="indent">
+Endiness: 1
+</div>
+              <div class="indent">
+Walgaz: 1
+</div>
+              <div class="indent">
+Deekay: 1
+</div>
+              <div class="indent">
+Sharia: 1
+</div>
+              <div class="indent">
+Shyreal: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=13&amp;start=4398738&amp;end=4820080&amp;type=damage-taken&amp;ability=287513" target="_blank" data-wowhead="spell=287513">Flames of Punishment</a>
+              <br />
+              <div class="indent">
+Walgaz: 3
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=13&amp;start=4398738&amp;end=4820080&amp;type=auras&amp;spells=debuffs&amp;ability=283610" target="_blank" data-wowhead="spell=283610">Crush</a>
+              <br />
+              <div class="indent">
+Cord: 3
+</div>
+              <div class="indent">
+Shyreal: 3
+</div>
+              <div class="indent">
+Awyen: 1
+</div>
+              <div class="indent">
+Endiness: 1
+</div>
+              <div class="indent">
+Laona: 1
+</div>
+              <div class="indent">
+Aleksândra: 1
+</div>
+              <div class="indent">
+Walgaz: 1
+</div>
+              <div class="indent">
+Sos: 1
+</div>
+              <div class="indent">
+Rágnáár: 1
+</div>
+              <br />
+            </div>
+          </section>
+        </section>
+        <section id="ConclaveoftheChosenHeroicdetailcontent">
+          <input id="Try1id15detailed" type="radio" name="detailed" />
+          <label for="Try1id15detailed">Conclave of the Chosen (Heroic): Try 1 (id: 15)</label>
+          <input id="Try2id16detailed" type="radio" name="detailed" />
+          <label for="Try2id16detailed">Conclave of the Chosen (Heroic): Try 2 (id: 16)</label>
+          <input id="Try3id17detailed" type="radio" name="detailed" />
+          <label for="Try3id17detailed">Conclave of the Chosen (Heroic): Try 3 (id: 17)</label>
+          <input id="Try4id18detailed" type="radio" name="detailed" />
+          <label for="Try4id18detailed">Conclave of the Chosen (Heroic): Try 4 (id: 18)</label>
+          <section id="Try1id15detailedcontent">
+            <div>
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=15&amp;start=5951437&amp;end=6095382&amp;type=damage-taken&amp;ability=282636" target="_blank" data-wowhead="spell=282636">Krag'wa's Wrath</a>
+              <br />
+              <div class="indent">
+Awyen: 4
+</div>
+              <div class="indent">
+Shyreal: 3
+</div>
+              <div class="indent">
+Locktaâr: 2
+</div>
+              <div class="indent">
+Aleksândra: 1
+</div>
+              <div class="indent">
+Cord: 1
+</div>
+              <div class="indent">
+Deekay: 1
+</div>
+              <div class="indent">
+Sharia: 1
+</div>
+              <div class="indent">
+Sos: 1
+</div>
+              <div class="indent">
+Dèathnight: 1
+</div>
+              <div class="indent">
+Blòódý: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=15&amp;start=5951437&amp;end=6095382&amp;type=damage-taken&amp;ability=282411" target="_blank" data-wowhead="spell=282411">Thundering Storm</a>
+              <br />
+              <div class="indent">
+Awyen: 1
+</div>
+              <div class="indent">
+Aleksândra: 1
+</div>
+              <div class="indent">
+Endiness: 1
+</div>
+              <div class="indent">
+Walgaz: 1
+</div>
+              <div class="indent">
+Deekay: 1
+</div>
+              <div class="indent">
+Sharia: 1
+</div>
+              <div class="indent">
+Sos: 1
+</div>
+              <div class="indent">
+Rágnáár: 1
+</div>
+              <div class="indent">
+Blòódý: 1
+</div>
+              <div class="indent">
+Shyreal: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=15&amp;start=5951437&amp;end=6095382&amp;type=auras&amp;spells=debuffs&amp;ability=282444" target="_blank" data-wowhead="spell=282444">Lacerating Claws</a>
+              <br />
+              <div class="indent">
+Locktaâr: 3
+</div>
+              <div class="indent">
+Endiness: 2
+</div>
+              <div class="indent">
+Deekay: 2
+</div>
+              <br />
+            </div>
+          </section>
+          <section id="Try2id16detailedcontent">
+            <div>
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=16&amp;start=6289010&amp;end=6614279&amp;type=damage-taken&amp;ability=286838" target="_blank" data-wowhead="spell=286838">Static Orb</a>
+              <br />
+              <div class="indent">
+Laona: 2
+</div>
+              <div class="indent">
+Thsndftz: 1
+</div>
+              <div class="indent">
+Blòódý: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=16&amp;start=6289010&amp;end=6614279&amp;type=damage-taken&amp;ability=282636" target="_blank" data-wowhead="spell=282636">Krag'wa's Wrath</a>
+              <br />
+              <div class="indent">
+Thsndftz: 2
+</div>
+              <div class="indent">
+Rágnáár: 2
+</div>
+              <div class="indent">
+Cord: 1
+</div>
+              <div class="indent">
+Deekay: 1
+</div>
+              <div class="indent">
+Sos: 1
+</div>
+              <div class="indent">
+Laona: 1
+</div>
+              <div class="indent">
+Shyreal: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=16&amp;start=6289010&amp;end=6614279&amp;type=damage-taken&amp;ability=282411" target="_blank" data-wowhead="spell=282411">Thundering Storm</a>
+              <br />
+              <div class="indent">
+Cord: 2
+</div>
+              <div class="indent">
+Aleksândra: 2
+</div>
+              <div class="indent">
+Awyen: 1
+</div>
+              <div class="indent">
+Deekay: 1
+</div>
+              <div class="indent">
+Terránigma: 1
+</div>
+              <div class="indent">
+Sos: 1
+</div>
+              <div class="indent">
+Locktaâr: 1
+</div>
+              <div class="indent">
+Dèathnight: 1
+</div>
+              <div class="indent">
+Rágnáár: 1
+</div>
+              <div class="indent">
+Blòódý: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=16&amp;start=6289010&amp;end=6614279&amp;type=auras&amp;spells=debuffs&amp;ability=282444" target="_blank" data-wowhead="spell=282444">Lacerating Claws</a>
+              <br />
+              <div class="indent">
+Endiness: 2
+</div>
+              <div class="indent">
+Deekay: 1
+</div>
+              <br />
+            </div>
+          </section>
+          <section id="Try3id17detailedcontent">
+            <div>
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=17&amp;start=6944415&amp;end=7330825&amp;type=damage-taken&amp;ability=286838" target="_blank" data-wowhead="spell=286838">Static Orb</a>
+              <br />
+              <div class="indent">
+Aleksândra: 2
+</div>
+              <div class="indent">
+Cord: 2
+</div>
+              <div class="indent">
+Terránigma: 2
+</div>
+              <div class="indent">
+Sos: 1
+</div>
+              <div class="indent">
+Thsndftz: 1
+</div>
+              <div class="indent">
+Dèathnight: 1
+</div>
+              <div class="indent">
+Laona: 1
+</div>
+              <div class="indent">
+Shyreal: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=17&amp;start=6944415&amp;end=7330825&amp;type=damage-taken&amp;ability=282636" target="_blank" data-wowhead="spell=282636">Krag'wa's Wrath</a>
+              <br />
+              <div class="indent">
+Cord: 4
+</div>
+              <div class="indent">
+Sos: 4
+</div>
+              <div class="indent">
+Thomämmer: 4
+</div>
+              <div class="indent">
+Rágnáár: 3
+</div>
+              <div class="indent">
+Endiness: 2
+</div>
+              <div class="indent">
+Deekay: 2
+</div>
+              <div class="indent">
+Dèathnight: 2
+</div>
+              <div class="indent">
+Awyen: 1
+</div>
+              <div class="indent">
+Locktaâr: 1
+</div>
+              <div class="indent">
+Laona: 1
+</div>
+              <div class="indent">
+Walgaz: 1
+</div>
+              <div class="indent">
+Terránigma: 1
+</div>
+              <div class="indent">
+Sharia: 1
+</div>
+              <div class="indent">
+Thsndftz: 1
+</div>
+              <div class="indent">
+Blòódý: 1
+</div>
+              <div class="indent">
+Shyreal: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=17&amp;start=6944415&amp;end=7330825&amp;type=damage-taken&amp;ability=282411" target="_blank" data-wowhead="spell=282411">Thundering Storm</a>
+              <br />
+              <div class="indent">
+Cord: 3
+</div>
+              <div class="indent">
+Awyen: 2
+</div>
+              <div class="indent">
+Sharia: 2
+</div>
+              <div class="indent">
+Thomämmer: 2
+</div>
+              <div class="indent">
+Blòódý: 2
+</div>
+              <div class="indent">
+Aleksândra: 1
+</div>
+              <div class="indent">
+Walgaz: 1
+</div>
+              <div class="indent">
+Deekay: 1
+</div>
+              <div class="indent">
+Sos: 1
+</div>
+              <div class="indent">
+Dèathnight: 1
+</div>
+              <div class="indent">
+Rágnáár: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=17&amp;start=6944415&amp;end=7330825&amp;type=auras&amp;spells=debuffs&amp;ability=282444" target="_blank" data-wowhead="spell=282444">Lacerating Claws</a>
+              <br />
+              <div class="indent">
+Endiness: 2
+</div>
+              <div class="indent">
+Deekay: 2
+</div>
+              <div class="indent">
+Aleksândra: 1
+</div>
+              <br />
+            </div>
+          </section>
+          <section id="Try4id18detailedcontent">
+            <div>
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=18&amp;start=7570492&amp;end=7963407&amp;type=damage-taken&amp;ability=286838" target="_blank" data-wowhead="spell=286838">Static Orb</a>
+              <br />
+              <div class="indent">
+Awyen: 2
+</div>
+              <div class="indent">
+Thomämmer: 2
+</div>
+              <div class="indent">
+Blòódý: 2
+</div>
+              <div class="indent">
+Laona: 2
+</div>
+              <div class="indent">
+Sharia: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=18&amp;start=7570492&amp;end=7963407&amp;type=damage-taken&amp;ability=282636" target="_blank" data-wowhead="spell=282636">Krag'wa's Wrath</a>
+              <br />
+              <div class="indent">
+Awyen: 5
+</div>
+              <div class="indent">
+Sos: 4
+</div>
+              <div class="indent">
+Walgaz: 3
+</div>
+              <div class="indent">
+Rágnáár: 3
+</div>
+              <div class="indent">
+Cord: 2
+</div>
+              <div class="indent">
+Sharia: 2
+</div>
+              <div class="indent">
+Thomämmer: 2
+</div>
+              <div class="indent">
+Shyreal: 2
+</div>
+              <div class="indent">
+Endiness: 1
+</div>
+              <div class="indent">
+Locktaâr: 1
+</div>
+              <div class="indent">
+Aleksândra: 1
+</div>
+              <div class="indent">
+Deekay: 1
+</div>
+              <div class="indent">
+Terránigma: 1
+</div>
+              <div class="indent">
+Thsndftz: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=18&amp;start=7570492&amp;end=7963407&amp;type=damage-taken&amp;ability=282411" target="_blank" data-wowhead="spell=282411">Thundering Storm</a>
+              <br />
+              <div class="indent">
+Awyen: 1
+</div>
+              <div class="indent">
+Cord: 1
+</div>
+              <div class="indent">
+Deekay: 1
+</div>
+              <div class="indent">
+Thsndftz: 1
+</div>
+              <div class="indent">
+Shyreal: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=18&amp;start=7570492&amp;end=7963407&amp;type=auras&amp;spells=debuffs&amp;ability=282444" target="_blank" data-wowhead="spell=282444">Lacerating Claws</a>
+              <br />
+              <div class="indent">
+Endiness: 3
+</div>
+              <div class="indent">
+Deekay: 2
+</div>
+              <div class="indent">
+Awyen: 1
+</div>
+              <div class="indent">
+Aleksândra: 1
+</div>
+              <div class="indent">
+Locktaâr: 1
+</div>
+              <div class="indent">
+Thsndftz: 1
+</div>
+              <br />
+            </div>
+          </section>
+        </section>
+        <section id="KingRastakhanHeroicdetailcontent">
+          <input id="Try1id22detailed" type="radio" name="detailed" />
+          <label for="Try1id22detailed">King Rastakhan (Heroic): Try 1 (id: 22)</label>
+          <section id="Try1id22detailedcontent">
+            <div>
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=22&amp;start=12215820&amp;end=12620894&amp;type=damage-taken&amp;ability=285010" target="_blank" data-wowhead="spell=285010">Poison Toad Slime</a>
+              <br />
+              <div class="indent">
+Dèathnight: 2
+</div>
+              <div class="indent">
+Awyen: 1
+</div>
+              <div class="indent">
+Rágnáár: 1
+</div>
+              <div class="indent">
+Laona: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=22&amp;start=12215820&amp;end=12620894&amp;type=damage-taken&amp;ability=285178" target="_blank" data-wowhead="spell=285178">Serpent's Breath</a>
+              <br />
+              <div class="indent">
+Awyen: 1
+</div>
+              <div class="indent">
+Thsndftz: 1
+</div>
+              <div class="indent">
+Sos: 1
+</div>
+              <div class="indent">
+Cord: 1
+</div>
+              <div class="indent">
+Blòódý: 1
+</div>
+              <div class="indent">
+Sharia: 1
+</div>
+              <div class="indent">
+Thomämmer: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=22&amp;start=12215820&amp;end=12620894&amp;type=damage-taken&amp;ability=287147" target="_blank" data-wowhead="spell=287147">Dread Reaping</a>
+              <br />
+              <div class="indent">
+Awyen: 7
+</div>
+              <div class="indent">
+Thomämmer: 7
+</div>
+              <div class="indent">
+Aleksândra: 6
+</div>
+              <div class="indent">
+Rágnáár: 5
+</div>
+              <div class="indent">
+Thsndftz: 3
+</div>
+              <div class="indent">
+Endiness: 2
+</div>
+              <div class="indent">
+Blòódý: 2
+</div>
+              <div class="indent">
+Sharia: 2
+</div>
+              <div class="indent">
+Laona: 1
+</div>
+              <div class="indent">
+Cord: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=22&amp;start=12215820&amp;end=12620894&amp;type=damage-taken&amp;ability=286742" target="_blank" data-wowhead="spell=286742">Necrotic Smash</a>
+              <br />
+              <div class="indent">
+Rágnáár: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=22&amp;start=12215820&amp;end=12620894&amp;type=auras&amp;spells=debuffs&amp;ability=285044" target="_blank" data-wowhead="spell=285044">Toad Toxin</a>
+              <br />
+              <div class="indent">
+Rágnáár: 3
+</div>
+              <div class="indent">
+Aleksândra: 2
+</div>
+              <div class="indent">
+Endiness: 2
+</div>
+              <div class="indent">
+Laona: 2
+</div>
+              <div class="indent">
+Terránigma: 2
+</div>
+              <div class="indent">
+Dèathnight: 2
+</div>
+              <div class="indent">
+Cord: 1
+</div>
+              <div class="indent">
+Blòódý: 1
+</div>
+              <div class="indent">
+Sharia: 1
+</div>
+              <div class="indent">
+Deekay: 1
+</div>
+              <br />
+            </div>
+          </section>
+        </section>
+        <section id="MekkatorqueHeroicdetailcontent">
+          <input id="Try1id25detailed" type="radio" name="detailed" />
+          <label for="Try1id25detailed">Mekkatorque (Heroic): Try 1 (id: 25)</label>
+          <input id="Try2id26detailed" type="radio" name="detailed" />
+          <label for="Try2id26detailed">Mekkatorque (Heroic): Try 2 (id: 26)</label>
+          <input id="Try3id28detailed" type="radio" name="detailed" />
+          <label for="Try3id28detailed">Mekkatorque (Heroic): Try 3 (id: 28)</label>
+          <input id="Try4id29detailed" type="radio" name="detailed" />
+          <label for="Try4id29detailed">Mekkatorque (Heroic): Try 4 (id: 29)</label>
+          <input id="Try5id31detailed" type="radio" name="detailed" />
+          <label for="Try5id31detailed">Mekkatorque (Heroic): Try 5 (id: 31)</label>
+          <section id="Try1id25detailedcontent">
+            <div>
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=25&amp;start=12989514&amp;end=13415465&amp;type=damage-taken&amp;ability=282182" target="_blank" data-wowhead="spell=282182">Buster Cannon</a>
+              <br />
+              <div class="indent">
+Rágnáár: 2
+</div>
+              <div class="indent">
+Aleksândra: 2
+</div>
+              <div class="indent">
+Cord: 2
+</div>
+              <div class="indent">
+Sos: 1
+</div>
+              <div class="indent">
+Blòódý: 1
+</div>
+              <div class="indent">
+Deekay: 1
+</div>
+              <div class="indent">
+Dèathnight: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=25&amp;start=12989514&amp;end=13415465&amp;type=damage-taken&amp;ability=287891" target="_blank" data-wowhead="spell=287891">Sheep Shrapnel</a>
+              <br />
+              <div class="indent">
+Awyen: 3
+</div>
+              <div class="indent">
+Cord: 3
+</div>
+              <div class="indent">
+Dèathnight: 3
+</div>
+              <div class="indent">
+Aleksândra: 2
+</div>
+              <div class="indent">
+Rágnáár: 1
+</div>
+              <div class="indent">
+Sos: 1
+</div>
+              <div class="indent">
+Laona: 1
+</div>
+              <div class="indent">
+Blòódý: 1
+</div>
+              <div class="indent">
+Sharia: 1
+</div>
+              <div class="indent">
+Deekay: 1
+</div>
+              <div class="indent">
+Thomämmer: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=25&amp;start=12989514&amp;end=13415465&amp;type=damage-taken&amp;ability=282408" target="_blank" data-wowhead="spell=282408">Spark Pulse</a>
+              <br />
+              <div class="indent">
+Deekay: 4
+</div>
+              <div class="indent">
+Cord: 2
+</div>
+              <div class="indent">
+Rágnáár: 1
+</div>
+              <div class="indent">
+Aleksândra: 1
+</div>
+              <div class="indent">
+Endiness: 1
+</div>
+              <div class="indent">
+Laona: 1
+</div>
+              <div class="indent">
+Blòódý: 1
+</div>
+              <div class="indent">
+Sharia: 1
+</div>
+              <div class="indent">
+Terránigma: 1
+</div>
+              <br />
+            </div>
+          </section>
+          <section id="Try2id26detailedcontent">
+            <div>
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=26&amp;start=13568857&amp;end=13832899&amp;type=damage-taken&amp;ability=282182" target="_blank" data-wowhead="spell=282182">Buster Cannon</a>
+              <br />
+              <div class="indent">
+Thsndftz: 1
+</div>
+              <div class="indent">
+Sos: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=26&amp;start=13568857&amp;end=13832899&amp;type=damage-taken&amp;ability=287891" target="_blank" data-wowhead="spell=287891">Sheep Shrapnel</a>
+              <br />
+              <div class="indent">
+Cord: 2
+</div>
+              <div class="indent">
+Dèathnight: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=26&amp;start=13568857&amp;end=13832899&amp;type=damage-taken&amp;ability=282408" target="_blank" data-wowhead="spell=282408">Spark Pulse</a>
+              <br />
+              <div class="indent">
+Awyen: 3
+</div>
+              <div class="indent">
+Endiness: 3
+</div>
+              <div class="indent">
+Aleksândra: 2
+</div>
+              <div class="indent">
+Cord: 2
+</div>
+              <div class="indent">
+Blòódý: 2
+</div>
+              <div class="indent">
+Deekay: 2
+</div>
+              <div class="indent">
+Rágnáár: 1
+</div>
+              <div class="indent">
+Thsndftz: 1
+</div>
+              <div class="indent">
+Sharia: 1
+</div>
+              <div class="indent">
+Thomämmer: 1
+</div>
+              <br />
+            </div>
+          </section>
+          <section id="Try3id28detailedcontent">
+            <div>
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=28&amp;start=13968674&amp;end=14244786&amp;type=damage-taken&amp;ability=282182" target="_blank" data-wowhead="spell=282182">Buster Cannon</a>
+              <br />
+              <div class="indent">
+Aleksândra: 2
+</div>
+              <div class="indent">
+Sos: 1
+</div>
+              <div class="indent">
+Cord: 1
+</div>
+              <div class="indent">
+Deekay: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=28&amp;start=13968674&amp;end=14244786&amp;type=damage-taken&amp;ability=287891" target="_blank" data-wowhead="spell=287891">Sheep Shrapnel</a>
+              <br />
+              <div class="indent">
+Blòódý: 2
+</div>
+              <div class="indent">
+Awyen: 1
+</div>
+              <div class="indent">
+Sharia: 1
+</div>
+              <div class="indent">
+Terránigma: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=28&amp;start=13968674&amp;end=14244786&amp;type=damage-taken&amp;ability=282408" target="_blank" data-wowhead="spell=282408">Spark Pulse</a>
+              <br />
+              <div class="indent">
+Rágnáár: 1
+</div>
+              <div class="indent">
+Sos: 1
+</div>
+              <div class="indent">
+Sharia: 1
+</div>
+              <br />
+            </div>
+          </section>
+          <section id="Try4id29detailedcontent">
+            <div>
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=29&amp;start=14349889&amp;end=14784783&amp;type=damage-taken&amp;ability=282182" target="_blank" data-wowhead="spell=282182">Buster Cannon</a>
+              <br />
+              <div class="indent">
+Thomämmer: 2
+</div>
+              <div class="indent">
+Awyen: 1
+</div>
+              <div class="indent">
+Cord: 1
+</div>
+              <div class="indent">
+Deekay: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=29&amp;start=14349889&amp;end=14784783&amp;type=damage-taken&amp;ability=287891" target="_blank" data-wowhead="spell=287891">Sheep Shrapnel</a>
+              <br />
+              <div class="indent">
+Cord: 3
+</div>
+              <div class="indent">
+Deekay: 3
+</div>
+              <div class="indent">
+Endiness: 2
+</div>
+              <div class="indent">
+Laona: 2
+</div>
+              <div class="indent">
+Rágnáár: 1
+</div>
+              <div class="indent">
+Awyen: 1
+</div>
+              <div class="indent">
+Blòódý: 1
+</div>
+              <div class="indent">
+Thomämmer: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=29&amp;start=14349889&amp;end=14784783&amp;type=damage-taken&amp;ability=282408" target="_blank" data-wowhead="spell=282408">Spark Pulse</a>
+              <br />
+              <div class="indent">
+Aleksândra: 5
+</div>
+              <div class="indent">
+Awyen: 2
+</div>
+              <div class="indent">
+Laona: 2
+</div>
+              <div class="indent">
+Dèathnight: 2
+</div>
+              <div class="indent">
+Thsndftz: 1
+</div>
+              <div class="indent">
+Sharia: 1
+</div>
+              <div class="indent">
+Terránigma: 1
+</div>
+              <div class="indent">
+Deekay: 1
+</div>
+              <br />
+            </div>
+          </section>
+          <section id="Try5id31detailedcontent">
+            <div>
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=31&amp;start=14949721&amp;end=15394841&amp;type=damage-taken&amp;ability=282182" target="_blank" data-wowhead="spell=282182">Buster Cannon</a>
+              <br />
+              <div class="indent">
+Aleksândra: 3
+</div>
+              <div class="indent">
+Blòódý: 2
+</div>
+              <div class="indent">
+Sharia: 1
+</div>
+              <div class="indent">
+Thomämmer: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=31&amp;start=14949721&amp;end=15394841&amp;type=damage-taken&amp;ability=287891" target="_blank" data-wowhead="spell=287891">Sheep Shrapnel</a>
+              <br />
+              <div class="indent">
+Awyen: 3
+</div>
+              <div class="indent">
+Endiness: 2
+</div>
+              <div class="indent">
+Laona: 2
+</div>
+              <div class="indent">
+Blòódý: 2
+</div>
+              <div class="indent">
+Rágnáár: 1
+</div>
+              <div class="indent">
+Thsndftz: 1
+</div>
+              <div class="indent">
+Aleksândra: 1
+</div>
+              <div class="indent">
+Cord: 1
+</div>
+              <div class="indent">
+Sharia: 1
+</div>
+              <br />
+              <a href="https://www.warcraftlogs.com/reports/D4YBKjcZn2WFk8HT#fight=31&amp;start=14949721&amp;end=15394841&amp;type=damage-taken&amp;ability=282408" target="_blank" data-wowhead="spell=282408">Spark Pulse</a>
+              <br />
+              <div class="indent">
+Awyen: 3
+</div>
+              <div class="indent">
+Rágnáár: 2
+</div>
+              <div class="indent">
+Laona: 2
+</div>
+              <div class="indent">
+Aleksândra: 1
+</div>
+              <div class="indent">
+Endiness: 1
+</div>
+              <div class="indent">
+Cord: 1
+</div>
+              <div class="indent">
+Sharia: 1
+</div>
+              <div class="indent">
+Deekay: 1
+</div>
+              <div class="indent">
+Dèathnight: 1
+</div>
+              <div class="indent">
+Thomämmer: 1
+</div>
+              <br />
+            </div>
+          </section>
+        </section>
+        <section id="Try1id1detailedcontent">
+          <div>
+            <a href="https://www.wowhead.com/spell=283582" target="_blank">Consecration</a>
+            <br />
+            <div class="indent">
+Rágnáár: 5
+</div>
+            <div class="indent">
+Locktaâr: 3
+</div>
+            <div class="indent">
+Laona: 2
+</div>
+            <div class="indent">
+Terránigma: 1
+</div>
+            <div class="indent">
+Deekay: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=283617" target="_blank">Wave of Light</a>
+            <br />
+            <div class="indent">
+Deekay: 3
+</div>
+            <div class="indent">
+Locktaâr: 2
+</div>
+            <div class="indent">
+Awyen: 1
+</div>
+            <div class="indent">
+Cord: 1
+</div>
+            <div class="indent">
+Terránigma: 1
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Dèathnight: 1
+</div>
+            <div class="indent">
+Thomämmer: 1
+</div>
+            <div class="indent">
+Blòódý: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=283651" target="_blank">Blinding Faith</a>
+            <br />
+            <div class="indent">
+Deekay: 2
+</div>
+            <div class="indent">
+Sharia: 2
+</div>
+            <div class="indent">
+Aleksândra: 1
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Dèathnight: 1
+</div>
+            <div class="indent">
+Shyreal: 1
+</div>
+            <br />
+          </div>
+        </section>
+        <section id="Try2id2detailedcontent">
+          <div>
+            <a href="https://www.wowhead.com/spell=283582" target="_blank">Consecration</a>
+            <br />
+            <br />
+            <a href="https://www.wowhead.com/spell=283617" target="_blank">Wave of Light</a>
+            <br />
+            <br />
+            <a href="https://www.wowhead.com/spell=283651" target="_blank">Blinding Faith</a>
+            <br />
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Blòódý: 1
+</div>
+            <br />
+          </div>
+        </section>
+        <section id="Try3id3detailedcontent">
+          <div>
+            <a href="https://www.wowhead.com/spell=283582" target="_blank">Consecration</a>
+            <br />
+            <div class="indent">
+Laona: 4
+</div>
+            <div class="indent">
+Dèathnight: 4
+</div>
+            <div class="indent">
+Walgaz: 3
+</div>
+            <div class="indent">
+Cord: 2
+</div>
+            <div class="indent">
+Rágnáár: 2
+</div>
+            <div class="indent">
+Shyreal: 2
+</div>
+            <div class="indent">
+Locktaâr: 1
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Deekay: 1
+</div>
+            <div class="indent">
+Terránigma: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <div class="indent">
+Thsndftz: 1
+</div>
+            <div class="indent">
+Thomämmer: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=283617" target="_blank">Wave of Light</a>
+            <br />
+            <div class="indent">
+Deekay: 4
+</div>
+            <div class="indent">
+Locktaâr: 2
+</div>
+            <div class="indent">
+Dèathnight: 2
+</div>
+            <div class="indent">
+Rágnáár: 2
+</div>
+            <div class="indent">
+Shyreal: 2
+</div>
+            <div class="indent">
+Laona: 2
+</div>
+            <div class="indent">
+Awyen: 1
+</div>
+            <div class="indent">
+Aleksândra: 1
+</div>
+            <div class="indent">
+Terránigma: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Thomämmer: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=283651" target="_blank">Blinding Faith</a>
+            <br />
+            <div class="indent">
+Rágnáár: 3
+</div>
+            <div class="indent">
+Dèathnight: 2
+</div>
+            <div class="indent">
+Laona: 2
+</div>
+            <div class="indent">
+Aleksândra: 1
+</div>
+            <div class="indent">
+Walgaz: 1
+</div>
+            <div class="indent">
+Terránigma: 1
+</div>
+            <div class="indent">
+Deekay: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <div class="indent">
+Locktaâr: 1
+</div>
+            <div class="indent">
+Thomämmer: 1
+</div>
+            <div class="indent">
+Shyreal: 1
+</div>
+            <br />
+          </div>
+        </section>
+        <section id="Try1id5detailedcontent">
+          <div>
+            <a href="https://www.wowhead.com/spell=283582" target="_blank">Consecration</a>
+            <br />
+            <div class="indent">
+Rágnáár: 3
+</div>
+            <div class="indent">
+Deekay: 2
+</div>
+            <div class="indent">
+Laona: 2
+</div>
+            <div class="indent">
+Endiness: 1
+</div>
+            <div class="indent">
+Terránigma: 1
+</div>
+            <div class="indent">
+Dèathnight: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=283617" target="_blank">Wave of Light</a>
+            <br />
+            <div class="indent">
+Deekay: 3
+</div>
+            <div class="indent">
+Dèathnight: 1
+</div>
+            <div class="indent">
+Rágnáár: 1
+</div>
+            <div class="indent">
+Laona: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=283651" target="_blank">Blinding Faith</a>
+            <br />
+            <div class="indent">
+Aleksândra: 1
+</div>
+            <div class="indent">
+Cord: 1
+</div>
+            <div class="indent">
+Walgaz: 1
+</div>
+            <div class="indent">
+Thsndftz: 1
+</div>
+            <div class="indent">
+Thomämmer: 1
+</div>
+            <div class="indent">
+Shyreal: 1
+</div>
+            <br />
+          </div>
+        </section>
+        <section id="Try1id8detailedcontent">
+          <div>
+            <a href="https://www.wowhead.com/spell=284028" target="_blank">Multi-Sided Strike</a>
+            <br />
+            <div class="indent">
+Endiness: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=286503" target="_blank">Beam</a>
+            <br />
+            <div class="indent">
+Awyen: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=284388" target="_blank">Phoenix Strike</a>
+            <br />
+            <div class="indent">
+Deekay: 4
+</div>
+            <div class="indent">
+Sharia: 4
+</div>
+            <div class="indent">
+Dèathnight: 3
+</div>
+            <div class="indent">
+Thomämmer: 3
+</div>
+            <div class="indent">
+Shyreal: 3
+</div>
+            <div class="indent">
+Awyen: 2
+</div>
+            <div class="indent">
+Locktaâr: 2
+</div>
+            <div class="indent">
+Laona: 2
+</div>
+            <div class="indent">
+Walgaz: 2
+</div>
+            <div class="indent">
+Cord: 1
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Aleksândra: 1
+</div>
+            <div class="indent">
+Terránigma: 1
+</div>
+            <div class="indent">
+Thsndftz: 1
+</div>
+            <br />
+          </div>
+        </section>
+        <section id="Try1id11detailedcontent">
+          <div>
+            <a href="https://www.wowhead.com/spell=282545" target="_blank">Deathly Echo</a>
+            <br />
+            <div class="indent">
+Aleksândra: 1
+</div>
+            <div class="indent">
+Cord: 1
+</div>
+            <div class="indent">
+Deekay: 1
+</div>
+            <div class="indent">
+Rágnáár: 1
+</div>
+            <div class="indent">
+Blòódý: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=286430" target="_blank">Spirit Dispersion</a>
+            <br />
+            <div class="indent">
+Aleksândra: 3
+</div>
+            <div class="indent">
+Terránigma: 3
+</div>
+            <div class="indent">
+Rágnáár: 3
+</div>
+            <div class="indent">
+Locktaâr: 2
+</div>
+            <div class="indent">
+Laona: 2
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=285998" target="_blank">Ferocious Roar</a>
+            <br />
+            <div class="indent">
+Rágnáár: 2
+</div>
+            <div class="indent">
+Endiness: 1
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Locktaâr: 1
+</div>
+            <div class="indent">
+Laona: 1
+</div>
+            <br />
+          </div>
+        </section>
+        <section id="Try1id13detailedcontent">
+          <div>
+            <a href="https://www.wowhead.com/spell=283557" target="_blank">Volatile Charge</a>
+            <br />
+            <br />
+            <a href="https://www.wowhead.com/spell=287074" target="_blank">Molten Gold</a>
+            <br />
+            <div class="indent">
+Awyen: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=284424" target="_blank">Scorching Ground</a>
+            <br />
+            <div class="indent">
+Rágnáár: 9
+</div>
+            <div class="indent">
+Aleksândra: 5
+</div>
+            <div class="indent">
+Dèathnight: 5
+</div>
+            <div class="indent">
+Laona: 5
+</div>
+            <div class="indent">
+Shyreal: 4
+</div>
+            <div class="indent">
+Awyen: 3
+</div>
+            <div class="indent">
+Deekay: 3
+</div>
+            <div class="indent">
+Terránigma: 2
+</div>
+            <div class="indent">
+Locktaâr: 2
+</div>
+            <div class="indent">
+Cord: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Thomämmer: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=285479" target="_blank">Flame Jet</a>
+            <br />
+            <div class="indent">
+Laona: 5
+</div>
+            <div class="indent">
+Awyen: 4
+</div>
+            <div class="indent">
+Aleksândra: 4
+</div>
+            <div class="indent">
+Sos: 3
+</div>
+            <div class="indent">
+Rágnáár: 3
+</div>
+            <div class="indent">
+Thomämmer: 3
+</div>
+            <div class="indent">
+Terránigma: 2
+</div>
+            <div class="indent">
+Dèathnight: 2
+</div>
+            <div class="indent">
+Blòódý: 2
+</div>
+            <div class="indent">
+Cord: 1
+</div>
+            <div class="indent">
+Endiness: 1
+</div>
+            <div class="indent">
+Walgaz: 1
+</div>
+            <div class="indent">
+Deekay: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <div class="indent">
+Shyreal: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=287513" target="_blank">Flames of Punishment</a>
+            <br />
+            <div class="indent">
+Walgaz: 3
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=283610" target="_blank">Crush</a>
+            <br />
+            <div class="indent">
+Cord: 3
+</div>
+            <div class="indent">
+Shyreal: 3
+</div>
+            <div class="indent">
+Awyen: 1
+</div>
+            <div class="indent">
+Endiness: 1
+</div>
+            <div class="indent">
+Laona: 1
+</div>
+            <div class="indent">
+Aleksândra: 1
+</div>
+            <div class="indent">
+Walgaz: 1
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Rágnáár: 1
+</div>
+            <br />
+          </div>
+        </section>
+        <section id="Try1id15detailedcontent">
+          <div>
+            <a href="https://www.wowhead.com/spell=286838" target="_blank">Static Orb</a>
+            <br />
+            <br />
+            <a href="https://www.wowhead.com/spell=282636" target="_blank">Krag'wa's Wrath</a>
+            <br />
+            <div class="indent">
+Awyen: 4
+</div>
+            <div class="indent">
+Shyreal: 3
+</div>
+            <div class="indent">
+Locktaâr: 2
+</div>
+            <div class="indent">
+Aleksândra: 1
+</div>
+            <div class="indent">
+Cord: 1
+</div>
+            <div class="indent">
+Deekay: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Dèathnight: 1
+</div>
+            <div class="indent">
+Blòódý: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=282411" target="_blank">Thundering Storm</a>
+            <br />
+            <div class="indent">
+Awyen: 1
+</div>
+            <div class="indent">
+Aleksândra: 1
+</div>
+            <div class="indent">
+Endiness: 1
+</div>
+            <div class="indent">
+Walgaz: 1
+</div>
+            <div class="indent">
+Deekay: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Rágnáár: 1
+</div>
+            <div class="indent">
+Blòódý: 1
+</div>
+            <div class="indent">
+Shyreal: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=282444" target="_blank">Lacerating Claws</a>
+            <br />
+            <div class="indent">
+Locktaâr: 3
+</div>
+            <div class="indent">
+Endiness: 2
+</div>
+            <div class="indent">
+Deekay: 2
+</div>
+            <br />
+          </div>
+        </section>
+        <section id="Try2id16detailedcontent">
+          <div>
+            <a href="https://www.wowhead.com/spell=286838" target="_blank">Static Orb</a>
+            <br />
+            <div class="indent">
+Laona: 2
+</div>
+            <div class="indent">
+Thsndftz: 1
+</div>
+            <div class="indent">
+Blòódý: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=282636" target="_blank">Krag'wa's Wrath</a>
+            <br />
+            <div class="indent">
+Thsndftz: 2
+</div>
+            <div class="indent">
+Rágnáár: 2
+</div>
+            <div class="indent">
+Cord: 1
+</div>
+            <div class="indent">
+Deekay: 1
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Laona: 1
+</div>
+            <div class="indent">
+Shyreal: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=282411" target="_blank">Thundering Storm</a>
+            <br />
+            <div class="indent">
+Cord: 2
+</div>
+            <div class="indent">
+Aleksândra: 2
+</div>
+            <div class="indent">
+Awyen: 1
+</div>
+            <div class="indent">
+Deekay: 1
+</div>
+            <div class="indent">
+Terránigma: 1
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Locktaâr: 1
+</div>
+            <div class="indent">
+Dèathnight: 1
+</div>
+            <div class="indent">
+Rágnáár: 1
+</div>
+            <div class="indent">
+Blòódý: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=282444" target="_blank">Lacerating Claws</a>
+            <br />
+            <div class="indent">
+Endiness: 2
+</div>
+            <div class="indent">
+Deekay: 1
+</div>
+            <br />
+          </div>
+        </section>
+        <section id="Try3id17detailedcontent">
+          <div>
+            <a href="https://www.wowhead.com/spell=286838" target="_blank">Static Orb</a>
+            <br />
+            <div class="indent">
+Aleksândra: 2
+</div>
+            <div class="indent">
+Cord: 2
+</div>
+            <div class="indent">
+Terránigma: 2
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Thsndftz: 1
+</div>
+            <div class="indent">
+Dèathnight: 1
+</div>
+            <div class="indent">
+Laona: 1
+</div>
+            <div class="indent">
+Shyreal: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=282636" target="_blank">Krag'wa's Wrath</a>
+            <br />
+            <div class="indent">
+Cord: 4
+</div>
+            <div class="indent">
+Sos: 4
+</div>
+            <div class="indent">
+Thomämmer: 4
+</div>
+            <div class="indent">
+Rágnáár: 3
+</div>
+            <div class="indent">
+Endiness: 2
+</div>
+            <div class="indent">
+Deekay: 2
+</div>
+            <div class="indent">
+Dèathnight: 2
+</div>
+            <div class="indent">
+Awyen: 1
+</div>
+            <div class="indent">
+Locktaâr: 1
+</div>
+            <div class="indent">
+Laona: 1
+</div>
+            <div class="indent">
+Walgaz: 1
+</div>
+            <div class="indent">
+Terránigma: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <div class="indent">
+Thsndftz: 1
+</div>
+            <div class="indent">
+Blòódý: 1
+</div>
+            <div class="indent">
+Shyreal: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=282411" target="_blank">Thundering Storm</a>
+            <br />
+            <div class="indent">
+Cord: 3
+</div>
+            <div class="indent">
+Awyen: 2
+</div>
+            <div class="indent">
+Sharia: 2
+</div>
+            <div class="indent">
+Thomämmer: 2
+</div>
+            <div class="indent">
+Blòódý: 2
+</div>
+            <div class="indent">
+Aleksândra: 1
+</div>
+            <div class="indent">
+Walgaz: 1
+</div>
+            <div class="indent">
+Deekay: 1
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Dèathnight: 1
+</div>
+            <div class="indent">
+Rágnáár: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=282444" target="_blank">Lacerating Claws</a>
+            <br />
+            <div class="indent">
+Endiness: 2
+</div>
+            <div class="indent">
+Deekay: 2
+</div>
+            <div class="indent">
+Aleksândra: 1
+</div>
+            <br />
+          </div>
+        </section>
+        <section id="Try4id18detailedcontent">
+          <div>
+            <a href="https://www.wowhead.com/spell=286838" target="_blank">Static Orb</a>
+            <br />
+            <div class="indent">
+Awyen: 2
+</div>
+            <div class="indent">
+Thomämmer: 2
+</div>
+            <div class="indent">
+Blòódý: 2
+</div>
+            <div class="indent">
+Laona: 2
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=282636" target="_blank">Krag'wa's Wrath</a>
+            <br />
+            <div class="indent">
+Awyen: 5
+</div>
+            <div class="indent">
+Sos: 4
+</div>
+            <div class="indent">
+Walgaz: 3
+</div>
+            <div class="indent">
+Rágnáár: 3
+</div>
+            <div class="indent">
+Cord: 2
+</div>
+            <div class="indent">
+Sharia: 2
+</div>
+            <div class="indent">
+Thomämmer: 2
+</div>
+            <div class="indent">
+Shyreal: 2
+</div>
+            <div class="indent">
+Endiness: 1
+</div>
+            <div class="indent">
+Locktaâr: 1
+</div>
+            <div class="indent">
+Aleksândra: 1
+</div>
+            <div class="indent">
+Deekay: 1
+</div>
+            <div class="indent">
+Terránigma: 1
+</div>
+            <div class="indent">
+Thsndftz: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=282411" target="_blank">Thundering Storm</a>
+            <br />
+            <div class="indent">
+Awyen: 1
+</div>
+            <div class="indent">
+Cord: 1
+</div>
+            <div class="indent">
+Deekay: 1
+</div>
+            <div class="indent">
+Thsndftz: 1
+</div>
+            <div class="indent">
+Shyreal: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=282444" target="_blank">Lacerating Claws</a>
+            <br />
+            <div class="indent">
+Endiness: 3
+</div>
+            <div class="indent">
+Deekay: 2
+</div>
+            <div class="indent">
+Awyen: 1
+</div>
+            <div class="indent">
+Aleksândra: 1
+</div>
+            <div class="indent">
+Locktaâr: 1
+</div>
+            <div class="indent">
+Thsndftz: 1
+</div>
+            <br />
+          </div>
+        </section>
+        <section id="Try1id22detailedcontent">
+          <div>
+            <a href="https://www.wowhead.com/spell=285010" target="_blank">Poison Toad Slime</a>
+            <br />
+            <div class="indent">
+Dèathnight: 2
+</div>
+            <div class="indent">
+Awyen: 1
+</div>
+            <div class="indent">
+Rágnáár: 1
+</div>
+            <div class="indent">
+Laona: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=285178" target="_blank">Serpent's Breath</a>
+            <br />
+            <div class="indent">
+Awyen: 1
+</div>
+            <div class="indent">
+Thsndftz: 1
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Cord: 1
+</div>
+            <div class="indent">
+Blòódý: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <div class="indent">
+Thomämmer: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=287147" target="_blank">Dread Reaping</a>
+            <br />
+            <div class="indent">
+Awyen: 7
+</div>
+            <div class="indent">
+Thomämmer: 7
+</div>
+            <div class="indent">
+Aleksândra: 6
+</div>
+            <div class="indent">
+Rágnáár: 5
+</div>
+            <div class="indent">
+Thsndftz: 3
+</div>
+            <div class="indent">
+Endiness: 2
+</div>
+            <div class="indent">
+Blòódý: 2
+</div>
+            <div class="indent">
+Sharia: 2
+</div>
+            <div class="indent">
+Laona: 1
+</div>
+            <div class="indent">
+Cord: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=286742" target="_blank">Necrotic Smash</a>
+            <br />
+            <div class="indent">
+Rágnáár: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=285044" target="_blank">Toad Toxin</a>
+            <br />
+            <div class="indent">
+Rágnáár: 3
+</div>
+            <div class="indent">
+Aleksândra: 2
+</div>
+            <div class="indent">
+Endiness: 2
+</div>
+            <div class="indent">
+Laona: 2
+</div>
+            <div class="indent">
+Terránigma: 2
+</div>
+            <div class="indent">
+Dèathnight: 2
+</div>
+            <div class="indent">
+Cord: 1
+</div>
+            <div class="indent">
+Blòódý: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <div class="indent">
+Deekay: 1
+</div>
+            <br />
+          </div>
+        </section>
+        <section id="Try1id25detailedcontent">
+          <div>
+            <a href="https://www.wowhead.com/spell=282182" target="_blank">Buster Cannon</a>
+            <br />
+            <div class="indent">
+Rágnáár: 2
+</div>
+            <div class="indent">
+Aleksândra: 2
+</div>
+            <div class="indent">
+Cord: 2
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Blòódý: 1
+</div>
+            <div class="indent">
+Deekay: 1
+</div>
+            <div class="indent">
+Dèathnight: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=287891" target="_blank">Sheep Shrapnel</a>
+            <br />
+            <div class="indent">
+Awyen: 3
+</div>
+            <div class="indent">
+Cord: 3
+</div>
+            <div class="indent">
+Dèathnight: 3
+</div>
+            <div class="indent">
+Aleksândra: 2
+</div>
+            <div class="indent">
+Rágnáár: 1
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Laona: 1
+</div>
+            <div class="indent">
+Blòódý: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <div class="indent">
+Deekay: 1
+</div>
+            <div class="indent">
+Thomämmer: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=282408" target="_blank">Spark Pulse</a>
+            <br />
+            <div class="indent">
+Deekay: 4
+</div>
+            <div class="indent">
+Cord: 2
+</div>
+            <div class="indent">
+Rágnáár: 1
+</div>
+            <div class="indent">
+Aleksândra: 1
+</div>
+            <div class="indent">
+Endiness: 1
+</div>
+            <div class="indent">
+Laona: 1
+</div>
+            <div class="indent">
+Blòódý: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <div class="indent">
+Terránigma: 1
+</div>
+            <br />
+          </div>
+        </section>
+        <section id="Try2id26detailedcontent">
+          <div>
+            <a href="https://www.wowhead.com/spell=282182" target="_blank">Buster Cannon</a>
+            <br />
+            <div class="indent">
+Thsndftz: 1
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=287891" target="_blank">Sheep Shrapnel</a>
+            <br />
+            <div class="indent">
+Cord: 2
+</div>
+            <div class="indent">
+Dèathnight: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=282408" target="_blank">Spark Pulse</a>
+            <br />
+            <div class="indent">
+Awyen: 3
+</div>
+            <div class="indent">
+Endiness: 3
+</div>
+            <div class="indent">
+Aleksândra: 2
+</div>
+            <div class="indent">
+Cord: 2
+</div>
+            <div class="indent">
+Blòódý: 2
+</div>
+            <div class="indent">
+Deekay: 2
+</div>
+            <div class="indent">
+Rágnáár: 1
+</div>
+            <div class="indent">
+Thsndftz: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <div class="indent">
+Thomämmer: 1
+</div>
+            <br />
+          </div>
+        </section>
+        <section id="Try3id28detailedcontent">
+          <div>
+            <a href="https://www.wowhead.com/spell=282182" target="_blank">Buster Cannon</a>
+            <br />
+            <div class="indent">
+Aleksândra: 2
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Cord: 1
+</div>
+            <div class="indent">
+Deekay: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=287891" target="_blank">Sheep Shrapnel</a>
+            <br />
+            <div class="indent">
+Blòódý: 2
+</div>
+            <div class="indent">
+Awyen: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <div class="indent">
+Terránigma: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=282408" target="_blank">Spark Pulse</a>
+            <br />
+            <div class="indent">
+Rágnáár: 1
+</div>
+            <div class="indent">
+Sos: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <br />
+          </div>
+        </section>
+        <section id="Try4id29detailedcontent">
+          <div>
+            <a href="https://www.wowhead.com/spell=282182" target="_blank">Buster Cannon</a>
+            <br />
+            <div class="indent">
+Thomämmer: 2
+</div>
+            <div class="indent">
+Awyen: 1
+</div>
+            <div class="indent">
+Cord: 1
+</div>
+            <div class="indent">
+Deekay: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=287891" target="_blank">Sheep Shrapnel</a>
+            <br />
+            <div class="indent">
+Cord: 3
+</div>
+            <div class="indent">
+Deekay: 3
+</div>
+            <div class="indent">
+Endiness: 2
+</div>
+            <div class="indent">
+Laona: 2
+</div>
+            <div class="indent">
+Rágnáár: 1
+</div>
+            <div class="indent">
+Awyen: 1
+</div>
+            <div class="indent">
+Blòódý: 1
+</div>
+            <div class="indent">
+Thomämmer: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=282408" target="_blank">Spark Pulse</a>
+            <br />
+            <div class="indent">
+Aleksândra: 5
+</div>
+            <div class="indent">
+Awyen: 2
+</div>
+            <div class="indent">
+Laona: 2
+</div>
+            <div class="indent">
+Dèathnight: 2
+</div>
+            <div class="indent">
+Thsndftz: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <div class="indent">
+Terránigma: 1
+</div>
+            <div class="indent">
+Deekay: 1
+</div>
+            <br />
+          </div>
+        </section>
+        <section id="Try5id31detailedcontent">
+          <div>
+            <a href="https://www.wowhead.com/spell=282182" target="_blank">Buster Cannon</a>
+            <br />
+            <div class="indent">
+Aleksândra: 3
+</div>
+            <div class="indent">
+Blòódý: 2
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <div class="indent">
+Thomämmer: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=287891" target="_blank">Sheep Shrapnel</a>
+            <br />
+            <div class="indent">
+Awyen: 3
+</div>
+            <div class="indent">
+Endiness: 2
+</div>
+            <div class="indent">
+Laona: 2
+</div>
+            <div class="indent">
+Blòódý: 2
+</div>
+            <div class="indent">
+Rágnáár: 1
+</div>
+            <div class="indent">
+Thsndftz: 1
+</div>
+            <div class="indent">
+Aleksândra: 1
+</div>
+            <div class="indent">
+Cord: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <br />
+            <a href="https://www.wowhead.com/spell=282408" target="_blank">Spark Pulse</a>
+            <br />
+            <div class="indent">
+Awyen: 3
+</div>
+            <div class="indent">
+Rágnáár: 2
+</div>
+            <div class="indent">
+Laona: 2
+</div>
+            <div class="indent">
+Aleksândra: 1
+</div>
+            <div class="indent">
+Endiness: 1
+</div>
+            <div class="indent">
+Cord: 1
+</div>
+            <div class="indent">
+Sharia: 1
+</div>
+            <div class="indent">
+Deekay: 1
+</div>
+            <div class="indent">
+Dèathnight: 1
+</div>
+            <div class="indent">
+Thomämmer: 1
+</div>
+            <br />
+          </div>
+        </section>
+      </main>
+    </div>
+  </body>
+</html>
