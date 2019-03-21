@@ -17,6 +17,4 @@ function updateDivDisplays() {
         element.innerHTML = dateTimeParse(element.innerHTML).toLocaleDateString("de-DE", dateoptions);
     }
 }
-window.onload = function () {
-    updateDivDisplays();
-};
+window.addEventListener('load', updateDivDisplays);

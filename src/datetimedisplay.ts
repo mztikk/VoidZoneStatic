@@ -19,6 +19,4 @@ function updateDivDisplays() {
     }
 }
 
-window.onload = () => {
-    updateDivDisplays();
-}
+window.addEventListener('load', updateDivDisplays);
