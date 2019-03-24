@@ -27,10 +27,6 @@
               "Name": "Blinding Faith",
               "PlayerHits": [
                 {
-                  "Name": "Aleksândra",
-                  "Hits": 1
-                },
-                {
                   "Name": "Deekay",
                   "Hits": 1
                 },
@@ -40,6 +36,10 @@
                 },
                 {
                   "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
                   "Hits": 1
                 }
               ],
@@ -51,7 +51,9 @@
             "end": 96336
           }
         }
-      ]
+      ],
+      "Difficulty": 4,
+      "Header": "Champion of the Light (Heroic)"
     },
     {
       "Name": "Jadefire Masters",
@@ -104,6 +106,14 @@
               "Name": "Phoenix Strike",
               "PlayerHits": [
                 {
+                  "Name": "Rágnáár",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Deekay",
+                  "Hits": 4
+                },
+                {
                   "Name": "Blueboa",
                   "Hits": 2
                 },
@@ -112,27 +122,15 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Deekay",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Dèathnight",
-                  "Hits": 1
-                },
-                {
                   "Name": "Thsndftz",
                   "Hits": 1
                 },
                 {
-                  "Name": "Rágnáár",
-                  "Hits": 5
+                  "Name": "Shyreal",
+                  "Hits": 1
                 },
                 {
-                  "Name": "Shyreal",
+                  "Name": "Walgaz",
                   "Hits": 1
                 },
                 {
@@ -140,7 +138,15 @@
                   "Hits": 3
                 },
                 {
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
                   "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
                   "Hits": 1
                 },
                 {
@@ -148,20 +154,16 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Awyen",
-                  "Hits": 1
-                },
-                {
                   "Name": "Thomämmer",
                   "Hits": 3
                 },
                 {
-                  "Name": "Laona",
-                  "Hits": 3
+                  "Name": "Dèathnight",
+                  "Hits": 1
                 },
                 {
-                  "Name": "Walgaz",
-                  "Hits": 1
+                  "Name": "Laona",
+                  "Hits": 3
                 }
               ],
               "HitType": 0
@@ -172,7 +174,9 @@
             "end": 984105
           }
         }
-      ]
+      ],
+      "Difficulty": 4,
+      "Header": "Jadefire Masters (Heroic)"
     },
     {
       "Name": "Grong the Revenant",
@@ -195,6 +199,14 @@
               "Name": "Spirit Dispersion",
               "PlayerHits": [
                 {
+                  "Name": "Terránigma",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 3
+                },
+                {
                   "Name": "Blueboa",
                   "Hits": 1
                 },
@@ -203,16 +215,8 @@
                   "Hits": 3
                 },
                 {
-                  "Name": "Terránigma",
-                  "Hits": 3
-                },
-                {
                   "Name": "Laona",
                   "Hits": 2
-                },
-                {
-                  "Name": "Rágnáár",
-                  "Hits": 3
                 },
                 {
                   "Name": "Brewie",
@@ -225,6 +229,10 @@
               "Name": "Ferocious Roar",
               "PlayerHits": [
                 {
+                  "Name": "Endiness",
+                  "Hits": 1
+                },
+                {
                   "Name": "Deekay",
                   "Hits": 1
                 },
@@ -233,19 +241,15 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Dèathnight",
-                  "Hits": 1
-                },
-                {
                   "Name": "Thomämmer",
                   "Hits": 1
                 },
                 {
-                  "Name": "Brewie",
+                  "Name": "Dèathnight",
                   "Hits": 1
                 },
                 {
-                  "Name": "Endiness",
+                  "Name": "Brewie",
                   "Hits": 1
                 }
               ],
@@ -257,7 +261,9 @@
             "end": 1565141
           }
         }
-      ]
+      ],
+      "Difficulty": 4,
+      "Header": "Grong the Revenant (Heroic)"
     },
     {
       "Name": "Opulence",
@@ -285,32 +291,32 @@
               "Name": "Scorching Ground",
               "PlayerHits": [
                 {
-                  "Name": "Blueboa",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Deekay",
+                  "Name": "Awyen",
                   "Hits": 4
-                },
-                {
-                  "Name": "Sos",
-                  "Hits": 2
                 },
                 {
                   "Name": "Terránigma",
                   "Hits": 3
                 },
                 {
-                  "Name": "Dèathnight",
-                  "Hits": 9
+                  "Name": "Deekay",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 2
                 },
                 {
                   "Name": "Thomämmer",
                   "Hits": 1
                 },
                 {
-                  "Name": "Awyen",
-                  "Hits": 4
+                  "Name": "Dèathnight",
+                  "Hits": 9
                 },
                 {
                   "Name": "Laona",
@@ -335,7 +341,15 @@
               "Name": "Flame Jet",
               "PlayerHits": [
                 {
-                  "Name": "Aleksândra",
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
                   "Hits": 1
                 },
                 {
@@ -343,7 +357,11 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Terránigma",
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
                   "Hits": 1
                 },
                 {
@@ -351,24 +369,12 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Awyen",
+                  "Name": "Laona",
                   "Hits": 1
                 },
                 {
                   "Name": "Thsndftz",
                   "Hits": 2
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Laona",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Rágnáár",
-                  "Hits": 1
                 },
                 {
                   "Name": "Shyreal",
@@ -407,15 +413,15 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Aleksândra",
-                  "Hits": 1
-                },
-                {
                   "Name": "Awyen",
                   "Hits": 1
                 },
                 {
                   "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
                   "Hits": 1
                 }
               ],
@@ -435,16 +441,16 @@
               "Name": "Volatile Charge",
               "PlayerHits": [
                 {
-                  "Name": "Aleksândra",
-                  "Hits": 1
+                  "Name": "Endiness",
+                  "Hits": 2
                 },
                 {
                   "Name": "Rágnáár",
                   "Hits": 1
                 },
                 {
-                  "Name": "Endiness",
-                  "Hits": 2
+                  "Name": "Aleksândra",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -453,11 +459,11 @@
               "Name": "Molten Gold",
               "PlayerHits": [
                 {
-                  "Name": "Sos",
+                  "Name": "Blòódý",
                   "Hits": 1
                 },
                 {
-                  "Name": "Blòódý",
+                  "Name": "Sos",
                   "Hits": 1
                 }
               ],
@@ -467,24 +473,16 @@
               "Name": "Scorching Ground",
               "PlayerHits": [
                 {
-                  "Name": "Aleksândra",
-                  "Hits": 1
+                  "Name": "Deekay",
+                  "Hits": 2
                 },
                 {
                   "Name": "Blueboa",
                   "Hits": 1
                 },
                 {
-                  "Name": "Deekay",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Dèathnight",
-                  "Hits": 10
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 6
+                  "Name": "Aleksândra",
+                  "Hits": 1
                 },
                 {
                   "Name": "Shyreal",
@@ -495,8 +493,20 @@
                   "Hits": 2
                 },
                 {
+                  "Name": "Walgaz",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 5
+                },
+                {
                   "Name": "Blòódý",
                   "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 6
                 },
                 {
                   "Name": "Sos",
@@ -507,15 +517,11 @@
                   "Hits": 4
                 },
                 {
-                  "Name": "Awyen",
-                  "Hits": 5
+                  "Name": "Dèathnight",
+                  "Hits": 10
                 },
                 {
                   "Name": "Laona",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Walgaz",
                   "Hits": 3
                 }
               ],
@@ -525,19 +531,11 @@
               "Name": "Flame Jet",
               "PlayerHits": [
                 {
-                  "Name": "Aleksândra",
-                  "Hits": 1
+                  "Name": "Blòódý",
+                  "Hits": 2
                 },
                 {
-                  "Name": "Blueboa",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Dèathnight",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Terránigma",
+                  "Name": "Awyen",
                   "Hits": 3
                 },
                 {
@@ -545,35 +543,43 @@
                   "Hits": 4
                 },
                 {
-                  "Name": "Shyreal",
-                  "Hits": 2
+                  "Name": "Terránigma",
+                  "Hits": 3
                 },
                 {
-                  "Name": "Brewie",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 2
+                  "Name": "Blueboa",
+                  "Hits": 4
                 },
                 {
                   "Name": "Sos",
                   "Hits": 9
                 },
                 {
-                  "Name": "Awyen",
-                  "Hits": 3
+                  "Name": "Aleksândra",
+                  "Hits": 1
                 },
                 {
                   "Name": "Thomämmer",
                   "Hits": 5
                 },
                 {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
                   "Name": "Laona",
                   "Hits": 1
                 },
                 {
+                  "Name": "Shyreal",
+                  "Hits": 2
+                },
+                {
                   "Name": "Walgaz",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Brewie",
                   "Hits": 2
                 }
               ],
@@ -597,12 +603,16 @@
               "Name": "Crush",
               "PlayerHits": [
                 {
+                  "Name": "Rágnáár",
+                  "Hits": 3
+                },
+                {
                   "Name": "Thsndftz",
                   "Hits": 1
                 },
                 {
-                  "Name": "Rágnáár",
-                  "Hits": 3
+                  "Name": "Awyen",
+                  "Hits": 1
                 },
                 {
                   "Name": "Blueboa",
@@ -611,10 +621,6 @@
                 {
                   "Name": "Aleksândra",
                   "Hits": 3
-                },
-                {
-                  "Name": "Awyen",
-                  "Hits": 1
                 },
                 {
                   "Name": "Laona",
@@ -641,7 +647,9 @@
             "end": 2754999
           }
         }
-      ]
+      ],
+      "Difficulty": 4,
+      "Header": "Opulence (Heroic)"
     },
     {
       "Name": "Conclave of the Chosen",
@@ -659,6 +667,10 @@
               "Name": "Krag'wa's Wrath",
               "PlayerHits": [
                 {
+                  "Name": "Endiness",
+                  "Hits": 1
+                },
+                {
                   "Name": "Deekay",
                   "Hits": 1
                 },
@@ -668,10 +680,6 @@
                 },
                 {
                   "Name": "Walgaz",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Endiness",
                   "Hits": 1
                 }
               ],
@@ -686,20 +694,20 @@
               "Name": "Lacerating Claws",
               "PlayerHits": [
                 {
-                  "Name": "Blueboa",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Deekay",
-                  "Hits": 2
-                },
-                {
                   "Name": "Endiness",
                   "Hits": 2
                 },
                 {
                   "Name": "Blòódý",
                   "Hits": 1
+                },
+                {
+                  "Name": "Deekay",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blueboa",
+                  "Hits": 2
                 }
               ],
               "HitType": 1
@@ -718,7 +726,7 @@
               "Name": "Static Orb",
               "PlayerHits": [
                 {
-                  "Name": "Aleksândra",
+                  "Name": "Awyen",
                   "Hits": 1
                 },
                 {
@@ -726,11 +734,11 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Thomämmer",
+                  "Name": "Aleksândra",
                   "Hits": 1
                 },
                 {
-                  "Name": "Awyen",
+                  "Name": "Thomämmer",
                   "Hits": 1
                 },
                 {
@@ -748,20 +756,20 @@
               "Name": "Krag'wa's Wrath",
               "PlayerHits": [
                 {
-                  "Name": "Aleksândra",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Sos",
-                  "Hits": 1
-                },
-                {
                   "Name": "Awyen",
                   "Hits": 1
                 },
                 {
                   "Name": "Rágnáár",
                   "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 2
                 },
                 {
                   "Name": "Shyreal",
@@ -782,11 +790,11 @@
               "Name": "Thundering Storm",
               "PlayerHits": [
                 {
-                  "Name": "Deekay",
+                  "Name": "Rágnáár",
                   "Hits": 1
                 },
                 {
-                  "Name": "Rágnáár",
+                  "Name": "Deekay",
                   "Hits": 1
                 },
                 {
@@ -808,6 +816,14 @@
               "Name": "Lacerating Claws",
               "PlayerHits": [
                 {
+                  "Name": "Endiness",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
                   "Name": "Deekay",
                   "Hits": 1
                 },
@@ -816,16 +832,8 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Rágnáár",
-                  "Hits": 1
-                },
-                {
                   "Name": "Brewie",
                   "Hits": 1
-                },
-                {
-                  "Name": "Endiness",
-                  "Hits": 2
                 }
               ],
               "HitType": 1
@@ -844,11 +852,11 @@
               "Name": "Static Orb",
               "PlayerHits": [
                 {
-                  "Name": "Blueboa",
+                  "Name": "Awyen",
                   "Hits": 1
                 },
                 {
-                  "Name": "Awyen",
+                  "Name": "Blueboa",
                   "Hits": 1
                 },
                 {
@@ -866,11 +874,15 @@
               "Name": "Krag'wa's Wrath",
               "PlayerHits": [
                 {
-                  "Name": "Blueboa",
+                  "Name": "Rágnáár",
                   "Hits": 1
                 },
                 {
                   "Name": "Deekay",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blueboa",
                   "Hits": 1
                 },
                 {
@@ -879,10 +891,6 @@
                 },
                 {
                   "Name": "Laona",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Rágnáár",
                   "Hits": 1
                 },
                 {
@@ -900,6 +908,10 @@
               "Name": "Thundering Storm",
               "PlayerHits": [
                 {
+                  "Name": "Endiness",
+                  "Hits": 1
+                },
+                {
                   "Name": "Awyen",
                   "Hits": 1
                 },
@@ -914,10 +926,6 @@
                 {
                   "Name": "Walgaz",
                   "Hits": 1
-                },
-                {
-                  "Name": "Endiness",
-                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -926,11 +934,11 @@
               "Name": "Lacerating Claws",
               "PlayerHits": [
                 {
-                  "Name": "Deekay",
+                  "Name": "Endiness",
                   "Hits": 2
                 },
                 {
-                  "Name": "Endiness",
+                  "Name": "Deekay",
                   "Hits": 2
                 }
               ],
@@ -955,12 +963,20 @@
               "Name": "Krag'wa's Wrath",
               "PlayerHits": [
                 {
-                  "Name": "Blueboa",
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
                   "Hits": 2
                 },
                 {
                   "Name": "Deekay",
                   "Hits": 1
+                },
+                {
+                  "Name": "Blueboa",
+                  "Hits": 2
                 },
                 {
                   "Name": "Sos",
@@ -971,16 +987,8 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Terránigma",
-                  "Hits": 1
-                },
-                {
                   "Name": "Thsndftz",
                   "Hits": 1
-                },
-                {
-                  "Name": "Rágnáár",
-                  "Hits": 2
                 },
                 {
                   "Name": "Brewie",
@@ -998,16 +1006,16 @@
               "Name": "Lacerating Claws",
               "PlayerHits": [
                 {
+                  "Name": "Endiness",
+                  "Hits": 2
+                },
+                {
                   "Name": "Deekay",
                   "Hits": 2
                 },
                 {
                   "Name": "Walgaz",
                   "Hits": 1
-                },
-                {
-                  "Name": "Endiness",
-                  "Hits": 2
                 }
               ],
               "HitType": 1
@@ -1031,11 +1039,7 @@
               "Name": "Krag'wa's Wrath",
               "PlayerHits": [
                 {
-                  "Name": "Sos",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Thomämmer",
+                  "Name": "Blòódý",
                   "Hits": 1
                 },
                 {
@@ -1047,7 +1051,11 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Blòódý",
+                  "Name": "Sos",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
                   "Hits": 1
                 }
               ],
@@ -1062,15 +1070,15 @@
               "Name": "Lacerating Claws",
               "PlayerHits": [
                 {
+                  "Name": "Endiness",
+                  "Hits": 1
+                },
+                {
                   "Name": "Rágnáár",
                   "Hits": 1
                 },
                 {
                   "Name": "Brewie",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Endiness",
                   "Hits": 1
                 }
               ],
@@ -1104,7 +1112,15 @@
               "Name": "Krag'wa's Wrath",
               "PlayerHits": [
                 {
-                  "Name": "Aleksândra",
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
                   "Hits": 1
                 },
                 {
@@ -1116,7 +1132,11 @@
                   "Hits": 3
                 },
                 {
-                  "Name": "Terránigma",
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Aleksândra",
                   "Hits": 1
                 },
                 {
@@ -1124,20 +1144,8 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Thomämmer",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Awyen",
-                  "Hits": 1
-                },
-                {
                   "Name": "Thsndftz",
                   "Hits": 3
-                },
-                {
-                  "Name": "Rágnáár",
-                  "Hits": 1
                 },
                 {
                   "Name": "Brewie",
@@ -1150,15 +1158,11 @@
               "Name": "Thundering Storm",
               "PlayerHits": [
                 {
-                  "Name": "Blueboa",
+                  "Name": "Endiness",
                   "Hits": 1
                 },
                 {
-                  "Name": "Aleksândra",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Sos",
+                  "Name": "Rágnáár",
                   "Hits": 1
                 },
                 {
@@ -1166,7 +1170,15 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Rágnáár",
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
                   "Hits": 1
                 },
                 {
@@ -1180,10 +1192,6 @@
                 {
                   "Name": "Brewie",
                   "Hits": 1
-                },
-                {
-                  "Name": "Endiness",
-                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -1192,7 +1200,7 @@
               "Name": "Lacerating Claws",
               "PlayerHits": [
                 {
-                  "Name": "Deekay",
+                  "Name": "Endiness",
                   "Hits": 2
                 },
                 {
@@ -1200,11 +1208,11 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Brewie",
+                  "Name": "Deekay",
                   "Hits": 2
                 },
                 {
-                  "Name": "Endiness",
+                  "Name": "Brewie",
                   "Hits": 2
                 }
               ],
@@ -1216,7 +1224,9 @@
             "end": 5692708
           }
         }
-      ]
+      ],
+      "Difficulty": 4,
+      "Header": "Conclave of the Chosen (Heroic)"
     },
     {
       "Name": "King Rastakhan",
@@ -1229,20 +1239,20 @@
               "Name": "Poison Toad Slime",
               "PlayerHits": [
                 {
-                  "Name": "Blueboa",
-                  "Hits": 1
+                  "Name": "Rágnáár",
+                  "Hits": 3
                 },
                 {
                   "Name": "Deekay",
                   "Hits": 1
                 },
                 {
-                  "Name": "Dèathnight",
+                  "Name": "Blueboa",
                   "Hits": 1
                 },
                 {
-                  "Name": "Rágnáár",
-                  "Hits": 3
+                  "Name": "Dèathnight",
+                  "Hits": 1
                 },
                 {
                   "Name": "Laona",
@@ -1255,6 +1265,10 @@
               "Name": "Serpent's Breath",
               "PlayerHits": [
                 {
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
                   "Name": "Blueboa",
                   "Hits": 1
                 },
@@ -1264,10 +1278,6 @@
                 },
                 {
                   "Name": "Dèathnight",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Awyen",
                   "Hits": 1
                 },
                 {
@@ -1285,38 +1295,6 @@
               "Name": "Dread Reaping",
               "PlayerHits": [
                 {
-                  "Name": "Blueboa",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Aleksândra",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Deekay",
-                  "Hits": 10
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Dèathnight",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Thsndftz",
-                  "Hits": 7
-                },
-                {
-                  "Name": "Rágnáár",
-                  "Hits": 11
-                },
-                {
-                  "Name": "Brewie",
-                  "Hits": 6
-                },
-                {
                   "Name": "Endiness",
                   "Hits": 3
                 },
@@ -1325,24 +1303,56 @@
                   "Hits": 2
                 },
                 {
+                  "Name": "Awyen",
+                  "Hits": 9
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 11
+                },
+                {
+                  "Name": "Deekay",
+                  "Hits": 10
+                },
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
                   "Name": "Sos",
                   "Hits": 11
                 },
                 {
-                  "Name": "Awyen",
-                  "Hits": 9
+                  "Name": "Aleksândra",
+                  "Hits": 5
                 },
                 {
                   "Name": "Thomämmer",
                   "Hits": 16
                 },
                 {
+                  "Name": "Dèathnight",
+                  "Hits": 4
+                },
+                {
                   "Name": "Laona",
                   "Hits": 3
                 },
                 {
+                  "Name": "Thsndftz",
+                  "Hits": 7
+                },
+                {
                   "Name": "Walgaz",
                   "Hits": 2
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 6
                 }
               ],
               "HitType": 0
@@ -1361,32 +1371,8 @@
               "Name": "Toad Toxin",
               "PlayerHits": [
                 {
-                  "Name": "Aleksândra",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Blueboa",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Deekay",
+                  "Name": "Endiness",
                   "Hits": 2
-                },
-                {
-                  "Name": "Sos",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Dèathnight",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 1
                 },
                 {
                   "Name": "Awyen",
@@ -1397,16 +1383,40 @@
                   "Hits": 3
                 },
                 {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Deekay",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 2
+                },
+                {
                   "Name": "Laona",
                   "Hits": 2
                 },
                 {
                   "Name": "Brewie",
                   "Hits": 1
-                },
-                {
-                  "Name": "Endiness",
-                  "Hits": 2
                 }
               ],
               "HitType": 1
@@ -1417,7 +1427,9 @@
             "end": 7515962
           }
         }
-      ]
+      ],
+      "Difficulty": 4,
+      "Header": "King Rastakhan (Heroic)"
     },
     {
       "Name": "Mekkatorque",
@@ -1430,7 +1442,11 @@
               "Name": "Buster Cannon",
               "PlayerHits": [
                 {
-                  "Name": "Blueboa",
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
                   "Hits": 1
                 },
                 {
@@ -1438,16 +1454,12 @@
                   "Hits": 1
                 },
                 {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
                   "Name": "Sos",
                   "Hits": 2
-                },
-                {
-                  "Name": "Awyen",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Rágnáár",
-                  "Hits": 1
                 },
                 {
                   "Name": "Laona",
@@ -1465,19 +1477,19 @@
               "Name": "Spark Pulse",
               "PlayerHits": [
                 {
-                  "Name": "Aleksândra",
-                  "Hits": 2
+                  "Name": "Endiness",
+                  "Hits": 1
                 },
                 {
                   "Name": "Terránigma",
                   "Hits": 1
                 },
                 {
-                  "Name": "Walgaz",
-                  "Hits": 1
+                  "Name": "Aleksândra",
+                  "Hits": 2
                 },
                 {
-                  "Name": "Endiness",
+                  "Name": "Walgaz",
                   "Hits": 1
                 }
               ],
@@ -1497,15 +1509,15 @@
               "Name": "Buster Cannon",
               "PlayerHits": [
                 {
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
                   "Name": "Deekay",
                   "Hits": 1
                 },
                 {
                   "Name": "Sos",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Awyen",
                   "Hits": 1
                 }
               ],
@@ -1544,6 +1556,14 @@
               "Name": "Buster Cannon",
               "PlayerHits": [
                 {
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
                   "Name": "Blueboa",
                   "Hits": 1
                 },
@@ -1552,15 +1572,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Terránigma",
-                  "Hits": 1
-                },
-                {
                   "Name": "Dèathnight",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Awyen",
                   "Hits": 1
                 },
                 {
@@ -1583,12 +1595,12 @@
               "Name": "Spark Pulse",
               "PlayerHits": [
                 {
-                  "Name": "Blueboa",
-                  "Hits": 1
-                },
-                {
                   "Name": "Awyen",
                   "Hits": 2
+                },
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -1607,6 +1619,18 @@
               "Name": "Buster Cannon",
               "PlayerHits": [
                 {
+                  "Name": "Awyen",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
                   "Name": "Deekay",
                   "Hits": 1
                 },
@@ -1615,23 +1639,11 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Terránigma",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Thsndftz",
-                  "Hits": 1
-                },
-                {
                   "Name": "Thomämmer",
                   "Hits": 2
                 },
                 {
-                  "Name": "Awyen",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Rágnáár",
+                  "Name": "Thsndftz",
                   "Hits": 1
                 }
               ],
@@ -1641,23 +1653,7 @@
               "Name": "Sheep Shrapnel",
               "PlayerHits": [
                 {
-                  "Name": "Blueboa",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Aleksândra",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Sos",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Dèathnight",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Thomämmer",
+                  "Name": "Endiness",
                   "Hits": 1
                 },
                 {
@@ -1665,19 +1661,35 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Thsndftz",
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
                   "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
                 },
                 {
                   "Name": "Laona",
                   "Hits": 1
                 },
                 {
-                  "Name": "Walgaz",
-                  "Hits": 1
+                  "Name": "Thsndftz",
+                  "Hits": 2
                 },
                 {
-                  "Name": "Endiness",
+                  "Name": "Walgaz",
                   "Hits": 1
                 }
               ],
@@ -1687,16 +1699,16 @@
               "Name": "Spark Pulse",
               "PlayerHits": [
                 {
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
                   "Name": "Terránigma",
                   "Hits": 1
                 },
                 {
                   "Name": "Thomämmer",
                   "Hits": 2
-                },
-                {
-                  "Name": "Awyen",
-                  "Hits": 1
                 },
                 {
                   "Name": "Walgaz",
@@ -1753,19 +1765,19 @@
               "Name": "Buster Cannon",
               "PlayerHits": [
                 {
-                  "Name": "Deekay",
-                  "Hits": 1
-                },
-                {
                   "Name": "Terránigma",
                   "Hits": 1
                 },
                 {
-                  "Name": "Dèathnight",
+                  "Name": "Rágnáár",
                   "Hits": 1
                 },
                 {
-                  "Name": "Rágnáár",
+                  "Name": "Deekay",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Dèathnight",
                   "Hits": 1
                 },
                 {
@@ -1779,16 +1791,16 @@
               "Name": "Sheep Shrapnel",
               "PlayerHits": [
                 {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
                   "Name": "Deekay",
                   "Hits": 1
                 },
                 {
                   "Name": "Thomämmer",
                   "Hits": 2
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -1797,19 +1809,7 @@
               "Name": "Spark Pulse",
               "PlayerHits": [
                 {
-                  "Name": "Aleksândra",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Sos",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Dèathnight",
+                  "Name": "Endiness",
                   "Hits": 1
                 },
                 {
@@ -1817,19 +1817,31 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Thomämmer",
-                  "Hits": 2
+                  "Name": "Terránigma",
+                  "Hits": 1
                 },
                 {
                   "Name": "Rágnáár",
                   "Hits": 1
                 },
                 {
-                  "Name": "Brewie",
+                  "Name": "Sos",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Aleksândra",
                   "Hits": 1
                 },
                 {
-                  "Name": "Endiness",
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Brewie",
                   "Hits": 1
                 }
               ],
@@ -1879,20 +1891,20 @@
               "Name": "Buster Cannon",
               "PlayerHits": [
                 {
-                  "Name": "Deekay",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Sos",
-                  "Hits": 1
+                  "Name": "Awyen",
+                  "Hits": 2
                 },
                 {
                   "Name": "Terránigma",
                   "Hits": 1
                 },
                 {
-                  "Name": "Awyen",
-                  "Hits": 2
+                  "Name": "Deekay",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -1901,11 +1913,19 @@
               "Name": "Sheep Shrapnel",
               "PlayerHits": [
                 {
+                  "Name": "Endiness",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
                   "Name": "Blueboa",
                   "Hits": 1
                 },
                 {
-                  "Name": "Terránigma",
+                  "Name": "Thomämmer",
                   "Hits": 1
                 },
                 {
@@ -1913,16 +1933,8 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Thomämmer",
-                  "Hits": 1
-                },
-                {
                   "Name": "Brewie",
                   "Hits": 1
-                },
-                {
-                  "Name": "Endiness",
-                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -1931,15 +1943,7 @@
               "Name": "Spark Pulse",
               "PlayerHits": [
                 {
-                  "Name": "Aleksândra",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Sos",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Dèathnight",
+                  "Name": "Endiness",
                   "Hits": 1
                 },
                 {
@@ -1947,7 +1951,15 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Endiness",
+                  "Name": "Sos",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Dèathnight",
                   "Hits": 1
                 }
               ],
@@ -1967,12 +1979,8 @@
               "Name": "Buster Cannon",
               "PlayerHits": [
                 {
-                  "Name": "Blueboa",
+                  "Name": "Blòódý",
                   "Hits": 1
-                },
-                {
-                  "Name": "Sos",
-                  "Hits": 2
                 },
                 {
                   "Name": "Awyen",
@@ -1983,8 +1991,12 @@
                   "Hits": 3
                 },
                 {
-                  "Name": "Blòódý",
+                  "Name": "Blueboa",
                   "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -1992,6 +2004,10 @@
             {
               "Name": "Sheep Shrapnel",
               "PlayerHits": [
+                {
+                  "Name": "Awyen",
+                  "Hits": 3
+                },
                 {
                   "Name": "Deekay",
                   "Hits": 3
@@ -2001,16 +2017,12 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Dèathnight",
-                  "Hits": 1
-                },
-                {
                   "Name": "Thomämmer",
                   "Hits": 1
                 },
                 {
-                  "Name": "Awyen",
-                  "Hits": 3
+                  "Name": "Dèathnight",
+                  "Hits": 1
                 },
                 {
                   "Name": "Brewie",
@@ -2023,7 +2035,7 @@
               "Name": "Spark Pulse",
               "PlayerHits": [
                 {
-                  "Name": "Dèathnight",
+                  "Name": "Awyen",
                   "Hits": 1
                 },
                 {
@@ -2035,7 +2047,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Awyen",
+                  "Name": "Dèathnight",
                   "Hits": 1
                 },
                 {
@@ -2090,12 +2102,12 @@
               "Name": "Spark Pulse",
               "PlayerHits": [
                 {
-                  "Name": "Sos",
-                  "Hits": 2
-                },
-                {
                   "Name": "Awyen",
                   "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 2
                 },
                 {
                   "Name": "Walgaz",
@@ -2118,6 +2130,10 @@
               "Name": "Buster Cannon",
               "PlayerHits": [
                 {
+                  "Name": "Awyen",
+                  "Hits": 3
+                },
+                {
                   "Name": "Blueboa",
                   "Hits": 1
                 },
@@ -2128,10 +2144,6 @@
                 {
                   "Name": "Dèathnight",
                   "Hits": 1
-                },
-                {
-                  "Name": "Awyen",
-                  "Hits": 3
                 },
                 {
                   "Name": "Walgaz",
@@ -2148,11 +2160,7 @@
               "Name": "Sheep Shrapnel",
               "PlayerHits": [
                 {
-                  "Name": "Blueboa",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Sos",
+                  "Name": "Blòódý",
                   "Hits": 1
                 },
                 {
@@ -2160,7 +2168,11 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Blòódý",
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
                   "Hits": 1
                 }
               ],
@@ -2170,11 +2182,11 @@
               "Name": "Spark Pulse",
               "PlayerHits": [
                 {
-                  "Name": "Blueboa",
+                  "Name": "Terránigma",
                   "Hits": 1
                 },
                 {
-                  "Name": "Terránigma",
+                  "Name": "Blueboa",
                   "Hits": 1
                 },
                 {
@@ -2220,7 +2232,9 @@
             "end": 12699118
           }
         }
-      ]
+      ],
+      "Difficulty": 4,
+      "Header": "Mekkatorque (Heroic)"
     }
   ]
 }
