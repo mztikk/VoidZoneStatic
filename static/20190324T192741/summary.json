@@ -1,0 +1,192 @@
+{
+  "ReportID": "AZKCWhTdrHQFJ1p7",
+  "Bosses": [
+    {
+      "Name": "Stormwall Blockade",
+      "BossTries": [
+        {
+          "TryString": "Try 1 (id: 3)",
+          "TryID": 3,
+          "SpellHits": [
+            {
+              "Name": "Voltaic Flash",
+              "PlayerHits": [
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Torrential Swell",
+              "PlayerHits": [
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Selfina",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            }
+          ],
+          "Time": {
+            "start": 1051314,
+            "end": 1119351
+          }
+        },
+        {
+          "TryString": "Try 2 (id: 4)",
+          "TryID": 4,
+          "SpellHits": [
+            {
+              "Name": "Voltaic Flash",
+              "PlayerHits": [
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Cord",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Torrential Swell",
+              "PlayerHits": [
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 4
+                }
+              ],
+              "HitType": 0
+            }
+          ],
+          "Time": {
+            "start": 1435740,
+            "end": 1513781
+          }
+        },
+        {
+          "TryString": "Try 3 (id: 5)",
+          "TryID": 5,
+          "SpellHits": [
+            {
+              "Name": "Voltaic Flash",
+              "PlayerHits": [
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Cord",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Torrential Swell",
+              "PlayerHits": [
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Selfina",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            }
+          ],
+          "Time": {
+            "start": 1755472,
+            "end": 2106535
+          }
+        },
+        {
+          "TryString": "Try 4 (id: 6)",
+          "TryID": 6,
+          "SpellHits": [
+            {
+              "Name": "Voltaic Flash",
+              "PlayerHits": [
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Torrential Swell",
+              "PlayerHits": [
+                {
+                  "Name": "Terránigma",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            }
+          ],
+          "Time": {
+            "start": 2333285,
+            "end": 2661962
+          }
+        }
+      ],
+      "Difficulty": 4,
+      "Header": "Stormwall Blockade (Heroic)"
+    }
+  ]
+}
