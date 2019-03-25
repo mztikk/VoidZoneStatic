@@ -277,32 +277,7 @@
             },
             {
               "Name": "Ring of Ice",
-              "PlayerHits": [
-                {
-                  "Name": "Thsndftz",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Cord",
-                  "Hits": 8
-                },
-                {
-                  "Name": "Patrícía",
-                  "Hits": 6
-                },
-                {
-                  "Name": "Endiness",
-                  "Hits": 8
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 6
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 6
-                }
-              ],
+              "PlayerHits": [],
               "HitType": 0
             },
             {
@@ -485,7 +460,12 @@
             },
             {
               "Name": "Ring of Ice",
-              "PlayerHits": [],
+              "PlayerHits": [
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                }
+              ],
               "HitType": 0
             },
             {
@@ -594,20 +574,7 @@
             },
             {
               "Name": "Ring of Ice",
-              "PlayerHits": [
-                {
-                  "Name": "Selfina",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Cord",
-                  "Hits": 6
-                },
-                {
-                  "Name": "Dèathnight",
-                  "Hits": 1
-                }
-              ],
+              "PlayerHits": [],
               "HitType": 0
             },
             {
@@ -835,12 +802,7 @@
             },
             {
               "Name": "Ring of Ice",
-              "PlayerHits": [
-                {
-                  "Name": "Selfina",
-                  "Hits": 2
-                }
-              ],
+              "PlayerHits": [],
               "HitType": 0
             },
             {
