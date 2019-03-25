@@ -187,6 +187,850 @@
       ],
       "Difficulty": 4,
       "Header": "Stormwall Blockade (Heroic)"
+    },
+    {
+      "Name": "Lady Jaina Proudmoore",
+      "BossTries": [
+        {
+          "TryString": "Try 1 (id: 7)",
+          "TryID": 7,
+          "SpellHits": [
+            {
+              "Name": "Broadside",
+              "PlayerHits": [
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Bombard",
+              "PlayerHits": [
+                {
+                  "Name": "Terránigma",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cord",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Patrícía",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Burning Explosion",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Crystalline Dust",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Glacial Ray",
+              "PlayerHits": [
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Cord",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Glacial Shards",
+              "PlayerHits": [
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Icefall",
+              "PlayerHits": [
+                {
+                  "Name": "Patrícía",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Ring of Ice",
+              "PlayerHits": [
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 6
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 6
+                },
+                {
+                  "Name": "Cord",
+                  "Hits": 8
+                },
+                {
+                  "Name": "Patrícía",
+                  "Hits": 6
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 8
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Heart of Frost",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Hand of Frost",
+              "PlayerHits": [
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Selfina",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Patrícía",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 1
+            }
+          ],
+          "Time": {
+            "start": 3680305,
+            "end": 3964645
+          }
+        },
+        {
+          "TryString": "Try 2 (id: 8)",
+          "TryID": 8,
+          "SpellHits": [
+            {
+              "Name": "Broadside",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Bombard",
+              "PlayerHits": [
+                {
+                  "Name": "Selfina",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cord",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Patrícía",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Burning Explosion",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Crystalline Dust",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Glacial Ray",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Glacial Shards",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Icefall",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Ring of Ice",
+              "PlayerHits": [
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 8
+                },
+                {
+                  "Name": "Cord",
+                  "Hits": 8
+                },
+                {
+                  "Name": "Patrícía",
+                  "Hits": 7
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Heart of Frost",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Hand of Frost",
+              "PlayerHits": [],
+              "HitType": 1
+            }
+          ],
+          "Time": {
+            "start": 4172432,
+            "end": 4297299
+          }
+        },
+        {
+          "TryString": "Try 3 (id: 9)",
+          "TryID": 9,
+          "SpellHits": [
+            {
+              "Name": "Broadside",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Bombard",
+              "PlayerHits": [
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Selfina",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Cord",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Patrícía",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Burning Explosion",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Crystalline Dust",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Glacial Ray",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Glacial Shards",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Icefall",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Ring of Ice",
+              "PlayerHits": [
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Heart of Frost",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Hand of Frost",
+              "PlayerHits": [],
+              "HitType": 1
+            }
+          ],
+          "Time": {
+            "start": 4399031,
+            "end": 4534236
+          }
+        },
+        {
+          "TryString": "Try 4 (id: 10)",
+          "TryID": 10,
+          "SpellHits": [
+            {
+              "Name": "Broadside",
+              "PlayerHits": [
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Patrícía",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Bombard",
+              "PlayerHits": [
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Burning Explosion",
+              "PlayerHits": [
+                {
+                  "Name": "Patrícía",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Crystalline Dust",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Glacial Ray",
+              "PlayerHits": [
+                {
+                  "Name": "Terránigma",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Cord",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 6
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Glacial Shards",
+              "PlayerHits": [
+                {
+                  "Name": "Selfina",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Icefall",
+              "PlayerHits": [
+                {
+                  "Name": "Selfina",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Patrícía",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Ring of Ice",
+              "PlayerHits": [
+                {
+                  "Name": "Selfina",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cord",
+                  "Hits": 6
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Heart of Frost",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Hand of Frost",
+              "PlayerHits": [
+                {
+                  "Name": "Selfina",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Cord",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Patrícía",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 1
+            }
+          ],
+          "Time": {
+            "start": 4641819,
+            "end": 5104678
+          }
+        },
+        {
+          "TryString": "Try 5 (id: 11)",
+          "TryID": 11,
+          "SpellHits": [
+            {
+              "Name": "Broadside",
+              "PlayerHits": [
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Patrícía",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Bombard",
+              "PlayerHits": [
+                {
+                  "Name": "Cord",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Burning Explosion",
+              "PlayerHits": [
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Patrícía",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Crystalline Dust",
+              "PlayerHits": [
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Cord",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Patrícía",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 4
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Glacial Ray",
+              "PlayerHits": [
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Patrícía",
+                  "Hits": 10
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Glacial Shards",
+              "PlayerHits": [
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Icefall",
+              "PlayerHits": [
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cord",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Patrícía",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Ring of Ice",
+              "PlayerHits": [
+                {
+                  "Name": "Selfina",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Heart of Frost",
+              "PlayerHits": [
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Selfina",
+                  "Hits": 3
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Hand of Frost",
+              "PlayerHits": [
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cord",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Patrícía",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 1
+            }
+          ],
+          "Time": {
+            "start": 5301250,
+            "end": 5850706
+          }
+        }
+      ],
+      "Difficulty": 4,
+      "Header": "Lady Jaina Proudmoore (Heroic)"
     }
   ]
 }
