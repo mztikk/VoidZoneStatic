@@ -21,7 +21,7 @@
             {
               "Name": "Wave of Light",
               "PlayerHits": [],
-              "HitType": 1
+              "HitType": 2
             },
             {
               "Name": "Blinding Faith",
@@ -43,7 +43,7 @@
                   "Hits": 1
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -253,7 +253,7 @@
                   "Hits": 1
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -425,7 +425,7 @@
                   "Hits": 1
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -639,7 +639,7 @@
                   "Hits": 1
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -710,7 +710,7 @@
                   "Hits": 2
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -836,7 +836,7 @@
                   "Hits": 1
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -942,7 +942,7 @@
                   "Hits": 2
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -1018,7 +1018,7 @@
                   "Hits": 1
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -1082,7 +1082,7 @@
                   "Hits": 1
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -1216,7 +1216,7 @@
                   "Hits": 2
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -1419,7 +1419,7 @@
                   "Hits": 1
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -1494,6 +1494,30 @@
                 }
               ],
               "HitType": 0
+            },
+            {
+              "Name": "Gigavolt Blast",
+              "PlayerHits": [
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Walgaz",
+                  "Hits": 12
+                }
+              ],
+              "HitType": 1
+            },
+            {
+              "Name": "Trample",
+              "PlayerHits": [
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 1
             }
           ],
           "Time": {
@@ -1541,6 +1565,16 @@
                 }
               ],
               "HitType": 0
+            },
+            {
+              "Name": "Gigavolt Blast",
+              "PlayerHits": [],
+              "HitType": 1
+            },
+            {
+              "Name": "Trample",
+              "PlayerHits": [],
+              "HitType": 1
             }
           ],
           "Time": {
@@ -1604,6 +1638,29 @@
                 }
               ],
               "HitType": 0
+            },
+            {
+              "Name": "Gigavolt Blast",
+              "PlayerHits": [
+                {
+                  "Name": "Laona",
+                  "Hits": 8
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 10
+                }
+              ],
+              "HitType": 1
+            },
+            {
+              "Name": "Trample",
+              "PlayerHits": [],
+              "HitType": 1
             }
           ],
           "Time": {
@@ -1716,6 +1773,25 @@
                 }
               ],
               "HitType": 0
+            },
+            {
+              "Name": "Gigavolt Blast",
+              "PlayerHits": [
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 12
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 1
+            },
+            {
+              "Name": "Trample",
+              "PlayerHits": [],
+              "HitType": 1
             }
           ],
           "Time": {
@@ -1750,6 +1826,16 @@
                 }
               ],
               "HitType": 0
+            },
+            {
+              "Name": "Gigavolt Blast",
+              "PlayerHits": [],
+              "HitType": 1
+            },
+            {
+              "Name": "Trample",
+              "PlayerHits": [],
+              "HitType": 1
             }
           ],
           "Time": {
@@ -1846,6 +1932,46 @@
                 }
               ],
               "HitType": 0
+            },
+            {
+              "Name": "Gigavolt Blast",
+              "PlayerHits": [
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 1
+            },
+            {
+              "Name": "Trample",
+              "PlayerHits": [
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Brewie",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 1
             }
           ],
           "Time": {
@@ -1876,6 +2002,21 @@
                 }
               ],
               "HitType": 0
+            },
+            {
+              "Name": "Gigavolt Blast",
+              "PlayerHits": [
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 12
+                }
+              ],
+              "HitType": 1
+            },
+            {
+              "Name": "Trample",
+              "PlayerHits": [],
+              "HitType": 1
             }
           ],
           "Time": {
@@ -1964,6 +2105,54 @@
                 }
               ],
               "HitType": 0
+            },
+            {
+              "Name": "Gigavolt Blast",
+              "PlayerHits": [
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 12
+                },
+                {
+                  "Name": "Blueboa",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 1
+            },
+            {
+              "Name": "Trample",
+              "PlayerHits": [
+                {
+                  "Name": "Sos",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 1
             }
           ],
           "Time": {
@@ -2060,6 +2249,38 @@
                 }
               ],
               "HitType": 0
+            },
+            {
+              "Name": "Gigavolt Blast",
+              "PlayerHits": [
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Deekay",
+                  "Hits": 7
+                },
+                {
+                  "Name": "Blueboa",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 1
+            },
+            {
+              "Name": "Trample",
+              "PlayerHits": [
+                {
+                  "Name": "Blueboa",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 1
             }
           ],
           "Time": {
@@ -2115,6 +2336,25 @@
                 }
               ],
               "HitType": 0
+            },
+            {
+              "Name": "Gigavolt Blast",
+              "PlayerHits": [
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 1
+            },
+            {
+              "Name": "Trample",
+              "PlayerHits": [],
+              "HitType": 1
             }
           ],
           "Time": {
@@ -2195,6 +2435,34 @@
                 }
               ],
               "HitType": 0
+            },
+            {
+              "Name": "Gigavolt Blast",
+              "PlayerHits": [
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Walgaz",
+                  "Hits": 10
+                }
+              ],
+              "HitType": 1
+            },
+            {
+              "Name": "Trample",
+              "PlayerHits": [
+                {
+                  "Name": "Sos",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 1
             }
           ],
           "Time": {
@@ -2225,6 +2493,21 @@
               "Name": "Spark Pulse",
               "PlayerHits": [],
               "HitType": 0
+            },
+            {
+              "Name": "Gigavolt Blast",
+              "PlayerHits": [
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 1
+            },
+            {
+              "Name": "Trample",
+              "PlayerHits": [],
+              "HitType": 1
             }
           ],
           "Time": {
