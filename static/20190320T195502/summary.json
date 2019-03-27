@@ -1882,11 +1882,11 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Cord",
+                  "Name": "Deekay",
                   "Hits": 1
                 },
                 {
-                  "Name": "Deekay",
+                  "Name": "Cord",
                   "Hits": 1
                 }
               ],
@@ -1896,15 +1896,7 @@
               "Name": "Sheep Shrapnel",
               "PlayerHits": [
                 {
-                  "Name": "Awyen",
-                  "Hits": 1
-                },
-                {
                   "Name": "Blòódý",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Sharia",
                   "Hits": 1
                 },
                 {
@@ -1936,16 +1928,16 @@
               "Name": "Gigavolt Blast",
               "PlayerHits": [
                 {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
                   "Name": "Cord",
                   "Hits": 1
                 },
                 {
                   "Name": "Thomämmer",
                   "Hits": 9
-                },
-                {
-                  "Name": "Dèathnight",
-                  "Hits": 1
                 }
               ],
               "HitType": 1
@@ -1954,15 +1946,11 @@
               "Name": "Trample",
               "PlayerHits": [
                 {
-                  "Name": "Aleksândra",
-                  "Hits": 1
-                },
-                {
                   "Name": "Blòódý",
                   "Hits": 2
                 },
                 {
-                  "Name": "Rágnáár",
+                  "Name": "Aleksândra",
                   "Hits": 1
                 }
               ],
@@ -1971,7 +1959,7 @@
           ],
           "Time": {
             "start": 13968674,
-            "end": 14244786
+            "end": 14233350
           }
         },
         {
