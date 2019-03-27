@@ -39,12 +39,12 @@
             {
               "Name": "Thunderous Boom",
               "PlayerHits": [],
-              "HitType": 1
+              "HitType": 2
             },
             {
               "Name": "Roiling Tides",
               "PlayerHits": [],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -84,7 +84,7 @@
                   "Hits": 2
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             },
             {
               "Name": "Roiling Tides",
@@ -94,7 +94,7 @@
                   "Hits": 1
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -162,7 +162,7 @@
                   "Hits": 1
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             },
             {
               "Name": "Roiling Tides",
@@ -172,7 +172,7 @@
                   "Hits": 1
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -252,7 +252,7 @@
                   "Hits": 1
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             },
             {
               "Name": "Roiling Tides",
@@ -262,7 +262,7 @@
                   "Hits": 1
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -439,7 +439,7 @@
                   "Hits": 1
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -527,7 +527,7 @@
             {
               "Name": "Hand of Frost",
               "PlayerHits": [],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -635,7 +635,7 @@
             {
               "Name": "Hand of Frost",
               "PlayerHits": [],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -793,7 +793,7 @@
                   "Hits": 1
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -1053,7 +1053,7 @@
                   "Hits": 1
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
