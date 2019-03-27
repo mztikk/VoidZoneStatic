@@ -1420,6 +1420,52 @@
                 }
               ],
               "HitType": 2
+            },
+            {
+              "Name": "Plague of Fire",
+              "PlayerHits": [
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Blueboa",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 1
             }
           ],
           "Time": {
