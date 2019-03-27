@@ -109,3 +109,51 @@ div.box {
 
     text-align: center;
 }
+
+.Warrior {
+    color: #C79C6E;
+}
+
+.Paladin {
+    color: #F58CBA;
+}
+
+.Hunter {
+    color: #ABD473;
+}
+
+.Rogue {
+    color: #FFF569;
+}
+
+.Priest {
+    color: #FFFFFF;
+}
+
+.DeathKnight {
+    color: #C41F3B;
+}
+
+.Shaman {
+    color: #0070DE;
+}
+
+.Mage {
+    color: #40C7EB;
+}
+
+.Warlock {
+    color: #8787ED;
+}
+
+.Monk {
+    color: #00FF96;
+}
+
+.Druid {
+    color: #FF7D0A;
+}
+
+.DemonHunter {
+    color: #A330C9;
+}
