@@ -1585,6 +1585,40 @@
                 }
               ],
               "HitType": 2
+            },
+            {
+              "Name": "Plague of Fire",
+              "PlayerHits": [
+                {
+                  "Name": "Cord",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Sos",
+                  "Hits": 7
+                },
+                {
+                  "Name": "Deekay",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 7
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 4
+                }
+              ],
+              "HitType": 1
             }
           ],
           "Time": {
