@@ -19,4 +19,4 @@ function updateDivDisplays() {
     }
 }
 
-window.addEventListener('load', updateDivDisplays);
+document.addEventListener('DOMContentLoaded', updateDivDisplays);
