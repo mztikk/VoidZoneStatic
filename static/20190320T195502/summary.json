@@ -74,7 +74,7 @@
                   "Hits": 1
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             },
             {
               "Name": "Blinding Faith",
@@ -104,7 +104,7 @@
                   "Hits": 1
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -124,7 +124,7 @@
             {
               "Name": "Wave of Light",
               "PlayerHits": [],
-              "HitType": 1
+              "HitType": 2
             },
             {
               "Name": "Blinding Faith",
@@ -138,7 +138,7 @@
                   "Hits": 1
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -260,7 +260,7 @@
                   "Hits": 2
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             },
             {
               "Name": "Blinding Faith",
@@ -310,7 +310,7 @@
                   "Hits": 2
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -379,7 +379,7 @@
                   "Hits": 1
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             },
             {
               "Name": "Blinding Faith",
@@ -409,7 +409,7 @@
                   "Hits": 1
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -603,7 +603,7 @@
                   "Hits": 1
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -815,7 +815,7 @@
                   "Hits": 1
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -947,7 +947,7 @@
                   "Hits": 3
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -1069,7 +1069,7 @@
                   "Hits": 1
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -1255,7 +1255,7 @@
                   "Hits": 2
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -1409,7 +1409,7 @@
                   "Hits": 1
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -1584,7 +1584,7 @@
                   "Hits": 2
                 }
               ],
-              "HitType": 1
+              "HitType": 2
             }
           ],
           "Time": {
@@ -1728,6 +1728,25 @@
                 }
               ],
               "HitType": 0
+            },
+            {
+              "Name": "Gigavolt Blast",
+              "PlayerHits": [
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 1
+            },
+            {
+              "Name": "Trample",
+              "PlayerHits": [],
+              "HitType": 1
             }
           ],
           "Time": {
@@ -1812,6 +1831,34 @@
                 }
               ],
               "HitType": 0
+            },
+            {
+              "Name": "Gigavolt Blast",
+              "PlayerHits": [
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 9
+                }
+              ],
+              "HitType": 1
+            },
+            {
+              "Name": "Trample",
+              "PlayerHits": [
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Awyen",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 1
             }
           ],
           "Time": {
@@ -1884,6 +1931,42 @@
                 }
               ],
               "HitType": 0
+            },
+            {
+              "Name": "Gigavolt Blast",
+              "PlayerHits": [
+                {
+                  "Name": "Cord",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 9
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 1
+            },
+            {
+              "Name": "Trample",
+              "PlayerHits": [
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 1
             }
           ],
           "Time": {
@@ -1992,6 +2075,54 @@
                 }
               ],
               "HitType": 0
+            },
+            {
+              "Name": "Gigavolt Blast",
+              "PlayerHits": [
+                {
+                  "Name": "Cord",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Deekay",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 1
+            },
+            {
+              "Name": "Trample",
+              "PlayerHits": [
+                {
+                  "Name": "Cord",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Deekay",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 1
             }
           ],
           "Time": {
@@ -2112,6 +2243,46 @@
                 }
               ],
               "HitType": 0
+            },
+            {
+              "Name": "Gigavolt Blast",
+              "PlayerHits": [
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 1
+            },
+            {
+              "Name": "Trample",
+              "PlayerHits": [
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Dèathnight",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 1
             }
           ],
           "Time": {
