@@ -7,4 +7,5 @@ declare const dateoptions: {
     second: string;
 };
 declare function dateTimeParse(str: string): Date;
+declare function sortDateDivs(a: any, b: any): number;
 declare function updateDivDisplays(): void;
