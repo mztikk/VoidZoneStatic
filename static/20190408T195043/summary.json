@@ -13,14 +13,42 @@
               "PlayerHits": [
                 {
                   "Name": "Silicâ",
-                  "Hits": 1
+                  "Hits": 2
                 },
                 {
                   "Name": "Elizea",
-                  "Hits": 1
+                  "Hits": 2
                 },
                 {
                   "Name": "Mauriana",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ameliê",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
                   "Hits": 1
                 }
               ],
@@ -182,6 +210,36 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -218,11 +276,19 @@
               "PlayerHits": [
                 {
                   "Name": "Blòódý",
-                  "Hits": 1
+                  "Hits": 2
                 },
                 {
                   "Name": "Edelweiss",
                   "Hits": 2
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -423,6 +489,24 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Mauriana",
+                  "Hits": 5
+                }
+              ],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -471,14 +555,26 @@
               "PlayerHits": [
                 {
                   "Name": "Elizea",
-                  "Hits": 1
+                  "Hits": 2
                 },
                 {
                   "Name": "Edelweiss",
-                  "Hits": 1
+                  "Hits": 2
                 },
                 {
                   "Name": "Endiness",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shyreal",
                   "Hits": 1
                 }
               ],
@@ -663,6 +759,24 @@
                 {
                   "Name": "Thomämmer",
                   "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Ameliê",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -893,6 +1007,28 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ameliê",
+                  "Hits": 9
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -937,6 +1073,14 @@
                 },
                 {
                   "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Elizea",
                   "Hits": 1
                 }
               ],
@@ -1082,6 +1226,11 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -1118,6 +1267,10 @@
                 },
                 {
                   "Name": "Mauriana",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
                   "Hits": 1
                 }
               ],
@@ -1325,6 +1478,32 @@
                 },
                 {
                   "Name": "Rágnàr",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Silicâ",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Mauriana",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
                   "Hits": 2
                 },
                 {
@@ -1512,6 +1691,11 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -1548,6 +1732,10 @@
                 },
                 {
                   "Name": "Elizea",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
                   "Hits": 1
                 }
               ],
@@ -1701,6 +1889,32 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Silicâ",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Overgnomi",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -1749,6 +1963,22 @@
               "PlayerHits": [
                 {
                   "Name": "Cela",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shyreal",
                   "Hits": 1
                 }
               ],
@@ -1954,6 +2184,32 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Overgnomi",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -1998,10 +2254,22 @@
               "PlayerHits": [
                 {
                   "Name": "Merokald",
-                  "Hits": 1
+                  "Hits": 4
                 },
                 {
                   "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Mauriana",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Edelweiss",
                   "Hits": 1
                 }
               ],
@@ -2179,6 +2447,28 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Terránigma",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -2231,6 +2521,14 @@
                 },
                 {
                   "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Overgnomi",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
                   "Hits": 1
                 }
               ],
@@ -2408,6 +2706,24 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Ameliê",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -2444,10 +2760,14 @@
               "PlayerHits": [
                 {
                   "Name": "Elizea",
-                  "Hits": 1
+                  "Hits": 2
                 },
                 {
                   "Name": "Overgnomi",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
                   "Hits": 1
                 }
               ],
@@ -2581,6 +2901,16 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -2613,10 +2943,18 @@
                 },
                 {
                   "Name": "Cela",
-                  "Hits": 1
+                  "Hits": 2
                 },
                 {
                   "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Laona",
                   "Hits": 1
                 }
               ],
@@ -2794,6 +3132,40 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Mauriana",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -2850,11 +3222,11 @@
                 },
                 {
                   "Name": "Thomämmer",
-                  "Hits": 1
+                  "Hits": 2
                 },
                 {
                   "Name": "Shyreal",
-                  "Hits": 1
+                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -3059,6 +3431,32 @@
                 {
                   "Name": "Merokald",
                   "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -3233,6 +3631,11 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [],
               "HitType": 2
@@ -3264,7 +3667,7 @@
                 },
                 {
                   "Name": "Thomämmer",
-                  "Hits": 1
+                  "Hits": 2
                 },
                 {
                   "Name": "Edelweiss",
@@ -3280,10 +3683,14 @@
                 },
                 {
                   "Name": "Merokald",
-                  "Hits": 1
+                  "Hits": 2
                 },
                 {
                   "Name": "Elizea",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
                   "Hits": 1
                 }
               ],
@@ -3404,6 +3811,11 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -3436,6 +3848,18 @@
               "PlayerHits": [
                 {
                   "Name": "Elizea",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Mauriana",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Edelweiss",
                   "Hits": 1
                 }
               ],
@@ -3585,6 +4009,36 @@
             {
               "Name": "Flames of Punishment",
               "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Silicâ",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Mauriana",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ameliê",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 2
+                }
+              ],
               "HitType": 0
             },
             {
@@ -3809,6 +4263,28 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -3842,6 +4318,22 @@
                 {
                   "Name": "Rágnàr",
                   "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Mauriana",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ameliê",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -3904,6 +4396,11 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -3932,10 +4429,26 @@
               "PlayerHits": [
                 {
                   "Name": "Cela",
-                  "Hits": 2
+                  "Hits": 3
                 },
                 {
                   "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Overgnomi",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Vórkath",
                   "Hits": 1
                 }
               ],
@@ -4117,6 +4630,28 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Mauriana",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ameliê",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -4185,6 +4720,14 @@
                 },
                 {
                   "Name": "Endiness",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
                   "Hits": 1
                 }
               ],
@@ -4381,6 +4924,20 @@
                 {
                   "Name": "Merokald",
                   "Hits": 5
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
