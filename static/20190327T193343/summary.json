@@ -293,7 +293,19 @@
                 },
                 {
                   "Name": "Laona",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Locktaâr",
                   "Hits": 2
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -469,6 +481,16 @@
                 },
                 {
                   "Name": "Walgaz",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Rodéo",
                   "Hits": 2
                 }
               ],
