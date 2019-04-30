@@ -624,7 +624,20 @@
           "SpellHits": [
             {
               "Name": "Volatile Charge",
-              "PlayerHits": [],
+              "PlayerHits": [
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                }
+              ],
               "HitType": 0
             },
             {
@@ -771,6 +784,24 @@
                 {
                   "Name": "Walgaz",
                   "Hits": 3
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Sos",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Locktaâr",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
