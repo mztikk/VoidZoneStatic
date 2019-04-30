@@ -32,16 +32,8 @@
               "Name": "Blinding Faith",
               "PlayerHits": [
                 {
-                  "Name": "Aleksândra",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Thomämmer",
+                  "Name": "Longoria",
                   "Hits": 2
-                },
-                {
-                  "Name": "Knutschii",
-                  "Hits": 1
                 },
                 {
                   "Name": "Walgaz",
@@ -52,12 +44,20 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Locktaâr",
-                  "Hits": 3
+                  "Name": "Thomämmer",
+                  "Hits": 2
                 },
                 {
-                  "Name": "Longoria",
-                  "Hits": 2
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Knutschii",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Locktaâr",
+                  "Hits": 3
                 }
               ],
               "HitType": 2
@@ -110,8 +110,40 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Aleksândra",
+                  "Name": "Walgaz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bêâ",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Knutschii",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Locktaâr",
                   "Hits": 4
+                },
+                {
+                  "Name": "Longoria",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bombenjack",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
                 },
                 {
                   "Name": "Thomämmer",
@@ -122,48 +154,16 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Knutschii",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Bombenjack",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Rágnáár",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Walgaz",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 1
-                },
-                {
                   "Name": "Patrícía",
                   "Hits": 2
                 },
                 {
-                  "Name": "Bêâ",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Locktaâr",
+                  "Name": "Aleksândra",
                   "Hits": 4
                 },
                 {
                   "Name": "Rodéo",
                   "Hits": 6
-                },
-                {
-                  "Name": "Longoria",
-                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -189,12 +189,12 @@
               "Name": "Deathly Echo",
               "PlayerHits": [
                 {
-                  "Name": "Thomämmer",
-                  "Hits": 1
-                },
-                {
                   "Name": "Bombenjack",
                   "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -203,27 +203,7 @@
               "Name": "Spirit Dispersion",
               "PlayerHits": [
                 {
-                  "Name": "Aleksândra",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 1
-                },
-                {
                   "Name": "Shyreal",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Bombenjack",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Rágnáár",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Laona",
                   "Hits": 1
                 },
                 {
@@ -231,12 +211,32 @@
                   "Hits": 3
                 },
                 {
+                  "Name": "Bombenjack",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
                   "Name": "Bêâ",
                   "Hits": 1
                 },
                 {
+                  "Name": "Rágnáár",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 3
+                },
+                {
                   "Name": "Locktaâr",
                   "Hits": 3
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -245,15 +245,11 @@
               "Name": "Ferocious Roar",
               "PlayerHits": [
                 {
-                  "Name": "Thomämmer",
-                  "Hits": 1
+                  "Name": "Longoria",
+                  "Hits": 3
                 },
                 {
                   "Name": "Bombenjack",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Rágnáár",
                   "Hits": 1
                 },
                 {
@@ -261,8 +257,12 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Longoria",
-                  "Hits": 3
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
                 }
               ],
               "HitType": 2
@@ -302,11 +302,11 @@
               "Name": "Molten Gold",
               "PlayerHits": [
                 {
-                  "Name": "Thomämmer",
-                  "Hits": 1
+                  "Name": "Dèathnight",
+                  "Hits": 2
                 },
                 {
-                  "Name": "Knutschii",
+                  "Name": "Terránigma",
                   "Hits": 1
                 },
                 {
@@ -318,23 +318,15 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Dèathnight",
+                  "Name": "Knutschii",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Locktaâr",
                   "Hits": 2
                 },
                 {
-                  "Name": "Aleksândra",
-                  "Hits": 1
-                },
-                {
                   "Name": "Shyreal",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Thsndftz",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Bombenjack",
                   "Hits": 1
                 },
                 {
@@ -342,16 +334,24 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Terránigma",
+                  "Name": "Bombenjack",
                   "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 4
                 },
                 {
                   "Name": "Patrícía",
                   "Hits": 1
                 },
                 {
-                  "Name": "Locktaâr",
-                  "Hits": 2
+                  "Name": "Aleksândra",
+                  "Hits": 1
                 },
                 {
                   "Name": "Rodéo",
@@ -368,12 +368,20 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Thomämmer",
-                  "Hits": 5
+                  "Name": "Walgaz",
+                  "Hits": 1
                 },
                 {
                   "Name": "Shyreal",
                   "Hits": 2
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 5
                 },
                 {
                   "Name": "Thsndftz",
@@ -382,14 +390,6 @@
                 {
                   "Name": "Knutschii",
                   "Hits": 6
-                },
-                {
-                  "Name": "Walgaz",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -402,35 +402,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Aleksândra",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Shyreal",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Thsndftz",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Knutschii",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Bombenjack",
-                  "Hits": 2
-                },
-                {
                   "Name": "Walgaz",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Rágnáár",
                   "Hits": 4
                 },
                 {
@@ -438,7 +410,31 @@
                   "Hits": 1
                 },
                 {
+                  "Name": "Rágnáár",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Locktaâr",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Knutschii",
+                  "Hits": 1
+                },
+                {
                   "Name": "Laona",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Longoria",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Bombenjack",
                   "Hits": 2
                 },
                 {
@@ -446,16 +442,20 @@
                   "Hits": 2
                 },
                 {
+                  "Name": "Thomämmer",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
                   "Name": "Rodéo",
                   "Hits": 2
-                },
-                {
-                  "Name": "Locktaâr",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Longoria",
-                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -464,11 +464,11 @@
               "Name": "Flames of Punishment",
               "PlayerHits": [
                 {
-                  "Name": "Walgaz",
+                  "Name": "Longoria",
                   "Hits": 2
                 },
                 {
-                  "Name": "Longoria",
+                  "Name": "Walgaz",
                   "Hits": 2
                 }
               ],
@@ -478,10 +478,6 @@
               "Name": "Crush",
               "PlayerHits": [
                 {
-                  "Name": "Aleksândra",
-                  "Hits": 1
-                },
-                {
                   "Name": "Walgaz",
                   "Hits": 2
                 },
@@ -490,7 +486,7 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Rágnáár",
+                  "Name": "Aleksândra",
                   "Hits": 1
                 },
                 {
@@ -499,6 +495,10 @@
                 },
                 {
                   "Name": "Bêâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
                   "Hits": 1
                 }
               ],
@@ -525,11 +525,11 @@
               "Name": "Static Orb",
               "PlayerHits": [
                 {
-                  "Name": "Rágnáár",
+                  "Name": "Bombenjack",
                   "Hits": 1
                 },
                 {
-                  "Name": "Bombenjack",
+                  "Name": "Rágnáár",
                   "Hits": 1
                 }
               ],
@@ -539,7 +539,7 @@
               "Name": "Krag'wa's Wrath",
               "PlayerHits": [
                 {
-                  "Name": "Rágnáár",
+                  "Name": "Longoria",
                   "Hits": 1
                 },
                 {
@@ -551,7 +551,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Longoria",
+                  "Name": "Rágnáár",
                   "Hits": 1
                 }
               ],
@@ -566,16 +566,16 @@
               "Name": "Lacerating Claws",
               "PlayerHits": [
                 {
+                  "Name": "Longoria",
+                  "Hits": 1
+                },
+                {
                   "Name": "Endiness",
                   "Hits": 2
                 },
                 {
                   "Name": "Patrícía",
                   "Hits": 2
-                },
-                {
-                  "Name": "Longoria",
-                  "Hits": 1
                 }
               ],
               "HitType": 2
@@ -594,11 +594,11 @@
               "Name": "Static Orb",
               "PlayerHits": [
                 {
-                  "Name": "Thomämmer",
-                  "Hits": 3
+                  "Name": "Walgaz",
+                  "Hits": 1
                 },
                 {
-                  "Name": "Knutschii",
+                  "Name": "Terránigma",
                   "Hits": 1
                 },
                 {
@@ -606,43 +606,43 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Walgaz",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Laona",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 2
-                },
-                {
                   "Name": "Bêâ",
                   "Hits": 1
                 },
                 {
-                  "Name": "Shyreal",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Thsndftz",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Terránigma",
+                  "Name": "Knutschii",
                   "Hits": 1
-                },
-                {
-                  "Name": "Endiness",
-                  "Hits": 4
                 },
                 {
                   "Name": "Locktaâr",
                   "Hits": 3
                 },
                 {
+                  "Name": "Laona",
+                  "Hits": 1
+                },
+                {
                   "Name": "Longoria",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thsndftz",
                   "Hits": 2
                 }
               ],
@@ -651,6 +651,10 @@
             {
               "Name": "Krag'wa's Wrath",
               "PlayerHits": [
+                {
+                  "Name": "Longoria",
+                  "Hits": 1
+                },
                 {
                   "Name": "Dèathnight",
                   "Hits": 1
@@ -664,15 +668,11 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Rodéo",
-                  "Hits": 1
-                },
-                {
                   "Name": "Locktaâr",
                   "Hits": 1
                 },
                 {
-                  "Name": "Longoria",
+                  "Name": "Rodéo",
                   "Hits": 1
                 }
               ],
@@ -686,10 +686,6 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Aleksândra",
-                  "Hits": 1
-                },
-                {
                   "Name": "Terránigma",
                   "Hits": 1
                 },
@@ -698,16 +694,20 @@
                   "Hits": 1
                 },
                 {
+                  "Name": "Patrícía",
+                  "Hits": 2
+                },
+                {
                   "Name": "Bêâ",
                   "Hits": 2
                 },
                 {
-                  "Name": "Locktaâr",
+                  "Name": "Aleksândra",
                   "Hits": 1
                 },
                 {
-                  "Name": "Patrícía",
-                  "Hits": 2
+                  "Name": "Locktaâr",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -720,20 +720,20 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Laona",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Rodéo",
-                  "Hits": 1
+                  "Name": "Patrícía",
+                  "Hits": 2
                 },
                 {
                   "Name": "Bêâ",
                   "Hits": 1
                 },
                 {
-                  "Name": "Patrícía",
-                  "Hits": 2
+                  "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rodéo",
+                  "Hits": 1
                 }
               ],
               "HitType": 2
@@ -757,11 +757,11 @@
               "Name": "Krag'wa's Wrath",
               "PlayerHits": [
                 {
-                  "Name": "Knutschii",
+                  "Name": "Bêâ",
                   "Hits": 1
                 },
                 {
-                  "Name": "Bêâ",
+                  "Name": "Knutschii",
                   "Hits": 1
                 }
               ],
@@ -776,8 +776,8 @@
               "Name": "Lacerating Claws",
               "PlayerHits": [
                 {
-                  "Name": "Aleksândra",
-                  "Hits": 2
+                  "Name": "Longoria",
+                  "Hits": 1
                 },
                 {
                   "Name": "Endiness",
@@ -792,8 +792,8 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Longoria",
-                  "Hits": 1
+                  "Name": "Aleksândra",
+                  "Hits": 2
                 }
               ],
               "HitType": 2
@@ -812,31 +812,11 @@
               "Name": "Static Orb",
               "PlayerHits": [
                 {
+                  "Name": "Longoria",
+                  "Hits": 1
+                },
+                {
                   "Name": "Dèathnight",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Aleksândra",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Thsndftz",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Knutschii",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Rágnáár",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Laona",
                   "Hits": 1
                 },
                 {
@@ -844,7 +824,15 @@
                   "Hits": 1
                 },
                 {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
                   "Name": "Patrícía",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thsndftz",
                   "Hits": 1
                 },
                 {
@@ -852,7 +840,19 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Longoria",
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Knutschii",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Laona",
                   "Hits": 1
                 }
               ],
@@ -862,15 +862,7 @@
               "Name": "Krag'wa's Wrath",
               "PlayerHits": [
                 {
-                  "Name": "Thomämmer",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Shyreal",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Knutschii",
+                  "Name": "Longoria",
                   "Hits": 1
                 },
                 {
@@ -878,19 +870,27 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Rágnáár",
-                  "Hits": 1
+                  "Name": "Shyreal",
+                  "Hits": 2
                 },
                 {
-                  "Name": "Rodéo",
-                  "Hits": 1
+                  "Name": "Thomämmer",
+                  "Hits": 2
                 },
                 {
                   "Name": "Bêâ",
                   "Hits": 2
                 },
                 {
-                  "Name": "Longoria",
+                  "Name": "Rágnáár",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Knutschii",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rodéo",
                   "Hits": 1
                 }
               ],
@@ -900,19 +900,7 @@
               "Name": "Thundering Storm",
               "PlayerHits": [
                 {
-                  "Name": "Aleksândra",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Thsndftz",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Laona",
+                  "Name": "Endiness",
                   "Hits": 1
                 },
                 {
@@ -920,7 +908,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Endiness",
+                  "Name": "Thomämmer",
                   "Hits": 1
                 },
                 {
@@ -928,7 +916,19 @@
                   "Hits": 1
                 },
                 {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
                   "Name": "Patrícía",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Laona",
                   "Hits": 1
                 }
               ],
@@ -987,16 +987,16 @@
               "Name": "Serpent's Breath",
               "PlayerHits": [
                 {
+                  "Name": "Longoria",
+                  "Hits": 1
+                },
+                {
                   "Name": "Thsndftz",
                   "Hits": 1
                 },
                 {
                   "Name": "Bêâ",
                   "Hits": 2
-                },
-                {
-                  "Name": "Longoria",
-                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -1005,12 +1005,8 @@
               "Name": "Dread Reaping",
               "PlayerHits": [
                 {
-                  "Name": "Thomämmer",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Knutschii",
-                  "Hits": 2
+                  "Name": "Dèathnight",
+                  "Hits": 9
                 },
                 {
                   "Name": "Walgaz",
@@ -1021,31 +1017,7 @@
                   "Hits": 8
                 },
                 {
-                  "Name": "Laona",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 4
-                },
-                {
                   "Name": "Bêâ",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Dèathnight",
-                  "Hits": 9
-                },
-                {
-                  "Name": "Aleksândra",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Thsndftz",
-                  "Hits": 12
-                },
-                {
-                  "Name": "Patrícía",
                   "Hits": 1
                 },
                 {
@@ -1053,12 +1025,40 @@
                   "Hits": 9
                 },
                 {
-                  "Name": "Rodéo",
+                  "Name": "Knutschii",
                   "Hits": 2
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 5
                 },
                 {
                   "Name": "Longoria",
                   "Hits": 3
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Patrícía",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 12
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Rodéo",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -1072,7 +1072,15 @@
               "Name": "Toad Toxin",
               "PlayerHits": [
                 {
+                  "Name": "Longoria",
+                  "Hits": 1
+                },
+                {
                   "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
                   "Hits": 1
                 },
                 {
@@ -1084,28 +1092,20 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Rágnáár",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Rodéo",
-                  "Hits": 2
-                },
-                {
                   "Name": "Bêâ",
                   "Hits": 2
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 1
                 },
                 {
                   "Name": "Locktaâr",
                   "Hits": 1
                 },
                 {
-                  "Name": "Longoria",
-                  "Hits": 1
+                  "Name": "Rodéo",
+                  "Hits": 2
                 }
               ],
               "HitType": 2
@@ -1141,16 +1141,12 @@
               "Name": "Buster Cannon",
               "PlayerHits": [
                 {
+                  "Name": "Longoria",
+                  "Hits": 1
+                },
+                {
                   "Name": "Dèathnight",
                   "Hits": 1
-                },
-                {
-                  "Name": "Aleksândra",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Rágnáár",
-                  "Hits": 3
                 },
                 {
                   "Name": "Terránigma",
@@ -1161,19 +1157,23 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Bêâ",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Locktaâr",
-                  "Hits": 1
-                },
-                {
                   "Name": "Patrícía",
                   "Hits": 1
                 },
                 {
-                  "Name": "Longoria",
+                  "Name": "Bêâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnáár",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Locktaâr",
                   "Hits": 1
                 }
               ],
@@ -1183,16 +1183,12 @@
               "Name": "Sheep Shrapnel",
               "PlayerHits": [
                 {
-                  "Name": "Dèathnight",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Thsndftz",
+                  "Name": "Longoria",
                   "Hits": 1
                 },
                 {
-                  "Name": "Knutschii",
-                  "Hits": 4
+                  "Name": "Dèathnight",
+                  "Hits": 3
                 },
                 {
                   "Name": "Walgaz",
@@ -1203,16 +1199,20 @@
                   "Hits": 1
                 },
                 {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
                   "Name": "Locktaâr",
                   "Hits": 1
                 },
                 {
-                  "Name": "Rodéo",
-                  "Hits": 2
+                  "Name": "Knutschii",
+                  "Hits": 4
                 },
                 {
-                  "Name": "Longoria",
-                  "Hits": 1
+                  "Name": "Rodéo",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -1229,15 +1229,15 @@
                   "Hits": 1
                 },
                 {
+                  "Name": "Patrícía",
+                  "Hits": 1
+                },
+                {
                   "Name": "Rágnáár",
                   "Hits": 2
                 },
                 {
                   "Name": "Laona",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Patrícía",
                   "Hits": 1
                 }
               ],
@@ -1246,10 +1246,6 @@
             {
               "Name": "Gigavolt Blast",
               "PlayerHits": [
-                {
-                  "Name": "Aleksândra",
-                  "Hits": 1
-                },
                 {
                   "Name": "Shyreal",
                   "Hits": 5
@@ -1263,11 +1259,15 @@
                   "Hits": 2
                 },
                 {
+                  "Name": "Patrícía",
+                  "Hits": 1
+                },
+                {
                   "Name": "Bêâ",
                   "Hits": 3
                 },
                 {
-                  "Name": "Patrícía",
+                  "Name": "Aleksândra",
                   "Hits": 1
                 }
               ],
@@ -1304,12 +1304,8 @@
               "Name": "Voltaic Flash",
               "PlayerHits": [
                 {
-                  "Name": "Knutschii",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Rodéo",
-                  "Hits": 1
+                  "Name": "Longoria",
+                  "Hits": 2
                 },
                 {
                   "Name": "Patrícía",
@@ -1320,8 +1316,12 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Longoria",
-                  "Hits": 2
+                  "Name": "Knutschii",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rodéo",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -1330,7 +1330,11 @@
               "Name": "Torrential Swell",
               "PlayerHits": [
                 {
-                  "Name": "Aleksândra",
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bêâ",
                   "Hits": 1
                 },
                 {
@@ -1338,11 +1342,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Terránigma",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Bêâ",
+                  "Name": "Aleksândra",
                   "Hits": 1
                 }
               ],
@@ -1352,15 +1352,15 @@
               "Name": "Thunderous Boom",
               "PlayerHits": [
                 {
-                  "Name": "Laona",
-                  "Hits": 1
-                },
-                {
                   "Name": "Bêâ",
                   "Hits": 1
                 },
                 {
                   "Name": "Locktaâr",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Laona",
                   "Hits": 1
                 }
               ],
@@ -1389,11 +1389,7 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Aleksândra",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Thomämmer",
+                  "Name": "Longoria",
                   "Hits": 1
                 },
                 {
@@ -1401,7 +1397,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Knutschii",
+                  "Name": "Thomämmer",
                   "Hits": 1
                 },
                 {
@@ -1409,11 +1405,15 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Rodéo",
+                  "Name": "Knutschii",
                   "Hits": 1
                 },
                 {
-                  "Name": "Longoria",
+                  "Name": "Aleksândra",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rodéo",
                   "Hits": 1
                 }
               ],
@@ -1423,7 +1423,7 @@
               "Name": "Torrential Swell",
               "PlayerHits": [
                 {
-                  "Name": "Thomämmer",
+                  "Name": "Longoria",
                   "Hits": 1
                 },
                 {
@@ -1431,7 +1431,7 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Longoria",
+                  "Name": "Thomämmer",
                   "Hits": 1
                 }
               ],
@@ -1441,7 +1441,7 @@
               "Name": "Thunderous Boom",
               "PlayerHits": [
                 {
-                  "Name": "Thsndftz",
+                  "Name": "Walgaz",
                   "Hits": 1
                 },
                 {
@@ -1449,7 +1449,11 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Knutschii",
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bêâ",
                   "Hits": 1
                 },
                 {
@@ -1457,11 +1461,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Walgaz",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Bêâ",
+                  "Name": "Knutschii",
                   "Hits": 1
                 },
                 {
@@ -1494,6 +1494,14 @@
                   "Hits": 1
                 },
                 {
+                  "Name": "Walgaz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                },
+                {
                   "Name": "Rágnáár",
                   "Hits": 1
                 },
@@ -1502,15 +1510,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Walgaz",
-                  "Hits": 1
-                },
-                {
                   "Name": "Locktaâr",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Endiness",
                   "Hits": 1
                 }
               ],
@@ -1520,20 +1520,20 @@
               "Name": "Torrential Swell",
               "PlayerHits": [
                 {
-                  "Name": "Rodéo",
-                  "Hits": 1
+                  "Name": "Bêâ",
+                  "Hits": 4
                 },
                 {
                   "Name": "Knutschii",
                   "Hits": 2
                 },
                 {
-                  "Name": "Bêâ",
-                  "Hits": 4
-                },
-                {
                   "Name": "Laona",
                   "Hits": 3
+                },
+                {
+                  "Name": "Rodéo",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -1542,11 +1542,11 @@
               "Name": "Thunderous Boom",
               "PlayerHits": [
                 {
-                  "Name": "Dèathnight",
+                  "Name": "Longoria",
                   "Hits": 1
                 },
                 {
-                  "Name": "Thsndftz",
+                  "Name": "Dèathnight",
                   "Hits": 1
                 },
                 {
@@ -1554,7 +1554,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Longoria",
+                  "Name": "Thsndftz",
                   "Hits": 1
                 },
                 {
@@ -1591,15 +1591,11 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Rágnáár",
+                  "Name": "Terránigma",
                   "Hits": 1
                 },
                 {
-                  "Name": "Rodéo",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Terránigma",
+                  "Name": "Rágnáár",
                   "Hits": 1
                 },
                 {
@@ -1609,6 +1605,10 @@
                 {
                   "Name": "Laona",
                   "Hits": 1
+                },
+                {
+                  "Name": "Rodéo",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -1622,43 +1622,11 @@
               "Name": "Thunderous Boom",
               "PlayerHits": [
                 {
-                  "Name": "Thsndftz",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Patrícía",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Knutschii",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Rodéo",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Walgaz",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Locktaâr",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Endiness",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 2
-                },
-                {
                   "Name": "Dèathnight",
                   "Hits": 2
                 },
                 {
-                  "Name": "Longoria",
+                  "Name": "Walgaz",
                   "Hits": 1
                 },
                 {
@@ -1666,15 +1634,47 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Blòódý",
-                  "Hits": 1
-                },
-                {
                   "Name": "Bêâ",
                   "Hits": 1
                 },
                 {
+                  "Name": "Knutschii",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Locktaâr",
+                  "Hits": 1
+                },
+                {
                   "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Longoria",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Patrícía",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rodéo",
                   "Hits": 1
                 }
               ],
@@ -1703,7 +1703,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Rodéo",
+                  "Name": "Bêâ",
                   "Hits": 1
                 },
                 {
@@ -1711,7 +1711,7 @@
                   "Hits": 3
                 },
                 {
-                  "Name": "Bêâ",
+                  "Name": "Rodéo",
                   "Hits": 1
                 },
                 {
@@ -1742,6 +1742,10 @@
                   "Hits": 1
                 },
                 {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
                   "Name": "Patrícía",
                   "Hits": 1
                 },
@@ -1752,10 +1756,6 @@
                 {
                   "Name": "Aleksândra",
                   "Hits": 2
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 1
                 },
                 {
                   "Name": "Laona",
@@ -1802,6 +1802,10 @@
                   "Hits": 1
                 },
                 {
+                  "Name": "Walgaz",
+                  "Hits": 1
+                },
+                {
                   "Name": "Thsndftz",
                   "Hits": 1
                 },
@@ -1810,16 +1814,8 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Rodéo",
-                  "Hits": 3
-                },
-                {
                   "Name": "Aleksândra",
                   "Hits": 2
-                },
-                {
-                  "Name": "Walgaz",
-                  "Hits": 1
                 },
                 {
                   "Name": "Locktaâr",
@@ -1828,6 +1824,10 @@
                 {
                   "Name": "Laona",
                   "Hits": 2
+                },
+                {
+                  "Name": "Rodéo",
+                  "Hits": 3
                 }
               ],
               "HitType": 2
