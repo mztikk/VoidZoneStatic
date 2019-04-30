@@ -138,6 +138,11 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -162,6 +167,26 @@
               "PlayerHits": [
                 {
                   "Name": "Arastorm",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blutleid",
                   "Hits": 1
                 }
               ],
@@ -287,6 +312,11 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -312,7 +342,12 @@
           "SpellHits": [
             {
               "Name": "Volatile Charge",
-              "PlayerHits": [],
+              "PlayerHits": [
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                }
+              ],
               "HitType": 0
             },
             {
@@ -410,6 +445,11 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -464,6 +504,11 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -500,6 +545,14 @@
                 },
                 {
                   "Name": "Silicâ",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
                   "Hits": 1
                 }
               ],
@@ -716,6 +769,20 @@
                 },
                 {
                   "Name": "Bakaryú",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Silicâ",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thsndftz",
                   "Hits": 2
                 }
               ],
@@ -782,11 +849,15 @@
                 },
                 {
                   "Name": "Sharia",
-                  "Hits": 1
+                  "Hits": 2
                 },
                 {
                   "Name": "Kyliepage",
                   "Hits": 2
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -971,6 +1042,24 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Overgnomi",
+                  "Hits": 4
+                }
+              ],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -1011,11 +1100,43 @@
               "PlayerHits": [
                 {
                   "Name": "Thomämmer",
-                  "Hits": 1
+                  "Hits": 2
                 },
                 {
                   "Name": "Sharia",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Vórkath",
                   "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -1175,6 +1296,16 @@
                 {
                   "Name": "Vórkath",
                   "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -1221,6 +1352,22 @@
                 {
                   "Name": "Silicâ",
                   "Hits": 1
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -1379,6 +1526,24 @@
                 },
                 {
                   "Name": "Sharia",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Lagan",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blutleid",
                   "Hits": 2
                 }
               ],
@@ -1441,6 +1606,10 @@
                 },
                 {
                   "Name": "Sharia",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Kyliepage",
                   "Hits": 1
                 }
               ],
@@ -1610,6 +1779,28 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Lagan",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -1658,6 +1849,14 @@
                 },
                 {
                   "Name": "Shyreal",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
                   "Hits": 1
                 }
               ],
@@ -1855,6 +2054,28 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -1896,7 +2117,20 @@
           "SpellHits": [
             {
               "Name": "Volatile Charge",
-              "PlayerHits": [],
+              "PlayerHits": [
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                }
+              ],
               "HitType": 0
             },
             {
@@ -2047,6 +2281,11 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -2076,6 +2315,14 @@
                 {
                   "Name": "Cela",
                   "Hits": 2
+                },
+                {
+                  "Name": "Overgnomi",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -2228,6 +2475,20 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Petpett",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -2264,7 +2525,7 @@
               "PlayerHits": [
                 {
                   "Name": "Rágnàr",
-                  "Hits": 1
+                  "Hits": 2
                 },
                 {
                   "Name": "Lagan",
@@ -2272,7 +2533,7 @@
                 },
                 {
                   "Name": "Ryánstekken",
-                  "Hits": 1
+                  "Hits": 2
                 },
                 {
                   "Name": "Edelweiss",
@@ -2289,6 +2550,10 @@
                 {
                   "Name": "Shyreal",
                   "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -2462,6 +2727,11 @@
                   "Hits": 1
                 }
               ],
+              "HitType": 0
+            },
+            {
+              "Name": "Deadly Hex",
+              "PlayerHits": [],
               "HitType": 0
             },
             {
@@ -2686,6 +2956,32 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -2722,7 +3018,7 @@
               "PlayerHits": [
                 {
                   "Name": "Rágnàr",
-                  "Hits": 1
+                  "Hits": 2
                 },
                 {
                   "Name": "Shandrelar",
@@ -2730,6 +3026,18 @@
                 },
                 {
                   "Name": "Merokald",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blutleid",
                   "Hits": 1
                 }
               ],
@@ -2919,6 +3227,24 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Lagan",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -2959,14 +3285,18 @@
               "PlayerHits": [
                 {
                   "Name": "Merokald",
-                  "Hits": 1
+                  "Hits": 2
                 },
                 {
                   "Name": "Silicâ",
-                  "Hits": 1
+                  "Hits": 2
                 },
                 {
                   "Name": "Sharia",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
                   "Hits": 1
                 }
               ],
@@ -3160,6 +3490,32 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Silicâ",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Petpett",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -3188,7 +3544,7 @@
               "PlayerHits": [
                 {
                   "Name": "Edelweiss",
-                  "Hits": 1
+                  "Hits": 2
                 },
                 {
                   "Name": "Cela",
@@ -3345,6 +3701,11 @@
               "HitType": 0
             },
             {
+              "Name": "Deadly Hex",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -3373,7 +3734,7 @@
               "PlayerHits": [
                 {
                   "Name": "Thomämmer",
-                  "Hits": 1
+                  "Hits": 2
                 },
                 {
                   "Name": "Merokald",
@@ -3381,6 +3742,10 @@
                 },
                 {
                   "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Edelweiss",
                   "Hits": 1
                 }
               ],
@@ -3529,6 +3894,24 @@
                 {
                   "Name": "Elizea",
                   "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Overgnomi",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Petpett",
+                  "Hits": 3
                 }
               ],
               "HitType": 0
