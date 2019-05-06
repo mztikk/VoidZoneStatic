@@ -1,0 +1,1644 @@
+{
+  "ReportID": "z329ZmcfGtJDQwgv",
+  "Bosses": [
+    {
+      "Name": "Conclave of the Chosen",
+      "BossTries": [
+        {
+          "TryString": "Try 1 (id: 3)",
+          "TryID": 3,
+          "SpellHits": [
+            {
+              "Name": "Static Orb",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Krag'wa's Wrath",
+              "PlayerHits": [
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Petpett",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Thundering Storm",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Lacerating Claws",
+              "PlayerHits": [
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 3
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 1589978,
+            "end": 1776705
+          }
+        },
+        {
+          "TryString": "Try 2 (id: 4)",
+          "TryID": 4,
+          "SpellHits": [
+            {
+              "Name": "Static Orb",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Krag'wa's Wrath",
+              "PlayerHits": [
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Petpett",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Thundering Storm",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Lacerating Claws",
+              "PlayerHits": [
+                {
+                  "Name": "Petpett",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 3
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 1960159,
+            "end": 2170809
+          }
+        },
+        {
+          "TryString": "Try 3 (id: 5)",
+          "TryID": 5,
+          "SpellHits": [
+            {
+              "Name": "Static Orb",
+              "PlayerHits": [
+                {
+                  "Name": "Minsesa",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Krag'wa's Wrath",
+              "PlayerHits": [
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Thundering Storm",
+              "PlayerHits": [
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Petpett",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Lacerating Claws",
+              "PlayerHits": [
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 2415207,
+            "end": 2685479
+          }
+        },
+        {
+          "TryString": "Try 4 (id: 6)",
+          "TryID": 6,
+          "SpellHits": [
+            {
+              "Name": "Static Orb",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Krag'wa's Wrath",
+              "PlayerHits": [
+                {
+                  "Name": "Lagan",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Thundering Storm",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Lacerating Claws",
+              "PlayerHits": [
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 2908754,
+            "end": 3077449
+          }
+        },
+        {
+          "TryString": "Try 5 (id: 7)",
+          "TryID": 7,
+          "SpellHits": [
+            {
+              "Name": "Static Orb",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Krag'wa's Wrath",
+              "PlayerHits": [
+                {
+                  "Name": "Lagan",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Thundering Storm",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Lacerating Claws",
+              "PlayerHits": [
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 3208185,
+            "end": 3375616
+          }
+        },
+        {
+          "TryString": "Try 6 (id: 8)",
+          "TryID": 8,
+          "SpellHits": [
+            {
+              "Name": "Static Orb",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Krag'wa's Wrath",
+              "PlayerHits": [
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Thundering Storm",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Lacerating Claws",
+              "PlayerHits": [
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Lagan",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 3
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 3605244,
+            "end": 3776025
+          }
+        },
+        {
+          "TryString": "Try 7 (id: 9)",
+          "TryID": 9,
+          "SpellHits": [
+            {
+              "Name": "Static Orb",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Krag'wa's Wrath",
+              "PlayerHits": [
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Thundering Storm",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Lacerating Claws",
+              "PlayerHits": [
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 3985060,
+            "end": 4128389
+          }
+        },
+        {
+          "TryString": "Try 8 (id: 10)",
+          "TryID": 10,
+          "SpellHits": [
+            {
+              "Name": "Static Orb",
+              "PlayerHits": [
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Lagan",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Krag'wa's Wrath",
+              "PlayerHits": [
+                {
+                  "Name": "Minsesa",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Lagan",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Thundering Storm",
+              "PlayerHits": [
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Lacerating Claws",
+              "PlayerHits": [
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Lagan",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 4339560,
+            "end": 4547901
+          }
+        },
+        {
+          "TryString": "Try 9 (id: 11)",
+          "TryID": 11,
+          "SpellHits": [
+            {
+              "Name": "Static Orb",
+              "PlayerHits": [
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Krag'wa's Wrath",
+              "PlayerHits": [
+                {
+                  "Name": "Elizea",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Thundering Storm",
+              "PlayerHits": [
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Lacerating Claws",
+              "PlayerHits": [
+                {
+                  "Name": "Elizea",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 5688379,
+            "end": 5965134
+          }
+        },
+        {
+          "TryString": "Try 10 (id: 12)",
+          "TryID": 12,
+          "SpellHits": [
+            {
+              "Name": "Static Orb",
+              "PlayerHits": [
+                {
+                  "Name": "Elizea",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Lagan",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Krag'wa's Wrath",
+              "PlayerHits": [
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Lagan",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Thundering Storm",
+              "PlayerHits": [
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Lacerating Claws",
+              "PlayerHits": [
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 6097378,
+            "end": 6436156
+          }
+        },
+        {
+          "TryString": "Try 11 (id: 13)",
+          "TryID": 13,
+          "SpellHits": [
+            {
+              "Name": "Static Orb",
+              "PlayerHits": [
+                {
+                  "Name": "Elizea",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Lagan",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Krag'wa's Wrath",
+              "PlayerHits": [
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Lagan",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Thundering Storm",
+              "PlayerHits": [
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Lacerating Claws",
+              "PlayerHits": [
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 6721690,
+            "end": 7002573
+          }
+        },
+        {
+          "TryString": "Try 12 (id: 14)",
+          "TryID": 14,
+          "SpellHits": [
+            {
+              "Name": "Static Orb",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Krag'wa's Wrath",
+              "PlayerHits": [
+                {
+                  "Name": "Elizea",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Thundering Storm",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Lacerating Claws",
+              "PlayerHits": [
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 7190292,
+            "end": 7359070
+          }
+        },
+        {
+          "TryString": "Try 13 (id: 15)",
+          "TryID": 15,
+          "SpellHits": [
+            {
+              "Name": "Static Orb",
+              "PlayerHits": [
+                {
+                  "Name": "Elizea",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Lagan",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Krag'wa's Wrath",
+              "PlayerHits": [
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Thundering Storm",
+              "PlayerHits": [
+                {
+                  "Name": "Lagan",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Lacerating Claws",
+              "PlayerHits": [
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 7498301,
+            "end": 7843040
+          }
+        },
+        {
+          "TryString": "Try 14 (id: 16)",
+          "TryID": 16,
+          "SpellHits": [
+            {
+              "Name": "Static Orb",
+              "PlayerHits": [
+                {
+                  "Name": "Silicâ",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Krag'wa's Wrath",
+              "PlayerHits": [
+                {
+                  "Name": "Silicâ",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Lagan",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Thundering Storm",
+              "PlayerHits": [
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Lagan",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Lacerating Claws",
+              "PlayerHits": [
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 8046144,
+            "end": 8451068
+          }
+        },
+        {
+          "TryString": "Try 15 (id: 17)",
+          "TryID": 17,
+          "SpellHits": [
+            {
+              "Name": "Static Orb",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Lagan",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Krag'wa's Wrath",
+              "PlayerHits": [
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Thundering Storm",
+              "PlayerHits": [
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Lacerating Claws",
+              "PlayerHits": [
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 8654759,
+            "end": 8937202
+          }
+        },
+        {
+          "TryString": "Try 16 (id: 18)",
+          "TryID": 18,
+          "SpellHits": [
+            {
+              "Name": "Static Orb",
+              "PlayerHits": [
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Krag'wa's Wrath",
+              "PlayerHits": [
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Thundering Storm",
+              "PlayerHits": [
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Lacerating Claws",
+              "PlayerHits": [
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 9183457,
+            "end": 9526804
+          }
+        },
+        {
+          "TryString": "Try 17 (id: 19)",
+          "TryID": 19,
+          "SpellHits": [
+            {
+              "Name": "Static Orb",
+              "PlayerHits": [
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Krag'wa's Wrath",
+              "PlayerHits": [
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Lagan",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Thundering Storm",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Lacerating Claws",
+              "PlayerHits": [
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 9674852,
+            "end": 10085675
+          }
+        }
+      ],
+      "Difficulty": 5,
+      "Header": "Conclave of the Chosen (Mythic)"
+    }
+  ]
+}
