@@ -1,0 +1,2976 @@
+{
+  "ReportID": "3Lr74ph8KtMqfZVB",
+  "Bosses": [
+    {
+      "Name": "Champion of the Light",
+      "BossTries": [
+        {
+          "TryString": "Try 1 (id: 1)",
+          "TryID": 1,
+          "SpellHits": [
+            {
+              "Name": "Consecration",
+              "PlayerHits": [
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Wave of Light",
+              "PlayerHits": [
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 2
+            },
+            {
+              "Name": "Blinding Faith",
+              "PlayerHits": [
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 840309,
+            "end": 937138
+          }
+        }
+      ],
+      "Difficulty": 5,
+      "Header": "Champion of the Light (Mythic)"
+    },
+    {
+      "Name": "Jadefire Masters",
+      "BossTries": [
+        {
+          "TryString": "Try 1 (id: 5)",
+          "TryID": 5,
+          "SpellHits": [
+            {
+              "Name": "Multi-Sided Strike",
+              "PlayerHits": [
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Beam",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Phoenix Strike",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Overgnomi",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 6
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            }
+          ],
+          "Time": {
+            "start": 1473453,
+            "end": 1816434
+          }
+        }
+      ],
+      "Difficulty": 5,
+      "Header": "Jadefire Masters (Mythic)"
+    },
+    {
+      "Name": "Grong the Revenant",
+      "BossTries": [
+        {
+          "TryString": "Try 1 (id: 7)",
+          "TryID": 7,
+          "SpellHits": [
+            {
+              "Name": "Deathly Echo",
+              "PlayerHits": [
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Spirit Dispersion",
+              "PlayerHits": [
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Ferocious Roar",
+              "PlayerHits": [],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 2237956,
+            "end": 2428145
+          }
+        },
+        {
+          "TryString": "Try 2 (id: 8)",
+          "TryID": 8,
+          "SpellHits": [
+            {
+              "Name": "Deathly Echo",
+              "PlayerHits": [
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Spirit Dispersion",
+              "PlayerHits": [
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Ferocious Roar",
+              "PlayerHits": [],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 2614428,
+            "end": 2900385
+          }
+        },
+        {
+          "TryString": "Try 3 (id: 9)",
+          "TryID": 9,
+          "SpellHits": [
+            {
+              "Name": "Deathly Echo",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Spirit Dispersion",
+              "PlayerHits": [
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Ferocious Roar",
+              "PlayerHits": [],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 3023317,
+            "end": 3364271
+          }
+        },
+        {
+          "TryString": "Try 4 (id: 11)",
+          "TryID": 11,
+          "SpellHits": [
+            {
+              "Name": "Deathly Echo",
+              "PlayerHits": [
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Spirit Dispersion",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Ferocious Roar",
+              "PlayerHits": [],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 3504956,
+            "end": 3833441
+          }
+        }
+      ],
+      "Difficulty": 5,
+      "Header": "Grong the Revenant (Mythic)"
+    },
+    {
+      "Name": "Opulence",
+      "BossTries": [
+        {
+          "TryString": "Try 1 (id: 14)",
+          "TryID": 14,
+          "SpellHits": [
+            {
+              "Name": "Volatile Charge",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Molten Gold",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Scorching Ground",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 6
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Flame Jet",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 8
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 7
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Flames of Punishment",
+              "PlayerHits": [
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Minsesa",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Crush",
+              "PlayerHits": [
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 5044609,
+            "end": 5261581
+          }
+        },
+        {
+          "TryString": "Try 2 (id: 15)",
+          "TryID": 15,
+          "SpellHits": [
+            {
+              "Name": "Volatile Charge",
+              "PlayerHits": [
+                {
+                  "Name": "Arastorm",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Molten Gold",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Scorching Ground",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 7
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 6
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Flame Jet",
+              "PlayerHits": [
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 7
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Flames of Punishment",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Deadly Hex",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Crush",
+              "PlayerHits": [
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 5378735,
+            "end": 5478968
+          }
+        },
+        {
+          "TryString": "Try 3 (id: 16)",
+          "TryID": 16,
+          "SpellHits": [
+            {
+              "Name": "Volatile Charge",
+              "PlayerHits": [
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 3
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Molten Gold",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Scorching Ground",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 10
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 6
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 10
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 8
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 7
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 7
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 9
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 7
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 4
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Flame Jet",
+              "PlayerHits": [
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Flames of Punishment",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Crush",
+              "PlayerHits": [
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 5591362,
+            "end": 5763852
+          }
+        },
+        {
+          "TryString": "Try 4 (id: 17)",
+          "TryID": 17,
+          "SpellHits": [
+            {
+              "Name": "Volatile Charge",
+              "PlayerHits": [
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Molten Gold",
+              "PlayerHits": [
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Scorching Ground",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 8
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 9
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 6
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 11
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 9
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 8
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Flame Jet",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 7
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Flames of Punishment",
+              "PlayerHits": [
+                {
+                  "Name": "Minsesa",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Crush",
+              "PlayerHits": [
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 5859079,
+            "end": 6320778
+          }
+        },
+        {
+          "TryString": "Try 5 (id: 18)",
+          "TryID": 18,
+          "SpellHits": [
+            {
+              "Name": "Volatile Charge",
+              "PlayerHits": [
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Molten Gold",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Scorching Ground",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 7
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 13
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 10
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Flame Jet",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Flames of Punishment",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Terránigma",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Crush",
+              "PlayerHits": [
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 6439112,
+            "end": 6785094
+          }
+        },
+        {
+          "TryString": "Try 6 (id: 19)",
+          "TryID": 19,
+          "SpellHits": [
+            {
+              "Name": "Volatile Charge",
+              "PlayerHits": [
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Molten Gold",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Scorching Ground",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 6
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 8
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 9
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 8
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 8
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 6
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 7
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 7
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 3
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Flame Jet",
+              "PlayerHits": [
+                {
+                  "Name": "Arastorm",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Flames of Punishment",
+              "PlayerHits": [
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Minsesa",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Crush",
+              "PlayerHits": [
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 6913382,
+            "end": 7085686
+          }
+        },
+        {
+          "TryString": "Try 7 (id: 20)",
+          "TryID": 20,
+          "SpellHits": [
+            {
+              "Name": "Volatile Charge",
+              "PlayerHits": [
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Molten Gold",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Scorching Ground",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 6
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 9
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 6
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Flame Jet",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 8
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Flames of Punishment",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Silicâ",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Crush",
+              "PlayerHits": [
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 7193885,
+            "end": 7402083
+          }
+        },
+        {
+          "TryString": "Try 8 (id: 21)",
+          "TryID": 21,
+          "SpellHits": [
+            {
+              "Name": "Volatile Charge",
+              "PlayerHits": [
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Molten Gold",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Scorching Ground",
+              "PlayerHits": [
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 6
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 8
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Flame Jet",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 6
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Flames of Punishment",
+              "PlayerHits": [
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Blòódý",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Crush",
+              "PlayerHits": [
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 7489122,
+            "end": 7948401
+          }
+        },
+        {
+          "TryString": "Try 9 (id: 22)",
+          "TryID": 22,
+          "SpellHits": [
+            {
+              "Name": "Volatile Charge",
+              "PlayerHits": [
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Molten Gold",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Scorching Ground",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 9
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Flame Jet",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Flames of Punishment",
+              "PlayerHits": [
+                {
+                  "Name": "Minsesa",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Crush",
+              "PlayerHits": [
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 8071637,
+            "end": 8268206
+          }
+        },
+        {
+          "TryString": "Try 10 (id: 23)",
+          "TryID": 23,
+          "SpellHits": [
+            {
+              "Name": "Volatile Charge",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Molten Gold",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 6
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Scorching Ground",
+              "PlayerHits": [
+                {
+                  "Name": "Minsesa",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Flame Jet",
+              "PlayerHits": [
+                {
+                  "Name": "Vórkath",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 7
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Flames of Punishment",
+              "PlayerHits": [
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Deadly Hex",
+              "PlayerHits": [
+                {
+                  "Name": "Cela",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Crush",
+              "PlayerHits": [
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 2
+            }
+          ],
+          "Time": {
+            "start": 8388638,
+            "end": 8869759
+          }
+        }
+      ],
+      "Difficulty": 5,
+      "Header": "Opulence (Mythic)"
+    }
+  ]
+}
