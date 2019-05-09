@@ -21,7 +21,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Petpett",
+                  "Name": "Shandrelar",
                   "Hits": 1
                 },
                 {
@@ -29,7 +29,7 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Shandrelar",
+                  "Name": "Bakaryú",
                   "Hits": 1
                 },
                 {
@@ -37,7 +37,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Bakaryú",
+                  "Name": "Petpett",
                   "Hits": 1
                 },
                 {
@@ -89,11 +89,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Petpett",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Ryánstekken",
+                  "Name": "Cela",
                   "Hits": 1
                 },
                 {
@@ -101,7 +97,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Blutleid",
+                  "Name": "Ryánstekken",
                   "Hits": 1
                 },
                 {
@@ -109,7 +105,11 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Cela",
+                  "Name": "Blutleid",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Petpett",
                   "Hits": 1
                 }
               ],
@@ -124,12 +124,12 @@
               "Name": "Lacerating Claws",
               "PlayerHits": [
                 {
-                  "Name": "Petpett",
-                  "Hits": 1
-                },
-                {
                   "Name": "Endiness",
                   "Hits": 2
+                },
+                {
+                  "Name": "Petpett",
+                  "Hits": 1
                 },
                 {
                   "Name": "Bakaryú",
@@ -164,12 +164,12 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Shandrelar",
-                  "Hits": 1
-                },
-                {
                   "Name": "Cela",
                   "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -196,15 +196,15 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Petpett",
-                  "Hits": 1
-                },
-                {
                   "Name": "Endiness",
                   "Hits": 1
                 },
                 {
                   "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Petpett",
                   "Hits": 1
                 }
               ],
@@ -213,6 +213,10 @@
             {
               "Name": "Lacerating Claws",
               "PlayerHits": [
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
                 {
                   "Name": "Endiness",
                   "Hits": 2
@@ -224,10 +228,6 @@
                 {
                   "Name": "Bakaryú",
                   "Hits": 3
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 1
                 }
               ],
               "HitType": 2
@@ -255,15 +255,15 @@
                   "Hits": 2
                 },
                 {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
                   "Name": "Sharia",
                   "Hits": 2
                 },
                 {
                   "Name": "Shandrelar",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Cela",
                   "Hits": 1
                 }
               ],
@@ -351,7 +351,7 @@
               "Name": "Krag'wa's Wrath",
               "PlayerHits": [
                 {
-                  "Name": "Ryánstekken",
+                  "Name": "Terránigma",
                   "Hits": 1
                 },
                 {
@@ -359,15 +359,15 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Bakaryú",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 1
-                },
-                {
                   "Name": "Arastorm",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ryánstekken",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
                   "Hits": 1
                 }
               ],
@@ -382,12 +382,12 @@
               "Name": "Lacerating Claws",
               "PlayerHits": [
                 {
-                  "Name": "Endiness",
-                  "Hits": 2
-                },
-                {
                   "Name": "Lagan",
                   "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
                 },
                 {
                   "Name": "Bakaryú",
@@ -415,16 +415,16 @@
               "Name": "Krag'wa's Wrath",
               "PlayerHits": [
                 {
-                  "Name": "Ryánstekken",
-                  "Hits": 2
+                  "Name": "Terránigma",
+                  "Hits": 1
                 },
                 {
                   "Name": "Shandrelar",
                   "Hits": 1
                 },
                 {
-                  "Name": "Terránigma",
-                  "Hits": 1
+                  "Name": "Ryánstekken",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -466,11 +466,11 @@
               "Name": "Static Orb",
               "PlayerHits": [
                 {
-                  "Name": "Minsesa",
+                  "Name": "Lagan",
                   "Hits": 1
                 },
                 {
-                  "Name": "Lagan",
+                  "Name": "Minsesa",
                   "Hits": 1
                 },
                 {
@@ -478,11 +478,11 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Bomora",
+                  "Name": "Shandrelar",
                   "Hits": 2
                 },
                 {
-                  "Name": "Shandrelar",
+                  "Name": "Bomora",
                   "Hits": 2
                 }
               ],
@@ -492,6 +492,14 @@
               "Name": "Krag'wa's Wrath",
               "PlayerHits": [
                 {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Lagan",
+                  "Hits": 2
+                },
+                {
                   "Name": "Minsesa",
                   "Hits": 2
                 },
@@ -500,24 +508,16 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Lagan",
-                  "Hits": 2
+                  "Name": "Sharia",
+                  "Hits": 1
                 },
                 {
                   "Name": "Bomora",
                   "Hits": 1
                 },
                 {
-                  "Name": "Sharia",
-                  "Hits": 1
-                },
-                {
                   "Name": "Blutleid",
                   "Hits": 2
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -536,12 +536,12 @@
               "Name": "Lacerating Claws",
               "PlayerHits": [
                 {
-                  "Name": "Endiness",
-                  "Hits": 2
-                },
-                {
                   "Name": "Lagan",
                   "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 2
                 },
                 {
                   "Name": "Bomora",
@@ -568,7 +568,11 @@
               "Name": "Static Orb",
               "PlayerHits": [
                 {
-                  "Name": "Silicâ",
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
                   "Hits": 1
                 },
                 {
@@ -580,11 +584,11 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Ryánstekken",
+                  "Name": "Silicâ",
                   "Hits": 1
                 },
                 {
-                  "Name": "Blutleid",
+                  "Name": "Ryánstekken",
                   "Hits": 1
                 },
                 {
@@ -592,11 +596,7 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Terránigma",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Rágnàr",
+                  "Name": "Blutleid",
                   "Hits": 1
                 }
               ],
@@ -606,11 +606,11 @@
               "Name": "Krag'wa's Wrath",
               "PlayerHits": [
                 {
-                  "Name": "Elizea",
+                  "Name": "Thsndftz",
                   "Hits": 1
                 },
                 {
-                  "Name": "Blutleid",
+                  "Name": "Elizea",
                   "Hits": 1
                 },
                 {
@@ -618,7 +618,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Thsndftz",
+                  "Name": "Blutleid",
                   "Hits": 1
                 }
               ],
@@ -638,12 +638,12 @@
               "Name": "Lacerating Claws",
               "PlayerHits": [
                 {
-                  "Name": "Elizea",
-                  "Hits": 1
-                },
-                {
                   "Name": "Endiness",
                   "Hits": 2
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 1
                 },
                 {
                   "Name": "Bakaryú",
@@ -666,11 +666,7 @@
               "Name": "Static Orb",
               "PlayerHits": [
                 {
-                  "Name": "Elizea",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Endiness",
+                  "Name": "Terránigma",
                   "Hits": 1
                 },
                 {
@@ -678,11 +674,27 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Bomora",
+                  "Name": "Endiness",
                   "Hits": 1
                 },
                 {
+                  "Name": "Thsndftz",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 2
+                },
+                {
                   "Name": "Sharia",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
                   "Hits": 1
                 },
                 {
@@ -692,18 +704,6 @@
                 {
                   "Name": "Vórkath",
                   "Hits": 1
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Cela",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Thsndftz",
-                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -712,15 +712,7 @@
               "Name": "Krag'wa's Wrath",
               "PlayerHits": [
                 {
-                  "Name": "Minsesa",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Elizea",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Edelweiss",
+                  "Name": "Lagan",
                   "Hits": 1
                 },
                 {
@@ -728,7 +720,7 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Lagan",
+                  "Name": "Minsesa",
                   "Hits": 1
                 },
                 {
@@ -736,15 +728,23 @@
                   "Hits": 1
                 },
                 {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
                   "Name": "Sharia",
                   "Hits": 1
                 },
                 {
-                  "Name": "Shandrelar",
-                  "Hits": 1
+                  "Name": "Elizea",
+                  "Hits": 2
                 },
                 {
-                  "Name": "Cela",
+                  "Name": "Shandrelar",
                   "Hits": 1
                 }
               ],
@@ -792,15 +792,7 @@
               "Name": "Static Orb",
               "PlayerHits": [
                 {
-                  "Name": "Elizea",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Minsesa",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Thomämmer",
+                  "Name": "Terránigma",
                   "Hits": 1
                 },
                 {
@@ -808,11 +800,19 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Terránigma",
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Minsesa",
                   "Hits": 1
                 },
                 {
                   "Name": "Arastorm",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Elizea",
                   "Hits": 1
                 }
               ],
@@ -822,19 +822,19 @@
               "Name": "Krag'wa's Wrath",
               "PlayerHits": [
                 {
-                  "Name": "Silicâ",
-                  "Hits": 1
-                },
-                {
                   "Name": "Lagan",
                   "Hits": 2
                 },
                 {
-                  "Name": "Bomora",
+                  "Name": "Silicâ",
                   "Hits": 1
                 },
                 {
                   "Name": "Arastorm",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
                   "Hits": 1
                 }
               ],
@@ -883,11 +883,7 @@
               "Name": "Krag'wa's Wrath",
               "PlayerHits": [
                 {
-                  "Name": "Elizea",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Ryánstekken",
+                  "Name": "Rágnàr",
                   "Hits": 1
                 },
                 {
@@ -895,15 +891,19 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Bomora",
-                  "Hits": 1
+                  "Name": "Elizea",
+                  "Hits": 2
                 },
                 {
                   "Name": "Shandrelar",
                   "Hits": 2
                 },
                 {
-                  "Name": "Rágnàr",
+                  "Name": "Ryánstekken",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
                   "Hits": 1
                 }
               ],
@@ -918,6 +918,14 @@
               "Name": "Lacerating Claws",
               "PlayerHits": [
                 {
+                  "Name": "Endiness",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
                   "Name": "Silicâ",
                   "Hits": 1
                 },
@@ -926,15 +934,11 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Endiness",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Bomora",
+                  "Name": "Blutleid",
                   "Hits": 1
                 },
                 {
-                  "Name": "Blutleid",
+                  "Name": "Bomora",
                   "Hits": 1
                 },
                 {
@@ -943,10 +947,6 @@
                 },
                 {
                   "Name": "Vórkath",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Thsndftz",
                   "Hits": 1
                 }
               ],
@@ -966,12 +966,8 @@
               "Name": "Static Orb",
               "PlayerHits": [
                 {
-                  "Name": "Elizea",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Edelweiss",
-                  "Hits": 2
+                  "Name": "Rágnàr",
+                  "Hits": 1
                 },
                 {
                   "Name": "Lagan",
@@ -982,6 +978,10 @@
                   "Hits": 1
                 },
                 {
+                  "Name": "Edelweiss",
+                  "Hits": 2
+                },
+                {
                   "Name": "Sharia",
                   "Hits": 1
                 },
@@ -990,7 +990,7 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Blutleid",
+                  "Name": "Elizea",
                   "Hits": 2
                 },
                 {
@@ -998,11 +998,11 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Vórkath",
-                  "Hits": 1
+                  "Name": "Blutleid",
+                  "Hits": 2
                 },
                 {
-                  "Name": "Rágnàr",
+                  "Name": "Vórkath",
                   "Hits": 1
                 }
               ],
@@ -1012,12 +1012,28 @@
               "Name": "Krag'wa's Wrath",
               "PlayerHits": [
                 {
-                  "Name": "Silicâ",
+                  "Name": "Rágnàr",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Terránigma",
                   "Hits": 1
                 },
                 {
                   "Name": "Thomämmer",
                   "Hits": 2
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Arastorm",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
                 },
                 {
                   "Name": "Ryánstekken",
@@ -1028,23 +1044,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Shandrelar",
-                  "Hits": 1
-                },
-                {
                   "Name": "Bakaryú",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Rágnàr",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Arastorm",
                   "Hits": 1
                 }
               ],
@@ -1092,20 +1092,20 @@
               "Name": "Static Orb",
               "PlayerHits": [
                 {
-                  "Name": "Silicâ",
-                  "Hits": 5
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
                 },
                 {
                   "Name": "Edelweiss",
                   "Hits": 1
                 },
                 {
-                  "Name": "Thomämmer",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Bomora",
-                  "Hits": 2
+                  "Name": "Silicâ",
+                  "Hits": 5
                 },
                 {
                   "Name": "Shandrelar",
@@ -1116,11 +1116,11 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Vórkath",
-                  "Hits": 1
+                  "Name": "Bomora",
+                  "Hits": 2
                 },
                 {
-                  "Name": "Thsndftz",
+                  "Name": "Vórkath",
                   "Hits": 1
                 }
               ],
@@ -1130,23 +1130,15 @@
               "Name": "Krag'wa's Wrath",
               "PlayerHits": [
                 {
-                  "Name": "Silicâ",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Elizea",
-                  "Hits": 2
+                  "Name": "Lagan",
+                  "Hits": 1
                 },
                 {
                   "Name": "Thomämmer",
                   "Hits": 1
                 },
                 {
-                  "Name": "Lagan",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Bomora",
+                  "Name": "Silicâ",
                   "Hits": 2
                 },
                 {
@@ -1154,12 +1146,20 @@
                   "Hits": 3
                 },
                 {
-                  "Name": "Blutleid",
+                  "Name": "Elizea",
                   "Hits": 2
                 },
                 {
                   "Name": "Shandrelar",
                   "Hits": 4
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 2
                 },
                 {
                   "Name": "Bakaryú",
@@ -1171,14 +1171,6 @@
             {
               "Name": "Thundering Storm",
               "PlayerHits": [
-                {
-                  "Name": "Silicâ",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Edelweiss",
-                  "Hits": 1
-                },
                 {
                   "Name": "Lagan",
                   "Hits": 1
@@ -1192,11 +1184,19 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Bakaryú",
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
                   "Hits": 1
                 },
                 {
                   "Name": "Arastorm",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
                   "Hits": 1
                 }
               ],
@@ -1206,12 +1206,12 @@
               "Name": "Lacerating Claws",
               "PlayerHits": [
                 {
-                  "Name": "Edelweiss",
-                  "Hits": 1
-                },
-                {
                   "Name": "Endiness",
                   "Hits": 2
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
                 },
                 {
                   "Name": "Bomora",
@@ -1238,24 +1238,8 @@
               "Name": "Static Orb",
               "PlayerHits": [
                 {
-                  "Name": "Vórkath",
+                  "Name": "Rágnàr",
                   "Hits": 1
-                },
-                {
-                  "Name": "Thsndftz",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Silicâ",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Edelweiss",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Blutleid",
-                  "Hits": 3
                 },
                 {
                   "Name": "Lagan",
@@ -1266,15 +1250,31 @@
                   "Hits": 1
                 },
                 {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
                   "Name": "Elizea",
                   "Hits": 1
                 },
                 {
-                  "Name": "Rágnàr",
+                  "Name": "Bakaryú",
                   "Hits": 1
                 },
                 {
-                  "Name": "Bakaryú",
+                  "Name": "Blutleid",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Vórkath",
                   "Hits": 1
                 }
               ],
@@ -1284,19 +1284,7 @@
               "Name": "Krag'wa's Wrath",
               "PlayerHits": [
                 {
-                  "Name": "Sharia",
-                  "Hits": 1
-                },
-                {
                   "Name": "Terránigma",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Shandrelar",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Elizea",
                   "Hits": 1
                 },
                 {
@@ -1306,6 +1294,18 @@
                 {
                   "Name": "Endiness",
                   "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -1314,19 +1314,11 @@
               "Name": "Thundering Storm",
               "PlayerHits": [
                 {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                },
+                {
                   "Name": "Thomämmer",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Sharia",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Silicâ",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Shandrelar",
                   "Hits": 1
                 },
                 {
@@ -1334,11 +1326,19 @@
                   "Hits": 1
                 },
                 {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 2
+                },
+                {
                   "Name": "Elizea",
                   "Hits": 1
                 },
                 {
-                  "Name": "Rágnàr",
+                  "Name": "Shandrelar",
                   "Hits": 1
                 },
                 {
@@ -1376,15 +1376,11 @@
               "Name": "Static Orb",
               "PlayerHits": [
                 {
-                  "Name": "Bomora",
-                  "Hits": 1
-                },
-                {
                   "Name": "Thomämmer",
                   "Hits": 2
                 },
                 {
-                  "Name": "Sharia",
+                  "Name": "Minsesa",
                   "Hits": 1
                 },
                 {
@@ -1392,11 +1388,11 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Silicâ",
+                  "Name": "Sharia",
                   "Hits": 1
                 },
                 {
-                  "Name": "Ryánstekken",
+                  "Name": "Silicâ",
                   "Hits": 1
                 },
                 {
@@ -1404,7 +1400,11 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Minsesa",
+                  "Name": "Ryánstekken",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
                   "Hits": 1
                 }
               ],
@@ -1414,19 +1414,7 @@
               "Name": "Krag'wa's Wrath",
               "PlayerHits": [
                 {
-                  "Name": "Bomora",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Sharia",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Cela",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Silicâ",
+                  "Name": "Rágnàr",
                   "Hits": 1
                 },
                 {
@@ -1434,15 +1422,19 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Shandrelar",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Elizea",
+                  "Name": "Endiness",
                   "Hits": 1
                 },
                 {
-                  "Name": "Rágnàr",
+                  "Name": "Cela",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
                   "Hits": 1
                 },
                 {
@@ -1450,7 +1442,15 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Endiness",
+                  "Name": "Elizea",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bomora",
                   "Hits": 1
                 }
               ],
@@ -1470,12 +1470,12 @@
               "Name": "Lacerating Claws",
               "PlayerHits": [
                 {
-                  "Name": "Bomora",
-                  "Hits": 1
-                },
-                {
                   "Name": "Endiness",
                   "Hits": 2
+                },
+                {
+                  "Name": "Bomora",
+                  "Hits": 1
                 },
                 {
                   "Name": "Bakaryú",
@@ -1498,11 +1498,11 @@
               "Name": "Static Orb",
               "PlayerHits": [
                 {
-                  "Name": "Bomora",
+                  "Name": "Rágnàr",
                   "Hits": 1
                 },
                 {
-                  "Name": "Vórkath",
+                  "Name": "Terránigma",
                   "Hits": 1
                 },
                 {
@@ -1518,7 +1518,11 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Terránigma",
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
                   "Hits": 1
                 },
                 {
@@ -1526,16 +1530,12 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Shandrelar",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Rágnàr",
-                  "Hits": 1
-                },
-                {
                   "Name": "Bakaryú",
                   "Hits": 2
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -1544,11 +1544,19 @@
               "Name": "Krag'wa's Wrath",
               "PlayerHits": [
                 {
-                  "Name": "Bomora",
+                  "Name": "Lagan",
                   "Hits": 1
                 },
                 {
-                  "Name": "Vórkath",
+                  "Name": "Terránigma",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Minsesa",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thsndftz",
                   "Hits": 1
                 },
                 {
@@ -1560,15 +1568,19 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Thsndftz",
+                  "Name": "Elizea",
                   "Hits": 1
                 },
                 {
-                  "Name": "Terránigma",
-                  "Hits": 3
+                  "Name": "Shandrelar",
+                  "Hits": 1
                 },
                 {
-                  "Name": "Shandrelar",
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bomora",
                   "Hits": 1
                 },
                 {
@@ -1576,19 +1588,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Lagan",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Minsesa",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Elizea",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Bakaryú",
+                  "Name": "Vórkath",
                   "Hits": 1
                 }
               ],
@@ -1598,10 +1598,6 @@
               "Name": "Thundering Storm",
               "PlayerHits": [
                 {
-                  "Name": "Vórkath",
-                  "Hits": 1
-                },
-                {
                   "Name": "Cela",
                   "Hits": 1
                 },
@@ -1611,6 +1607,10 @@
                 },
                 {
                   "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Vórkath",
                   "Hits": 1
                 }
               ],
