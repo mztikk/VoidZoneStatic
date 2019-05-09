@@ -522,11 +522,11 @@
               "Name": "Flames of Punishment",
               "PlayerHits": [
                 {
-                  "Name": "Ryánstekken",
+                  "Name": "Rágnàr",
                   "Hits": 2
                 },
                 {
-                  "Name": "Rágnàr",
+                  "Name": "Ryánstekken",
                   "Hits": 2
                 }
               ],
@@ -539,35 +539,22 @@
             },
             {
               "Name": "Creeping Blaze",
-              "PlayerHits": [
-                {
-                  "Name": "Elizea",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Bakaryú",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Kyliepage",
-                  "Hits": 1
-                }
-              ],
+              "PlayerHits": [],
               "HitType": 0
             },
             {
               "Name": "Crush",
               "PlayerHits": [
                 {
-                  "Name": "Shandrelar",
-                  "Hits": 1
-                },
-                {
                   "Name": "Kyliepage",
                   "Hits": 1
                 },
                 {
                   "Name": "Rágnàr",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
                   "Hits": 1
                 }
               ],
@@ -576,7 +563,7 @@
           ],
           "Time": {
             "start": 1196782,
-            "end": 1232313
+            "end": 1230835
           }
         },
         {
@@ -3418,12 +3405,12 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Sharia",
-                  "Hits": 1
-                },
-                {
                   "Name": "Merokald",
                   "Hits": 2
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 1
                 },
                 {
                   "Name": "Rágnàr",
@@ -3441,24 +3428,28 @@
               "Name": "Scorching Ground",
               "PlayerHits": [
                 {
-                  "Name": "Silicâ",
-                  "Hits": 1
-                },
-                {
                   "Name": "Ryánstekken",
                   "Hits": 4
                 },
                 {
-                  "Name": "Thsndftz",
-                  "Hits": 2
+                  "Name": "Thomämmer",
+                  "Hits": 5
                 },
                 {
-                  "Name": "Overgnomi",
+                  "Name": "Edelweiss",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Petpett",
                   "Hits": 6
                 },
                 {
-                  "Name": "Elizea",
-                  "Hits": 6
+                  "Name": "Bakaryú",
+                  "Hits": 4
                 },
                 {
                   "Name": "Lagan",
@@ -3469,47 +3460,43 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Sharia",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Kyliepage",
-                  "Hits": 10
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Petpett",
-                  "Hits": 6
-                },
-                {
-                  "Name": "Merokald",
+                  "Name": "Silicâ",
                   "Hits": 1
-                },
-                {
-                  "Name": "Edelweiss",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Vórkath",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Bakaryú",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Shandrelar",
-                  "Hits": 2
                 },
                 {
                   "Name": "Blutleid",
                   "Hits": 9
                 },
                 {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 9
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 2
+                },
+                {
                   "Name": "Cela",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Overgnomi",
+                  "Hits": 6
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 6
+                },
+                {
+                  "Name": "Sharia",
                   "Hits": 3
                 }
               ],
@@ -3519,16 +3506,32 @@
               "Name": "Flame Jet",
               "PlayerHits": [
                 {
-                  "Name": "Silicâ",
-                  "Hits": 3
-                },
-                {
                   "Name": "Ryánstekken",
                   "Hits": 3
                 },
                 {
-                  "Name": "Thsndftz",
+                  "Name": "Shyreal",
                   "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Petpett",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 3
                 },
                 {
                   "Name": "Rágnàr",
@@ -3539,52 +3542,32 @@
                   "Hits": 5
                 },
                 {
-                  "Name": "Sharia",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Kyliepage",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Petpett",
-                  "Hits": 6
-                },
-                {
-                  "Name": "Merokald",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Shyreal",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Edelweiss",
+                  "Name": "Silicâ",
                   "Hits": 3
-                },
-                {
-                  "Name": "Vórkath",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Shandrelar",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Bakaryú",
-                  "Hits": 4
                 },
                 {
                   "Name": "Blutleid",
                   "Hits": 3
                 },
                 {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Kyliepage",
+                  "Hits": 3
+                },
+                {
                   "Name": "Cela",
                   "Hits": 5
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -3593,19 +3576,7 @@
               "Name": "Flames of Punishment",
               "PlayerHits": [
                 {
-                  "Name": "Overgnomi",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Elizea",
-                  "Hits": 2
-                },
-                {
                   "Name": "Lagan",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Bakaryú",
                   "Hits": 2
                 },
                 {
@@ -3615,6 +3586,14 @@
                 {
                   "Name": "Merokald",
                   "Hits": 2
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Overgnomi",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -3627,10 +3606,6 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Sharia",
-                  "Hits": 2
-                },
-                {
                   "Name": "Blutleid",
                   "Hits": 2
                 },
@@ -3641,18 +3616,17 @@
                 {
                   "Name": "Petpett",
                   "Hits": 4
+                },
+                {
+                  "Name": "Sharia",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
             },
             {
               "Name": "Creeping Blaze",
-              "PlayerHits": [
-                {
-                  "Name": "Kyliepage",
-                  "Hits": 1
-                }
-              ],
+              "PlayerHits": [],
               "HitType": 0
             },
             {
@@ -3672,7 +3646,7 @@
           ],
           "Time": {
             "start": 6511784,
-            "end": 6709512
+            "end": 6703976
           }
         },
         {
