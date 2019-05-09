@@ -12,20 +12,16 @@
               "Name": "Volatile Charge",
               "PlayerHits": [
                 {
+                  "Name": "Mauriana",
+                  "Hits": 2
+                },
+                {
                   "Name": "Silicâ",
                   "Hits": 2
                 },
                 {
                   "Name": "Elizea",
                   "Hits": 2
-                },
-                {
-                  "Name": "Mauriana",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Shandrelar",
-                  "Hits": 1
                 },
                 {
                   "Name": "Edelweiss",
@@ -36,20 +32,24 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Ameliê",
+                  "Name": "Rágnàr",
                   "Hits": 1
                 },
                 {
-                  "Name": "Merokald",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Rágnàr",
+                  "Name": "Ameliê",
                   "Hits": 1
                 },
                 {
                   "Name": "Blòódý",
                   "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -63,52 +63,52 @@
               "Name": "Scorching Ground",
               "PlayerHits": [
                 {
-                  "Name": "Vórkath",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Ameliê",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Shandrelar",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Merokald",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Silicâ",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Elizea",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Rágnàr",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Ìshkur",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 6
-                },
-                {
-                  "Name": "Laona",
-                  "Hits": 1
-                },
-                {
                   "Name": "Overgnomi",
                   "Hits": 4
                 },
                 {
                   "Name": "Edelweiss",
                   "Hits": 3
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Ameliê",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 6
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -117,7 +117,55 @@
               "Name": "Flame Jet",
               "PlayerHits": [
                 {
+                  "Name": "Mauriana",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Overgnomi",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 8
+                },
+                {
+                  "Name": "Ameliê",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 5
+                },
+                {
                   "Name": "Vórkath",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Rágnàr",
                   "Hits": 3
                 },
                 {
@@ -125,8 +173,8 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Ameliê",
-                  "Hits": 4
+                  "Name": "Blòódý",
+                  "Hits": 2
                 },
                 {
                   "Name": "Shandrelar",
@@ -135,54 +183,6 @@
                 {
                   "Name": "Elizea",
                   "Hits": 7
-                },
-                {
-                  "Name": "Ìshkur",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Mauriana",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 8
-                },
-                {
-                  "Name": "Edelweiss",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Cela",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Silicâ",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Rágnàr",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Laona",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Overgnomi",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Thsndftz",
-                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -191,19 +191,19 @@
               "Name": "Flames of Punishment",
               "PlayerHits": [
                 {
-                  "Name": "Shyreal",
-                  "Hits": 2
+                  "Name": "Thomämmer",
+                  "Hits": 1
                 },
                 {
                   "Name": "Ameliê",
                   "Hits": 1
                 },
                 {
-                  "Name": "Shandrelar",
-                  "Hits": 1
+                  "Name": "Shyreal",
+                  "Hits": 2
                 },
                 {
-                  "Name": "Thomämmer",
+                  "Name": "Shandrelar",
                   "Hits": 1
                 }
               ],
@@ -213,15 +213,7 @@
               "Name": "Deadly Hex",
               "PlayerHits": [
                 {
-                  "Name": "Shandrelar",
-                  "Hits": 2
-                },
-                {
                   "Name": "Cela",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Ìshkur",
                   "Hits": 3
                 },
                 {
@@ -229,14 +221,27 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Elizea",
-                  "Hits": 4
+                  "Name": "Shandrelar",
+                  "Hits": 2
                 },
                 {
                   "Name": "Laona",
                   "Hits": 2
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 3
                 }
               ],
+              "HitType": 0
+            },
+            {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [],
               "HitType": 0
             },
             {
@@ -251,11 +256,11 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Ìshkur",
+                  "Name": "Overgnomi",
                   "Hits": 1
                 },
                 {
-                  "Name": "Overgnomi",
+                  "Name": "Ìshkur",
                   "Hits": 1
                 }
               ],
@@ -275,11 +280,11 @@
               "Name": "Volatile Charge",
               "PlayerHits": [
                 {
-                  "Name": "Blòódý",
+                  "Name": "Edelweiss",
                   "Hits": 2
                 },
                 {
-                  "Name": "Edelweiss",
+                  "Name": "Blòódý",
                   "Hits": 2
                 },
                 {
@@ -302,72 +307,8 @@
               "Name": "Scorching Ground",
               "PlayerHits": [
                 {
-                  "Name": "Shyreal",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Vórkath",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Ameliê",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Shandrelar",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Merokald",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Elizea",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Ìshkur",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 4
-                },
-                {
                   "Name": "Mauriana",
                   "Hits": 3
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Edelweiss",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Cela",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Silicâ",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Bakaryú",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Rágnàr",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Laona",
-                  "Hits": 1
                 },
                 {
                   "Name": "Thsndftz",
@@ -375,6 +316,70 @@
                 },
                 {
                   "Name": "Overgnomi",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Ameliê",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Elizea",
                   "Hits": 3
                 }
               ],
@@ -384,59 +389,23 @@
               "Name": "Flame Jet",
               "PlayerHits": [
                 {
-                  "Name": "Vórkath",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Shyreal",
+                  "Name": "Thsndftz",
                   "Hits": 1
                 },
                 {
-                  "Name": "Ameliê",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Shandrelar",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Merokald",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Elizea",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Ìshkur",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 5
+                  "Name": "Overgnomi",
+                  "Hits": 4
                 },
                 {
                   "Name": "Thomämmer",
                   "Hits": 3
                 },
                 {
-                  "Name": "Edelweiss",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Silicâ",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Bakaryú",
+                  "Name": "Ameliê",
                   "Hits": 2
                 },
                 {
-                  "Name": "Terránigma",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Rágnàr",
+                  "Name": "Silicâ",
                   "Hits": 1
                 },
                 {
@@ -444,12 +413,48 @@
                   "Hits": 3
                 },
                 {
-                  "Name": "Thsndftz",
+                  "Name": "Ìshkur",
                   "Hits": 1
                 },
                 {
-                  "Name": "Overgnomi",
+                  "Name": "Bakaryú",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Edelweiss",
                   "Hits": 4
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 5
                 }
               ],
               "HitType": 0
@@ -458,11 +463,11 @@
               "Name": "Flames of Punishment",
               "PlayerHits": [
                 {
-                  "Name": "Shyreal",
+                  "Name": "Mauriana",
                   "Hits": 1
                 },
                 {
-                  "Name": "Ameliê",
+                  "Name": "Bakaryú",
                   "Hits": 2
                 },
                 {
@@ -470,16 +475,16 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Bakaryú",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Mauriana",
-                  "Hits": 1
-                },
-                {
                   "Name": "Thomämmer",
                   "Hits": 2
+                },
+                {
+                  "Name": "Ameliê",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 1
                 },
                 {
                   "Name": "Laona",
@@ -492,23 +497,36 @@
               "Name": "Deadly Hex",
               "PlayerHits": [
                 {
-                  "Name": "Shandrelar",
-                  "Hits": 2
+                  "Name": "Mauriana",
+                  "Hits": 5
                 },
                 {
                   "Name": "Silicâ",
                   "Hits": 2
                 },
                 {
-                  "Name": "Mauriana",
-                  "Hits": 5
+                  "Name": "Shandrelar",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
             },
             {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
                 {
                   "Name": "Shyreal",
                   "Hits": 2
@@ -518,20 +536,12 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Terránigma",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Bakaryú",
-                  "Hits": 1
+                  "Name": "Laona",
+                  "Hits": 2
                 },
                 {
                   "Name": "Ìshkur",
                   "Hits": 1
-                },
-                {
-                  "Name": "Laona",
-                  "Hits": 2
                 },
                 {
                   "Name": "Ameliê",
@@ -554,10 +564,6 @@
               "Name": "Volatile Charge",
               "PlayerHits": [
                 {
-                  "Name": "Elizea",
-                  "Hits": 2
-                },
-                {
                   "Name": "Edelweiss",
                   "Hits": 2
                 },
@@ -566,15 +572,19 @@
                   "Hits": 1
                 },
                 {
+                  "Name": "Elizea",
+                  "Hits": 2
+                },
+                {
                   "Name": "Thomämmer",
                   "Hits": 2
                 },
                 {
-                  "Name": "Merokald",
+                  "Name": "Shyreal",
                   "Hits": 1
                 },
                 {
-                  "Name": "Shyreal",
+                  "Name": "Merokald",
                   "Hits": 1
                 }
               ],
@@ -589,63 +599,11 @@
               "Name": "Scorching Ground",
               "PlayerHits": [
                 {
-                  "Name": "Shyreal",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Vórkath",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Ameliê",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Shandrelar",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Merokald",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Elizea",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Ìshkur",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 3
-                },
-                {
                   "Name": "Mauriana",
                   "Hits": 2
                 },
                 {
-                  "Name": "Cela",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Silicâ",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Bakaryú",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Rágnàr",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Laona",
+                  "Name": "Thsndftz",
                   "Hits": 2
                 },
                 {
@@ -653,8 +611,60 @@
                   "Hits": 5
                 },
                 {
-                  "Name": "Thsndftz",
+                  "Name": "Ameliê",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
                   "Hits": 2
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -663,64 +673,8 @@
               "Name": "Flame Jet",
               "PlayerHits": [
                 {
-                  "Name": "Vórkath",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Shyreal",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Ameliê",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Shandrelar",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Elizea",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Ìshkur",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 3
-                },
-                {
                   "Name": "Mauriana",
                   "Hits": 2
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 8
-                },
-                {
-                  "Name": "Cela",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Edelweiss",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Rágnàr",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Laona",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Endiness",
-                  "Hits": 1
                 },
                 {
                   "Name": "Thsndftz",
@@ -729,6 +683,62 @@
                 {
                   "Name": "Overgnomi",
                   "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 8
+                },
+                {
+                  "Name": "Ameliê",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 4
                 }
               ],
               "HitType": 0
@@ -737,19 +747,7 @@
               "Name": "Flames of Punishment",
               "PlayerHits": [
                 {
-                  "Name": "Vórkath",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Shandrelar",
-                  "Hits": 2
-                },
-                {
                   "Name": "Bakaryú",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Blòódý",
                   "Hits": 1
                 },
                 {
@@ -757,8 +755,20 @@
                   "Hits": 1
                 },
                 {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
                   "Name": "Thomämmer",
                   "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -767,11 +777,11 @@
               "Name": "Deadly Hex",
               "PlayerHits": [
                 {
-                  "Name": "Shandrelar",
+                  "Name": "Ameliê",
                   "Hits": 3
                 },
                 {
-                  "Name": "Ameliê",
+                  "Name": "Shandrelar",
                   "Hits": 3
                 },
                 {
@@ -779,6 +789,11 @@
                   "Hits": 2
                 }
               ],
+              "HitType": 0
+            },
+            {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [],
               "HitType": 0
             },
             {
@@ -789,7 +804,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Shyreal",
+                  "Name": "Cela",
                   "Hits": 1
                 },
                 {
@@ -801,7 +816,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Cela",
+                  "Name": "Shyreal",
                   "Hits": 1
                 }
               ],
@@ -821,11 +836,11 @@
               "Name": "Volatile Charge",
               "PlayerHits": [
                 {
-                  "Name": "Silicâ",
+                  "Name": "Blòódý",
                   "Hits": 1
                 },
                 {
-                  "Name": "Blòódý",
+                  "Name": "Silicâ",
                   "Hits": 1
                 }
               ],
@@ -840,12 +855,56 @@
               "Name": "Scorching Ground",
               "PlayerHits": [
                 {
-                  "Name": "Shyreal",
+                  "Name": "Thsndftz",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Overgnomi",
                   "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 4
                 },
                 {
                   "Name": "Ameliê",
                   "Hits": 7
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
                 },
                 {
                   "Name": "Shandrelar",
@@ -858,50 +917,6 @@
                 {
                   "Name": "Elizea",
                   "Hits": 3
-                },
-                {
-                  "Name": "Ìshkur",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Edelweiss",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Cela",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Silicâ",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Bakaryú",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Rágnàr",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Overgnomi",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Thsndftz",
-                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -910,64 +925,8 @@
               "Name": "Flame Jet",
               "PlayerHits": [
                 {
-                  "Name": "Vórkath",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Shyreal",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Shandrelar",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Merokald",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Elizea",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Ìshkur",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 4
-                },
-                {
                   "Name": "Mauriana",
                   "Hits": 2
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 13
-                },
-                {
-                  "Name": "Cela",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Edelweiss",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Silicâ",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Rágnàr",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Laona",
-                  "Hits": 4
                 },
                 {
                   "Name": "Thsndftz",
@@ -976,6 +935,62 @@
                 {
                   "Name": "Overgnomi",
                   "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 13
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 4
                 }
               ],
               "HitType": 0
@@ -984,7 +999,7 @@
               "Name": "Flames of Punishment",
               "PlayerHits": [
                 {
-                  "Name": "Shandrelar",
+                  "Name": "Bakaryú",
                   "Hits": 1
                 },
                 {
@@ -992,16 +1007,16 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Bakaryú",
-                  "Hits": 1
+                  "Name": "Overgnomi",
+                  "Hits": 2
                 },
                 {
                   "Name": "Thomämmer",
                   "Hits": 4
                 },
                 {
-                  "Name": "Overgnomi",
-                  "Hits": 2
+                  "Name": "Shandrelar",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -1018,14 +1033,19 @@
                   "Hits": 9
                 },
                 {
-                  "Name": "Elizea",
+                  "Name": "Laona",
                   "Hits": 2
                 },
                 {
-                  "Name": "Laona",
+                  "Name": "Elizea",
                   "Hits": 2
                 }
               ],
+              "HitType": 0
+            },
+            {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [],
               "HitType": 0
             },
             {
@@ -1036,12 +1056,12 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Ameliê",
-                  "Hits": 2
-                },
-                {
                   "Name": "Thsndftz",
                   "Hits": 1
+                },
+                {
+                  "Name": "Ameliê",
+                  "Hits": 2
                 }
               ],
               "HitType": 2
@@ -1060,7 +1080,7 @@
               "Name": "Volatile Charge",
               "PlayerHits": [
                 {
-                  "Name": "Merokald",
+                  "Name": "Edelweiss",
                   "Hits": 1
                 },
                 {
@@ -1072,7 +1092,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Edelweiss",
+                  "Name": "Merokald",
                   "Hits": 1
                 },
                 {
@@ -1095,48 +1115,16 @@
               "Name": "Scorching Ground",
               "PlayerHits": [
                 {
-                  "Name": "Shyreal",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Ameliê",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Shandrelar",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Ìshkur",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 1
-                },
-                {
                   "Name": "Mauriana",
                   "Hits": 2
-                },
-                {
-                  "Name": "Cela",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Silicâ",
-                  "Hits": 5
                 },
                 {
                   "Name": "Bakaryú",
                   "Hits": 3
                 },
                 {
-                  "Name": "Laona",
-                  "Hits": 2
+                  "Name": "Cela",
+                  "Hits": 3
                 },
                 {
                   "Name": "Thsndftz",
@@ -1145,6 +1133,38 @@
                 {
                   "Name": "Overgnomi",
                   "Hits": 3
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ameliê",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 5
                 }
               ],
               "HitType": 0
@@ -1153,27 +1173,11 @@
               "Name": "Flame Jet",
               "PlayerHits": [
                 {
-                  "Name": "Shyreal",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Vórkath",
+                  "Name": "Thsndftz",
                   "Hits": 1
                 },
                 {
-                  "Name": "Ameliê",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Shandrelar",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Elizea",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Blòódý",
+                  "Name": "Overgnomi",
                   "Hits": 1
                 },
                 {
@@ -1181,12 +1185,12 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Cela",
-                  "Hits": 2
+                  "Name": "Ameliê",
+                  "Hits": 4
                 },
                 {
-                  "Name": "Edelweiss",
-                  "Hits": 1
+                  "Name": "Cela",
+                  "Hits": 2
                 },
                 {
                   "Name": "Bakaryú",
@@ -1197,15 +1201,31 @@
                   "Hits": 2
                 },
                 {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
                   "Name": "Rágnàr",
                   "Hits": 2
                 },
                 {
-                  "Name": "Overgnomi",
+                  "Name": "Shyreal",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blòódý",
                   "Hits": 1
                 },
                 {
-                  "Name": "Thsndftz",
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Elizea",
                   "Hits": 1
                 }
               ],
@@ -1227,6 +1247,11 @@
             },
             {
               "Name": "Deadly Hex",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Creeping Blaze",
               "PlayerHits": [],
               "HitType": 0
             },
@@ -1262,11 +1287,11 @@
               "Name": "Volatile Charge",
               "PlayerHits": [
                 {
-                  "Name": "Rágnàr",
+                  "Name": "Mauriana",
                   "Hits": 1
                 },
                 {
-                  "Name": "Mauriana",
+                  "Name": "Rágnàr",
                   "Hits": 1
                 },
                 {
@@ -1285,16 +1310,64 @@
               "Name": "Scorching Ground",
               "PlayerHits": [
                 {
+                  "Name": "Mauriana",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Overgnomi",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 7
+                },
+                {
+                  "Name": "Ameliê",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 6
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 6
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 2
+                },
+                {
                   "Name": "Vórkath",
                   "Hits": 3
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 6
                 },
                 {
                   "Name": "Shyreal",
                   "Hits": 6
                 },
                 {
-                  "Name": "Ameliê",
-                  "Hits": 1
+                  "Name": "Blòódý",
+                  "Hits": 2
                 },
                 {
                   "Name": "Shandrelar",
@@ -1303,54 +1376,6 @@
                 {
                   "Name": "Elizea",
                   "Hits": 1
-                },
-                {
-                  "Name": "Ìshkur",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Mauriana",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 7
-                },
-                {
-                  "Name": "Edelweiss",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Cela",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Silicâ",
-                  "Hits": 6
-                },
-                {
-                  "Name": "Bakaryú",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Rágnàr",
-                  "Hits": 6
-                },
-                {
-                  "Name": "Laona",
-                  "Hits": 6
-                },
-                {
-                  "Name": "Overgnomi",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Thsndftz",
-                  "Hits": 4
                 }
               ],
               "HitType": 0
@@ -1359,31 +1384,15 @@
               "Name": "Flame Jet",
               "PlayerHits": [
                 {
-                  "Name": "Vórkath",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Ameliê",
-                  "Hits": 6
-                },
-                {
-                  "Name": "Shandrelar",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Merokald",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Elizea",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Ìshkur",
+                  "Name": "Mauriana",
                   "Hits": 1
                 },
                 {
-                  "Name": "Mauriana",
+                  "Name": "Thsndftz",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Overgnomi",
                   "Hits": 1
                 },
                 {
@@ -1391,19 +1400,27 @@
                   "Hits": 4
                 },
                 {
-                  "Name": "Cela",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Edelweiss",
-                  "Hits": 1
+                  "Name": "Ameliê",
+                  "Hits": 6
                 },
                 {
                   "Name": "Silicâ",
                   "Hits": 3
                 },
                 {
+                  "Name": "Laona",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 1
+                },
+                {
                   "Name": "Bakaryú",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Cela",
                   "Hits": 2
                 },
                 {
@@ -1411,24 +1428,32 @@
                   "Hits": 4
                 },
                 {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 2
+                },
+                {
                   "Name": "Rágnàr",
                   "Hits": 4
                 },
                 {
-                  "Name": "Laona",
-                  "Hits": 2
+                  "Name": "Merokald",
+                  "Hits": 4
                 },
                 {
-                  "Name": "Thsndftz",
-                  "Hits": 2
+                  "Name": "Shandrelar",
+                  "Hits": 4
                 },
                 {
                   "Name": "Endiness",
                   "Hits": 1
                 },
                 {
-                  "Name": "Overgnomi",
-                  "Hits": 1
+                  "Name": "Elizea",
+                  "Hits": 5
                 }
               ],
               "HitType": 0
@@ -1437,20 +1462,8 @@
               "Name": "Flames of Punishment",
               "PlayerHits": [
                 {
-                  "Name": "Silicâ",
-                  "Hits": 2
-                },
-                {
                   "Name": "Bakaryú",
                   "Hits": 3
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 1
                 },
                 {
                   "Name": "Cela",
@@ -1461,7 +1474,27 @@
                   "Hits": 2
                 },
                 {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 2
+                },
+                {
                   "Name": "Vórkath",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnàr",
                   "Hits": 2
                 },
                 {
@@ -1470,14 +1503,6 @@
                 },
                 {
                   "Name": "Shandrelar",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Rágnàr",
                   "Hits": 2
                 },
                 {
@@ -1491,7 +1516,7 @@
               "Name": "Deadly Hex",
               "PlayerHits": [
                 {
-                  "Name": "Silicâ",
+                  "Name": "Mauriana",
                   "Hits": 2
                 },
                 {
@@ -1499,7 +1524,7 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Mauriana",
+                  "Name": "Silicâ",
                   "Hits": 2
                 },
                 {
@@ -1514,14 +1539,28 @@
               "HitType": 0
             },
             {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                }
+              ],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
                 {
                   "Name": "Ìshkur",
                   "Hits": 2
                 },
                 {
-                  "Name": "Thomämmer",
+                  "Name": "Rágnàr",
                   "Hits": 1
                 },
                 {
@@ -1530,10 +1569,6 @@
                 },
                 {
                   "Name": "Elizea",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Rágnàr",
                   "Hits": 1
                 }
               ],
@@ -1553,7 +1588,7 @@
               "Name": "Volatile Charge",
               "PlayerHits": [
                 {
-                  "Name": "Rágnàr",
+                  "Name": "Cela",
                   "Hits": 1
                 },
                 {
@@ -1561,7 +1596,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Cela",
+                  "Name": "Rágnàr",
                   "Hits": 1
                 }
               ],
@@ -1576,7 +1611,19 @@
               "Name": "Scorching Ground",
               "PlayerHits": [
                 {
+                  "Name": "Mauriana",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 2
+                },
+                {
                   "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
                   "Hits": 1
                 },
                 {
@@ -1590,18 +1637,6 @@
                 {
                   "Name": "Merokald",
                   "Hits": 1
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Rágnàr",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Mauriana",
-                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -1610,16 +1645,40 @@
               "Name": "Flame Jet",
               "PlayerHits": [
                 {
-                  "Name": "Shyreal",
-                  "Hits": 2
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Overgnomi",
+                  "Hits": 5
                 },
                 {
                   "Name": "Vórkath",
                   "Hits": 1
                 },
                 {
+                  "Name": "Rágnàr",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 2
+                },
+                {
                   "Name": "Ameliê",
                   "Hits": 2
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
                 },
                 {
                   "Name": "Shandrelar",
@@ -1630,40 +1689,16 @@
                   "Hits": 1
                 },
                 {
+                  "Name": "Laona",
+                  "Hits": 4
+                },
+                {
                   "Name": "Elizea",
                   "Hits": 1
                 },
                 {
                   "Name": "Ìshkur",
                   "Hits": 1
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Silicâ",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Rágnàr",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Laona",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Thsndftz",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Overgnomi",
-                  "Hits": 5
                 }
               ],
               "HitType": 0
@@ -1672,11 +1707,7 @@
               "Name": "Flames of Punishment",
               "PlayerHits": [
                 {
-                  "Name": "Ameliê",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Merokald",
+                  "Name": "Bakaryú",
                   "Hits": 2
                 },
                 {
@@ -1684,7 +1715,11 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Bakaryú",
+                  "Name": "Ameliê",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
                   "Hits": 2
                 }
               ],
@@ -1696,6 +1731,11 @@
               "HitType": 0
             },
             {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -1703,11 +1743,11 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Thomämmer",
+                  "Name": "Edelweiss",
                   "Hits": 1
                 },
                 {
-                  "Name": "Edelweiss",
+                  "Name": "Thomämmer",
                   "Hits": 1
                 }
               ],
@@ -1750,60 +1790,8 @@
               "Name": "Scorching Ground",
               "PlayerHits": [
                 {
-                  "Name": "Vórkath",
-                  "Hits": 10
-                },
-                {
-                  "Name": "Shyreal",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Ameliê",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Shandrelar",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Merokald",
-                  "Hits": 9
-                },
-                {
-                  "Name": "Ìshkur",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 2
-                },
-                {
                   "Name": "Mauriana",
                   "Hits": 3
-                },
-                {
-                  "Name": "Cela",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Silicâ",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Bakaryú",
-                  "Hits": 8
-                },
-                {
-                  "Name": "Rágnàr",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Laona",
-                  "Hits": 8
                 },
                 {
                   "Name": "Thsndftz",
@@ -1812,6 +1800,58 @@
                 {
                   "Name": "Overgnomi",
                   "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ameliê",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 8
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 8
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 10
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 9
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -1820,27 +1860,19 @@
               "Name": "Flame Jet",
               "PlayerHits": [
                 {
-                  "Name": "Shyreal",
+                  "Name": "Mauriana",
                   "Hits": 1
                 },
                 {
-                  "Name": "Shandrelar",
-                  "Hits": 5
+                  "Name": "Overgnomi",
+                  "Hits": 2
                 },
                 {
                   "Name": "Terránigma",
                   "Hits": 4
                 },
                 {
-                  "Name": "Elizea",
-                  "Hits": 2
-                },
-                {
                   "Name": "Rágnàr",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Blòódý",
                   "Hits": 1
                 },
                 {
@@ -1848,15 +1880,23 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Mauriana",
+                  "Name": "Shyreal",
                   "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 5
                 },
                 {
                   "Name": "Endiness",
                   "Hits": 2
                 },
                 {
-                  "Name": "Overgnomi",
+                  "Name": "Elizea",
                   "Hits": 2
                 }
               ],
@@ -1866,24 +1906,24 @@
               "Name": "Flames of Punishment",
               "PlayerHits": [
                 {
-                  "Name": "Ameliê",
-                  "Hits": 2
+                  "Name": "Cela",
+                  "Hits": 1
                 },
                 {
                   "Name": "Bakaryú",
                   "Hits": 1
                 },
                 {
-                  "Name": "Blòódý",
-                  "Hits": 2
-                },
-                {
                   "Name": "Thomämmer",
                   "Hits": 2
                 },
                 {
-                  "Name": "Cela",
-                  "Hits": 1
+                  "Name": "Ameliê",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -1892,7 +1932,7 @@
               "Name": "Deadly Hex",
               "PlayerHits": [
                 {
-                  "Name": "Silicâ",
+                  "Name": "Thsndftz",
                   "Hits": 2
                 },
                 {
@@ -1900,23 +1940,32 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Shandrelar",
-                  "Hits": 2
-                },
-                {
                   "Name": "Vórkath",
                   "Hits": 2
                 },
                 {
-                  "Name": "Thsndftz",
+                  "Name": "Silicâ",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
                   "Hits": 2
                 }
               ],
               "HitType": 0
             },
             {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
+                {
+                  "Name": "Overgnomi",
+                  "Hits": 1
+                },
                 {
                   "Name": "Shandrelar",
                   "Hits": 1
@@ -1926,7 +1975,11 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Overgnomi",
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Edelweiss",
                   "Hits": 1
                 },
                 {
@@ -1934,15 +1987,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Bakaryú",
-                  "Hits": 1
-                },
-                {
                   "Name": "Ìshkur",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Edelweiss",
                   "Hits": 1
                 }
               ],
@@ -1966,7 +2011,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Elizea",
+                  "Name": "Shyreal",
                   "Hits": 1
                 },
                 {
@@ -1978,7 +2023,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Shyreal",
+                  "Name": "Elizea",
                   "Hits": 1
                 }
               ],
@@ -1993,12 +2038,56 @@
               "Name": "Scorching Ground",
               "PlayerHits": [
                 {
-                  "Name": "Vórkath",
+                  "Name": "Mauriana",
                   "Hits": 1
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 8
                 },
                 {
                   "Name": "Ameliê",
                   "Hits": 6
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
                 },
                 {
                   "Name": "Shandrelar",
@@ -2011,50 +2100,6 @@
                 {
                   "Name": "Elizea",
                   "Hits": 1
-                },
-                {
-                  "Name": "Ìshkur",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 8
-                },
-                {
-                  "Name": "Mauriana",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Cela",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Silicâ",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Bakaryú",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Rágnàr",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Laona",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Thsndftz",
-                  "Hits": 5
                 }
               ],
               "HitType": 0
@@ -2063,11 +2108,63 @@
               "Name": "Flame Jet",
               "PlayerHits": [
                 {
+                  "Name": "Mauriana",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Overgnomi",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Ameliê",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 3
+                },
+                {
                   "Name": "Vórkath",
                   "Hits": 2
                 },
                 {
-                  "Name": "Ameliê",
+                  "Name": "Rágnàr",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Blòódý",
                   "Hits": 5
                 },
                 {
@@ -2079,64 +2176,12 @@
                   "Hits": 3
                 },
                 {
-                  "Name": "Elizea",
-                  "Hits": 6
-                },
-                {
-                  "Name": "Ìshkur",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Mauriana",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Edelweiss",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Cela",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Silicâ",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Bakaryú",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Rágnàr",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Laona",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Overgnomi",
-                  "Hits": 2
-                },
-                {
                   "Name": "Endiness",
                   "Hits": 2
                 },
                 {
-                  "Name": "Thsndftz",
-                  "Hits": 2
+                  "Name": "Elizea",
+                  "Hits": 6
                 }
               ],
               "HitType": 0
@@ -2145,10 +2190,6 @@
               "Name": "Flames of Punishment",
               "PlayerHits": [
                 {
-                  "Name": "Silicâ",
-                  "Hits": 2
-                },
-                {
                   "Name": "Bakaryú",
                   "Hits": 4
                 },
@@ -2157,19 +2198,19 @@
                   "Hits": 2
                 },
                 {
+                  "Name": "Silicâ",
+                  "Hits": 2
+                },
+                {
                   "Name": "Laona",
                   "Hits": 1
                 },
                 {
-                  "Name": "Shandrelar",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Thomämmer",
+                  "Name": "Mauriana",
                   "Hits": 2
                 },
                 {
-                  "Name": "Mauriana",
+                  "Name": "Cela",
                   "Hits": 2
                 },
                 {
@@ -2177,8 +2218,12 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Cela",
+                  "Name": "Thomämmer",
                   "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 3
                 }
               ],
               "HitType": 0
@@ -2187,7 +2232,7 @@
               "Name": "Deadly Hex",
               "PlayerHits": [
                 {
-                  "Name": "Thomämmer",
+                  "Name": "Cela",
                   "Hits": 2
                 },
                 {
@@ -2199,33 +2244,38 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Shyreal",
-                  "Hits": 3
+                  "Name": "Thomämmer",
+                  "Hits": 2
                 },
                 {
-                  "Name": "Cela",
-                  "Hits": 2
+                  "Name": "Shyreal",
+                  "Hits": 3
                 }
               ],
+              "HitType": 0
+            },
+            {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [],
               "HitType": 0
             },
             {
               "Name": "Crush",
               "PlayerHits": [
                 {
-                  "Name": "Terránigma",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 1
-                },
-                {
                   "Name": "Cela",
                   "Hits": 2
                 },
                 {
                   "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
                   "Hits": 1
                 },
                 {
@@ -2253,16 +2303,12 @@
               "Name": "Volatile Charge",
               "PlayerHits": [
                 {
-                  "Name": "Merokald",
-                  "Hits": 4
-                },
-                {
                   "Name": "Blòódý",
                   "Hits": 1
                 },
                 {
-                  "Name": "Thomämmer",
-                  "Hits": 3
+                  "Name": "Merokald",
+                  "Hits": 4
                 },
                 {
                   "Name": "Mauriana",
@@ -2271,6 +2317,10 @@
                 {
                   "Name": "Edelweiss",
                   "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 3
                 }
               ],
               "HitType": 0
@@ -2284,16 +2334,56 @@
               "Name": "Scorching Ground",
               "PlayerHits": [
                 {
-                  "Name": "Shyreal",
+                  "Name": "Mauriana",
                   "Hits": 2
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Overgnomi",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Ameliê",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 4
                 },
                 {
                   "Name": "Vórkath",
                   "Hits": 3
                 },
                 {
-                  "Name": "Ameliê",
+                  "Name": "Shyreal",
                   "Hits": 2
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 7
                 },
                 {
                   "Name": "Shandrelar",
@@ -2306,46 +2396,6 @@
                 {
                   "Name": "Elizea",
                   "Hits": 4
-                },
-                {
-                  "Name": "Ìshkur",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 7
-                },
-                {
-                  "Name": "Mauriana",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Edelweiss",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Silicâ",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Bakaryú",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Laona",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Overgnomi",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Thsndftz",
-                  "Hits": 5
                 }
               ],
               "HitType": 0
@@ -2354,16 +2404,60 @@
               "Name": "Flame Jet",
               "PlayerHits": [
                 {
-                  "Name": "Shyreal",
+                  "Name": "Mauriana",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Overgnomi",
                   "Hits": 3
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Ameliê",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 6
                 },
                 {
                   "Name": "Vórkath",
                   "Hits": 3
                 },
                 {
-                  "Name": "Ameliê",
-                  "Hits": 5
+                  "Name": "Rágnàr",
+                  "Hits": 7
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 2
                 },
                 {
                   "Name": "Shandrelar",
@@ -2374,56 +2468,12 @@
                   "Hits": 5
                 },
                 {
-                  "Name": "Elizea",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Ìshkur",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Mauriana",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Cela",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Silicâ",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 6
-                },
-                {
-                  "Name": "Rágnàr",
-                  "Hits": 7
-                },
-                {
-                  "Name": "Laona",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Thsndftz",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Overgnomi",
-                  "Hits": 3
-                },
-                {
                   "Name": "Endiness",
                   "Hits": 2
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 5
                 }
               ],
               "HitType": 0
@@ -2450,41 +2500,46 @@
               "Name": "Deadly Hex",
               "PlayerHits": [
                 {
-                  "Name": "Terránigma",
-                  "Hits": 3
+                  "Name": "Thsndftz",
+                  "Hits": 2
                 },
                 {
-                  "Name": "Laona",
-                  "Hits": 2
+                  "Name": "Terránigma",
+                  "Hits": 3
                 },
                 {
                   "Name": "Shyreal",
                   "Hits": 5
                 },
                 {
-                  "Name": "Thsndftz",
+                  "Name": "Laona",
                   "Hits": 2
                 }
               ],
               "HitType": 0
             },
             {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
-                  "Name": "Ameliê",
+                  "Name": "Bakaryú",
                   "Hits": 1
                 },
                 {
-                  "Name": "Bakaryú",
-                  "Hits": 1
+                  "Name": "Edelweiss",
+                  "Hits": 2
                 },
                 {
                   "Name": "Rágnàr",
                   "Hits": 1
                 },
                 {
-                  "Name": "Ìshkur",
+                  "Name": "Ameliê",
                   "Hits": 1
                 },
                 {
@@ -2496,8 +2551,8 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Edelweiss",
-                  "Hits": 2
+                  "Name": "Ìshkur",
+                  "Hits": 1
                 }
               ],
               "HitType": 2
@@ -2524,11 +2579,11 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Overgnomi",
+                  "Name": "Cela",
                   "Hits": 1
                 },
                 {
-                  "Name": "Cela",
+                  "Name": "Overgnomi",
                   "Hits": 1
                 }
               ],
@@ -2543,56 +2598,8 @@
               "Name": "Scorching Ground",
               "PlayerHits": [
                 {
-                  "Name": "Shyreal",
-                  "Hits": 8
-                },
-                {
-                  "Name": "Vórkath",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Ameliê",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Merokald",
-                  "Hits": 6
-                },
-                {
-                  "Name": "Ìshkur",
-                  "Hits": 6
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 4
-                },
-                {
                   "Name": "Mauriana",
                   "Hits": 1
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 7
-                },
-                {
-                  "Name": "Cela",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Bakaryú",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Rágnàr",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Laona",
-                  "Hits": 9
                 },
                 {
                   "Name": "Thsndftz",
@@ -2601,6 +2608,54 @@
                 {
                   "Name": "Overgnomi",
                   "Hits": 5
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 7
+                },
+                {
+                  "Name": "Ameliê",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 9
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 6
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 8
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 6
                 }
               ],
               "HitType": 0
@@ -2609,40 +2664,28 @@
               "Name": "Flame Jet",
               "PlayerHits": [
                 {
-                  "Name": "Vórkath",
+                  "Name": "Overgnomi",
                   "Hits": 4
                 },
                 {
-                  "Name": "Shyreal",
-                  "Hits": 5
+                  "Name": "Thomämmer",
+                  "Hits": 4
                 },
                 {
                   "Name": "Ameliê",
                   "Hits": 3
                 },
                 {
-                  "Name": "Shandrelar",
+                  "Name": "Laona",
                   "Hits": 1
-                },
-                {
-                  "Name": "Merokald",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Elizea",
-                  "Hits": 4
                 },
                 {
                   "Name": "Ìshkur",
                   "Hits": 2
                 },
                 {
-                  "Name": "Blòódý",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 4
+                  "Name": "Bakaryú",
+                  "Hits": 1
                 },
                 {
                   "Name": "Cela",
@@ -2653,15 +2696,27 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Bakaryú",
-                  "Hits": 1
+                  "Name": "Vórkath",
+                  "Hits": 4
                 },
                 {
                   "Name": "Rágnàr",
                   "Hits": 3
                 },
                 {
-                  "Name": "Laona",
+                  "Name": "Shyreal",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
                   "Hits": 1
                 },
                 {
@@ -2669,7 +2724,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Overgnomi",
+                  "Name": "Elizea",
                   "Hits": 4
                 }
               ],
@@ -2679,28 +2734,28 @@
               "Name": "Flames of Punishment",
               "PlayerHits": [
                 {
-                  "Name": "Shyreal",
-                  "Hits": 1
+                  "Name": "Bakaryú",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 2
                 },
                 {
                   "Name": "Vórkath",
                   "Hits": 1
                 },
                 {
-                  "Name": "Bakaryú",
-                  "Hits": 3
+                  "Name": "Rágnàr",
+                  "Hits": 1
                 },
                 {
-                  "Name": "Rágnàr",
+                  "Name": "Shyreal",
                   "Hits": 1
                 },
                 {
                   "Name": "Ìshkur",
                   "Hits": 1
-                },
-                {
-                  "Name": "Thsndftz",
-                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -2709,29 +2764,30 @@
               "Name": "Deadly Hex",
               "PlayerHits": [
                 {
+                  "Name": "Thsndftz",
+                  "Hits": 2
+                },
+                {
                   "Name": "Ameliê",
                   "Hits": 2
                 },
                 {
                   "Name": "Blòódý",
                   "Hits": 2
-                },
-                {
-                  "Name": "Thsndftz",
-                  "Hits": 2
                 }
               ],
+              "HitType": 0
+            },
+            {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [],
               "HitType": 0
             },
             {
               "Name": "Crush",
               "PlayerHits": [
                 {
-                  "Name": "Merokald",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Ìshkur",
+                  "Name": "Edelweiss",
                   "Hits": 1
                 },
                 {
@@ -2739,7 +2795,11 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Edelweiss",
+                  "Name": "Merokald",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ìshkur",
                   "Hits": 1
                 }
               ],
@@ -2759,12 +2819,12 @@
               "Name": "Volatile Charge",
               "PlayerHits": [
                 {
-                  "Name": "Elizea",
-                  "Hits": 2
-                },
-                {
                   "Name": "Overgnomi",
                   "Hits": 1
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 2
                 },
                 {
                   "Name": "Shandrelar",
@@ -2782,59 +2842,11 @@
               "Name": "Scorching Ground",
               "PlayerHits": [
                 {
-                  "Name": "Shyreal",
-                  "Hits": 7
-                },
-                {
-                  "Name": "Ameliê",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Merokald",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Elizea",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Ìshkur",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 1
-                },
-                {
                   "Name": "Mauriana",
                   "Hits": 2
                 },
                 {
-                  "Name": "Edelweiss",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Cela",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Bakaryú",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Rágnàr",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Laona",
+                  "Name": "Thsndftz",
                   "Hits": 3
                 },
                 {
@@ -2842,12 +2854,60 @@
                   "Hits": 1
                 },
                 {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ameliê",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 7
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
+                },
+                {
                   "Name": "Endiness",
                   "Hits": 1
                 },
                 {
-                  "Name": "Thsndftz",
-                  "Hits": 3
+                  "Name": "Elizea",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -2856,8 +2916,24 @@
               "Name": "Flame Jet",
               "PlayerHits": [
                 {
+                  "Name": "Cela",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Overgnomi",
+                  "Hits": 1
+                },
+                {
                   "Name": "Vórkath",
                   "Hits": 2
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 1
                 },
                 {
                   "Name": "Shandrelar",
@@ -2868,23 +2944,7 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Rágnàr",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 1
-                },
-                {
                   "Name": "Laona",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Cela",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Overgnomi",
                   "Hits": 1
                 }
               ],
@@ -2911,14 +2971,19 @@
               "HitType": 0
             },
             {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
-                  "Name": "Ameliê",
+                  "Name": "Thomämmer",
                   "Hits": 1
                 },
                 {
-                  "Name": "Thomämmer",
+                  "Name": "Ameliê",
                   "Hits": 1
                 }
               ],
@@ -2938,15 +3003,15 @@
               "Name": "Volatile Charge",
               "PlayerHits": [
                 {
-                  "Name": "Rágnàr",
-                  "Hits": 1
-                },
-                {
                   "Name": "Cela",
                   "Hits": 2
                 },
                 {
                   "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
                   "Hits": 1
                 },
                 {
@@ -2969,47 +3034,19 @@
               "Name": "Scorching Ground",
               "PlayerHits": [
                 {
-                  "Name": "Vórkath",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Shyreal",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Ameliê",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Shandrelar",
-                  "Hits": 7
-                },
-                {
-                  "Name": "Merokald",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Elizea",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Ìshkur",
-                  "Hits": 7
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 1
-                },
-                {
                   "Name": "Mauriana",
                   "Hits": 5
                 },
                 {
-                  "Name": "Cela",
-                  "Hits": 3
+                  "Name": "Thsndftz",
+                  "Hits": 4
                 },
                 {
-                  "Name": "Edelweiss",
+                  "Name": "Overgnomi",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ameliê",
                   "Hits": 1
                 },
                 {
@@ -3017,28 +3054,56 @@
                   "Hits": 5
                 },
                 {
-                  "Name": "Terránigma",
-                  "Hits": 1
+                  "Name": "Laona",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 7
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 3
                 },
                 {
                   "Name": "Bakaryú",
                   "Hits": 6
                 },
                 {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
                   "Name": "Rágnàr",
                   "Hits": 4
                 },
                 {
-                  "Name": "Laona",
-                  "Hits": 2
+                  "Name": "Shyreal",
+                  "Hits": 1
                 },
                 {
-                  "Name": "Overgnomi",
-                  "Hits": 2
+                  "Name": "Blòódý",
+                  "Hits": 1
                 },
                 {
-                  "Name": "Thsndftz",
-                  "Hits": 4
+                  "Name": "Merokald",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 7
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -3047,19 +3112,27 @@
               "Name": "Flame Jet",
               "PlayerHits": [
                 {
-                  "Name": "Vórkath",
-                  "Hits": 7
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Overgnomi",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 3
                 },
                 {
                   "Name": "Ameliê",
                   "Hits": 2
                 },
                 {
-                  "Name": "Merokald",
-                  "Hits": 1
+                  "Name": "Silicâ",
+                  "Hits": 3
                 },
                 {
-                  "Name": "Elizea",
+                  "Name": "Laona",
                   "Hits": 1
                 },
                 {
@@ -3067,11 +3140,7 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Blòódý",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Thomämmer",
+                  "Name": "Bakaryú",
                   "Hits": 3
                 },
                 {
@@ -3083,31 +3152,27 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Silicâ",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Bakaryú",
-                  "Hits": 3
-                },
-                {
                   "Name": "Terránigma",
                   "Hits": 2
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 7
                 },
                 {
                   "Name": "Rágnàr",
                   "Hits": 2
                 },
                 {
-                  "Name": "Laona",
+                  "Name": "Blòódý",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Merokald",
                   "Hits": 1
                 },
                 {
-                  "Name": "Overgnomi",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Thsndftz",
+                  "Name": "Elizea",
                   "Hits": 1
                 }
               ],
@@ -3117,11 +3182,11 @@
               "Name": "Flames of Punishment",
               "PlayerHits": [
                 {
-                  "Name": "Ameliê",
+                  "Name": "Bakaryú",
                   "Hits": 2
                 },
                 {
-                  "Name": "Bakaryú",
+                  "Name": "Ameliê",
                   "Hits": 2
                 },
                 {
@@ -3135,20 +3200,8 @@
               "Name": "Deadly Hex",
               "PlayerHits": [
                 {
-                  "Name": "Ìshkur",
-                  "Hits": 2
-                },
-                {
                   "Name": "Mauriana",
                   "Hits": 4
-                },
-                {
-                  "Name": "Shandrelar",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Elizea",
-                  "Hits": 2
                 },
                 {
                   "Name": "Edelweiss",
@@ -3159,8 +3212,30 @@
                   "Hits": 3
                 },
                 {
+                  "Name": "Shandrelar",
+                  "Hits": 4
+                },
+                {
                   "Name": "Merokald",
                   "Hits": 2
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [
+                {
+                  "Name": "Overgnomi",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -3185,15 +3260,15 @@
                   "Hits": 1
                 },
                 {
+                  "Name": "Shyreal",
+                  "Hits": 1
+                },
+                {
                   "Name": "Silicâ",
                   "Hits": 1
                 },
                 {
                   "Name": "Laona",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Shyreal",
                   "Hits": 1
                 }
               ],
@@ -3213,11 +3288,11 @@
               "Name": "Volatile Charge",
               "PlayerHits": [
                 {
-                  "Name": "Rágnàr",
+                  "Name": "Cela",
                   "Hits": 1
                 },
                 {
-                  "Name": "Cela",
+                  "Name": "Rágnàr",
                   "Hits": 1
                 },
                 {
@@ -3243,11 +3318,11 @@
                   "Hits": 3
                 },
                 {
-                  "Name": "Ìshkur",
-                  "Hits": 3
+                  "Name": "Silicâ",
+                  "Hits": 1
                 },
                 {
-                  "Name": "Silicâ",
+                  "Name": "Merokald",
                   "Hits": 1
                 },
                 {
@@ -3255,8 +3330,8 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Merokald",
-                  "Hits": 1
+                  "Name": "Ìshkur",
+                  "Hits": 3
                 }
               ],
               "HitType": 0
@@ -3265,35 +3340,7 @@
               "Name": "Scorching Ground",
               "PlayerHits": [
                 {
-                  "Name": "Thsndftz",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Rágnàr",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Ìshkur",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Shandrelar",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Silicâ",
-                  "Hits": 4
-                },
-                {
                   "Name": "Bakaryú",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Vórkath",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Ameliê",
                   "Hits": 3
                 },
                 {
@@ -3301,24 +3348,52 @@
                   "Hits": 8
                 },
                 {
-                  "Name": "Thomämmer",
-                  "Hits": 6
+                  "Name": "Thsndftz",
+                  "Hits": 5
                 },
                 {
                   "Name": "Terránigma",
                   "Hits": 5
                 },
                 {
-                  "Name": "Merokald",
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Thomämmer",
                   "Hits": 6
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Ameliê",
+                  "Hits": 3
                 },
                 {
                   "Name": "Blòódý",
                   "Hits": 5
                 },
                 {
-                  "Name": "Shyreal",
-                  "Hits": 3
+                  "Name": "Silicâ",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 6
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 4
                 }
               ],
               "HitType": 0
@@ -3327,28 +3402,24 @@
               "Name": "Flame Jet",
               "PlayerHits": [
                 {
-                  "Name": "Thsndftz",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Rágnàr",
-                  "Hits": 4
-                },
-                {
                   "Name": "Mauriana",
                   "Hits": 2
                 },
                 {
-                  "Name": "Edelweiss",
+                  "Name": "Thsndftz",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Overgnomi",
                   "Hits": 4
                 },
                 {
-                  "Name": "Ìshkur",
-                  "Hits": 1
+                  "Name": "Thomämmer",
+                  "Hits": 2
                 },
                 {
-                  "Name": "Shandrelar",
-                  "Hits": 1
+                  "Name": "Ameliê",
+                  "Hits": 4
                 },
                 {
                   "Name": "Silicâ",
@@ -3359,31 +3430,19 @@
                   "Hits": 4
                 },
                 {
-                  "Name": "Elizea",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Vórkath",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Bakaryú",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Ameliê",
-                  "Hits": 4
+                  "Name": "Ìshkur",
+                  "Hits": 1
                 },
                 {
                   "Name": "Cela",
                   "Hits": 5
                 },
                 {
-                  "Name": "Thomämmer",
-                  "Hits": 2
+                  "Name": "Bakaryú",
+                  "Hits": 3
                 },
                 {
-                  "Name": "Overgnomi",
+                  "Name": "Edelweiss",
                   "Hits": 4
                 },
                 {
@@ -3391,16 +3450,32 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Merokald",
+                  "Name": "Vórkath",
                   "Hits": 4
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 5
                 },
                 {
                   "Name": "Blòódý",
                   "Hits": 1
                 },
                 {
-                  "Name": "Shyreal",
-                  "Hits": 5
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -3409,27 +3484,27 @@
               "Name": "Flames of Punishment",
               "PlayerHits": [
                 {
-                  "Name": "Ameliê",
-                  "Hits": 3
+                  "Name": "Bakaryú",
+                  "Hits": 4
                 },
                 {
-                  "Name": "Shandrelar",
-                  "Hits": 1
+                  "Name": "Ameliê",
+                  "Hits": 3
                 },
                 {
                   "Name": "Blòódý",
                   "Hits": 2
                 },
                 {
-                  "Name": "Bakaryú",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Ìshkur",
+                  "Name": "Shandrelar",
                   "Hits": 1
                 },
                 {
                   "Name": "Merokald",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ìshkur",
                   "Hits": 1
                 }
               ],
@@ -3439,7 +3514,7 @@
               "Name": "Deadly Hex",
               "PlayerHits": [
                 {
-                  "Name": "Ìshkur",
+                  "Name": "Thsndftz",
                   "Hits": 2
                 },
                 {
@@ -3447,18 +3522,23 @@
                   "Hits": 3
                 },
                 {
-                  "Name": "Elizea",
-                  "Hits": 2
-                },
-                {
                   "Name": "Merokald",
                   "Hits": 2
                 },
                 {
-                  "Name": "Thsndftz",
+                  "Name": "Elizea",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ìshkur",
                   "Hits": 2
                 }
               ],
+              "HitType": 0
+            },
+            {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [],
               "HitType": 0
             },
             {
@@ -3477,11 +3557,11 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Blòódý",
+                  "Name": "Shyreal",
                   "Hits": 1
                 },
                 {
-                  "Name": "Shyreal",
+                  "Name": "Blòódý",
                   "Hits": 1
                 }
               ],
@@ -3516,7 +3596,23 @@
               "Name": "Scorching Ground",
               "PlayerHits": [
                 {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Mauriana",
+                  "Hits": 4
+                },
+                {
                   "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shyreal",
                   "Hits": 1
                 },
                 {
@@ -3524,31 +3620,15 @@
                   "Hits": 3
                 },
                 {
-                  "Name": "Mauriana",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Ìshkur",
-                  "Hits": 1
+                  "Name": "Merokald",
+                  "Hits": 3
                 },
                 {
                   "Name": "Laona",
                   "Hits": 3
                 },
                 {
-                  "Name": "Merokald",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Shyreal",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Bakaryú",
+                  "Name": "Ìshkur",
                   "Hits": 1
                 }
               ],
@@ -3557,18 +3637,6 @@
             {
               "Name": "Flame Jet",
               "PlayerHits": [
-                {
-                  "Name": "Rágnàr",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Ameliê",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Cela",
-                  "Hits": 2
-                },
                 {
                   "Name": "Mauriana",
                   "Hits": 1
@@ -3582,20 +3650,8 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Edelweiss",
+                  "Name": "Ameliê",
                   "Hits": 1
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Ìshkur",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Shandrelar",
-                  "Hits": 4
                 },
                 {
                   "Name": "Silicâ",
@@ -3606,12 +3662,36 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Merokald",
-                  "Hits": 4
+                  "Name": "Ìshkur",
+                  "Hits": 1
                 },
                 {
                   "Name": "Bakaryú",
                   "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 4
                 }
               ],
               "HitType": 0
@@ -3632,6 +3712,11 @@
             },
             {
               "Name": "Deadly Hex",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Creeping Blaze",
               "PlayerHits": [],
               "HitType": 0
             },
@@ -3654,36 +3739,36 @@
               "Name": "Volatile Charge",
               "PlayerHits": [
                 {
-                  "Name": "Rágnàr",
-                  "Hits": 1
+                  "Name": "Mauriana",
+                  "Hits": 2
                 },
                 {
                   "Name": "Cela",
                   "Hits": 1
                 },
                 {
-                  "Name": "Mauriana",
-                  "Hits": 2
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
                 },
                 {
                   "Name": "Thomämmer",
                   "Hits": 2
                 },
                 {
-                  "Name": "Edelweiss",
-                  "Hits": 1
-                },
-                {
                   "Name": "Silicâ",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Endiness",
                   "Hits": 1
                 },
                 {
                   "Name": "Merokald",
                   "Hits": 2
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
                 },
                 {
                   "Name": "Elizea",
@@ -3705,24 +3790,24 @@
               "Name": "Scorching Ground",
               "PlayerHits": [
                 {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
                   "Name": "Thsndftz",
                   "Hits": 1
                 },
                 {
-                  "Name": "Cela",
-                  "Hits": 1
+                  "Name": "Vórkath",
+                  "Hits": 2
                 },
                 {
                   "Name": "Thomämmer",
                   "Hits": 2
                 },
                 {
-                  "Name": "Shandrelar",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Ìshkur",
-                  "Hits": 11
+                  "Name": "Shyreal",
+                  "Hits": 2
                 },
                 {
                   "Name": "Silicâ",
@@ -3733,6 +3818,10 @@
                   "Hits": 2
                 },
                 {
+                  "Name": "Shandrelar",
+                  "Hits": 3
+                },
+                {
                   "Name": "Endiness",
                   "Hits": 3
                 },
@@ -3741,12 +3830,8 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Shyreal",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Vórkath",
-                  "Hits": 2
+                  "Name": "Ìshkur",
+                  "Hits": 11
                 }
               ],
               "HitType": 0
@@ -3755,31 +3840,7 @@
               "Name": "Flame Jet",
               "PlayerHits": [
                 {
-                  "Name": "Rágnàr",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Mauriana",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Edelweiss",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Laona",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Elizea",
-                  "Hits": 1
-                },
-                {
                   "Name": "Bakaryú",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Ameliê",
                   "Hits": 1
                 },
                 {
@@ -3787,7 +3848,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Thomämmer",
+                  "Name": "Mauriana",
                   "Hits": 2
                 },
                 {
@@ -3795,11 +3856,35 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Blòódý",
+                  "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Thomämmer",
                   "Hits": 2
                 },
                 {
                   "Name": "Shyreal",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ameliê",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Elizea",
                   "Hits": 1
                 }
               ],
@@ -3812,6 +3897,11 @@
             },
             {
               "Name": "Deadly Hex",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Creeping Blaze",
               "PlayerHits": [],
               "HitType": 0
             },
@@ -3851,15 +3941,15 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Thomämmer",
-                  "Hits": 1
-                },
-                {
                   "Name": "Mauriana",
                   "Hits": 1
                 },
                 {
                   "Name": "Edelweiss",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
                   "Hits": 1
                 }
               ],
@@ -3874,24 +3964,24 @@
               "Name": "Scorching Ground",
               "PlayerHits": [
                 {
-                  "Name": "Rágnàr",
-                  "Hits": 4
+                  "Name": "Mauriana",
+                  "Hits": 6
                 },
                 {
                   "Name": "Thsndftz",
                   "Hits": 5
                 },
                 {
-                  "Name": "Mauriana",
-                  "Hits": 6
+                  "Name": "Overgnomi",
+                  "Hits": 5
                 },
                 {
-                  "Name": "Shandrelar",
-                  "Hits": 7
+                  "Name": "Thomämmer",
+                  "Hits": 5
                 },
                 {
-                  "Name": "Ìshkur",
-                  "Hits": 6
+                  "Name": "Ameliê",
+                  "Hits": 4
                 },
                 {
                   "Name": "Silicâ",
@@ -3902,31 +3992,15 @@
                   "Hits": 4
                 },
                 {
-                  "Name": "Elizea",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Vórkath",
-                  "Hits": 8
-                },
-                {
-                  "Name": "Bakaryú",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Ameliê",
-                  "Hits": 4
+                  "Name": "Ìshkur",
+                  "Hits": 6
                 },
                 {
                   "Name": "Cela",
                   "Hits": 2
                 },
                 {
-                  "Name": "Overgnomi",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Thomämmer",
+                  "Name": "Bakaryú",
                   "Hits": 5
                 },
                 {
@@ -3934,8 +4008,12 @@
                   "Hits": 4
                 },
                 {
-                  "Name": "Merokald",
-                  "Hits": 2
+                  "Name": "Vórkath",
+                  "Hits": 8
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 4
                 },
                 {
                   "Name": "Shyreal",
@@ -3944,6 +4022,18 @@
                 {
                   "Name": "Blòódý",
                   "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 7
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 4
                 }
               ],
               "HitType": 0
@@ -3952,7 +4042,7 @@
               "Name": "Flame Jet",
               "PlayerHits": [
                 {
-                  "Name": "Rágnàr",
+                  "Name": "Cela",
                   "Hits": 2
                 },
                 {
@@ -3960,31 +4050,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Shandrelar",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Silicâ",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Elizea",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Vórkath",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Ameliê",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Cela",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Thomämmer",
+                  "Name": "Terránigma",
                   "Hits": 2
                 },
                 {
@@ -3992,16 +4058,40 @@
                   "Hits": 6
                 },
                 {
-                  "Name": "Terránigma",
+                  "Name": "Vórkath",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
                   "Hits": 2
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ameliê",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
                 },
                 {
                   "Name": "Endiness",
                   "Hits": 1
                 },
                 {
-                  "Name": "Blòódý",
-                  "Hits": 3
+                  "Name": "Elizea",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -4015,11 +4105,11 @@
               "Name": "Deadly Hex",
               "PlayerHits": [
                 {
-                  "Name": "Silicâ",
+                  "Name": "Mauriana",
                   "Hits": 2
                 },
                 {
-                  "Name": "Mauriana",
+                  "Name": "Thsndftz",
                   "Hits": 2
                 },
                 {
@@ -4027,7 +4117,7 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Elizea",
+                  "Name": "Silicâ",
                   "Hits": 2
                 },
                 {
@@ -4035,25 +4125,26 @@
                   "Hits": 3
                 },
                 {
-                  "Name": "Thsndftz",
+                  "Name": "Elizea",
                   "Hits": 2
                 }
               ],
               "HitType": 0
             },
             {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
-                {
-                  "Name": "Shandrelar",
-                  "Hits": 1
-                },
                 {
                   "Name": "Vórkath",
                   "Hits": 1
                 },
                 {
-                  "Name": "Ìshkur",
+                  "Name": "Shandrelar",
                   "Hits": 1
                 },
                 {
@@ -4062,6 +4153,10 @@
                 },
                 {
                   "Name": "Elizea",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ìshkur",
                   "Hits": 1
                 }
               ],
@@ -4096,24 +4191,24 @@
               "Name": "Scorching Ground",
               "PlayerHits": [
                 {
-                  "Name": "Rágnàr",
-                  "Hits": 3
+                  "Name": "Mauriana",
+                  "Hits": 6
                 },
                 {
                   "Name": "Thsndftz",
                   "Hits": 3
                 },
                 {
-                  "Name": "Mauriana",
-                  "Hits": 6
+                  "Name": "Overgnomi",
+                  "Hits": 4
                 },
                 {
-                  "Name": "Edelweiss",
-                  "Hits": 2
+                  "Name": "Thomämmer",
+                  "Hits": 3
                 },
                 {
-                  "Name": "Ìshkur",
-                  "Hits": 6
+                  "Name": "Ameliê",
+                  "Hits": 4
                 },
                 {
                   "Name": "Silicâ",
@@ -4124,35 +4219,31 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Vórkath",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Bakaryú",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Ameliê",
-                  "Hits": 4
+                  "Name": "Ìshkur",
+                  "Hits": 6
                 },
                 {
                   "Name": "Cela",
                   "Hits": 6
                 },
                 {
-                  "Name": "Thomämmer",
+                  "Name": "Bakaryú",
                   "Hits": 3
-                },
-                {
-                  "Name": "Overgnomi",
-                  "Hits": 4
                 },
                 {
                   "Name": "Terránigma",
                   "Hits": 2
                 },
                 {
-                  "Name": "Merokald",
+                  "Name": "Edelweiss",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Rágnàr",
                   "Hits": 3
                 },
                 {
@@ -4162,6 +4253,10 @@
                 {
                   "Name": "Blòódý",
                   "Hits": 2
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 3
                 }
               ],
               "HitType": 0
@@ -4170,47 +4265,11 @@
               "Name": "Flame Jet",
               "PlayerHits": [
                 {
-                  "Name": "Thsndftz",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Rágnàr",
-                  "Hits": 6
-                },
-                {
                   "Name": "Mauriana",
                   "Hits": 1
                 },
                 {
-                  "Name": "Edelweiss",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Shandrelar",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Silicâ",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Laona",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Vórkath",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Elizea",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Ameliê",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Cela",
+                  "Name": "Thsndftz",
                   "Hits": 1
                 },
                 {
@@ -4222,12 +4281,36 @@
                   "Hits": 6
                 },
                 {
+                  "Name": "Ameliê",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
                   "Name": "Terránigma",
                   "Hits": 4
                 },
                 {
-                  "Name": "Merokald",
+                  "Name": "Edelweiss",
                   "Hits": 3
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 6
                 },
                 {
                   "Name": "Shyreal",
@@ -4236,6 +4319,18 @@
                 {
                   "Name": "Blòódý",
                   "Hits": 4
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -4244,20 +4339,20 @@
               "Name": "Flames of Punishment",
               "PlayerHits": [
                 {
-                  "Name": "Thomämmer",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Laona",
-                  "Hits": 2
-                },
-                {
                   "Name": "Bakaryú",
                   "Hits": 3
                 },
                 {
                   "Name": "Vórkath",
                   "Hits": 1
+                },
+                {
+                  "Name": "Thomämmer",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -4266,15 +4361,15 @@
               "Name": "Deadly Hex",
               "PlayerHits": [
                 {
+                  "Name": "Shandrelar",
+                  "Hits": 2
+                },
+                {
                   "Name": "Thomämmer",
                   "Hits": 4
                 },
                 {
                   "Name": "Terránigma",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Shandrelar",
                   "Hits": 2
                 },
                 {
@@ -4285,14 +4380,19 @@
               "HitType": 0
             },
             {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
-                  "Name": "Silicâ",
+                  "Name": "Merokald",
                   "Hits": 1
                 },
                 {
-                  "Name": "Merokald",
+                  "Name": "Silicâ",
                   "Hits": 1
                 },
                 {
@@ -4320,16 +4420,16 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Silicâ",
-                  "Hits": 1
+                  "Name": "Ameliê",
+                  "Hits": 2
                 },
                 {
                   "Name": "Mauriana",
                   "Hits": 1
                 },
                 {
-                  "Name": "Ameliê",
-                  "Hits": 2
+                  "Name": "Silicâ",
+                  "Hits": 1
                 },
                 {
                   "Name": "Blòódý",
@@ -4352,7 +4452,7 @@
               "Name": "Flame Jet",
               "PlayerHits": [
                 {
-                  "Name": "Rágnàr",
+                  "Name": "Shandrelar",
                   "Hits": 1
                 },
                 {
@@ -4360,19 +4460,19 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Mauriana",
-                  "Hits": 3
-                },
-                {
                   "Name": "Thomämmer",
                   "Hits": 2
                 },
                 {
-                  "Name": "Shandrelar",
-                  "Hits": 1
+                  "Name": "Mauriana",
+                  "Hits": 3
                 },
                 {
                   "Name": "Terránigma",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Elizea",
                   "Hits": 1
                 },
                 {
@@ -4380,7 +4480,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Elizea",
+                  "Name": "Rágnàr",
                   "Hits": 1
                 },
                 {
@@ -4397,6 +4497,11 @@
             },
             {
               "Name": "Deadly Hex",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Creeping Blaze",
               "PlayerHits": [],
               "HitType": 0
             },
@@ -4436,20 +4541,20 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Silicâ",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Rágnàr",
-                  "Hits": 1
-                },
-                {
                   "Name": "Overgnomi",
                   "Hits": 1
                 },
                 {
                   "Name": "Vórkath",
                   "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -4463,40 +4568,8 @@
               "Name": "Scorching Ground",
               "PlayerHits": [
                 {
-                  "Name": "Thsndftz",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Mauriana",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Ìshkur",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Silicâ",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Laona",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Elizea",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Vórkath",
-                  "Hits": 7
-                },
-                {
                   "Name": "Ameliê",
                   "Hits": 3
-                },
-                {
-                  "Name": "Cela",
-                  "Hits": 1
                 },
                 {
                   "Name": "Thomämmer",
@@ -4507,16 +4580,48 @@
                   "Hits": 4
                 },
                 {
-                  "Name": "Merokald",
-                  "Hits": 2
+                  "Name": "Laona",
+                  "Hits": 1
                 },
                 {
-                  "Name": "Shyreal",
-                  "Hits": 2
+                  "Name": "Vórkath",
+                  "Hits": 7
                 },
                 {
                   "Name": "Blòódý",
                   "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Mauriana",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Elizea",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shyreal",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -4525,32 +4630,28 @@
               "Name": "Flame Jet",
               "PlayerHits": [
                 {
-                  "Name": "Thsndftz",
+                  "Name": "Ameliê",
                   "Hits": 1
                 },
                 {
-                  "Name": "Rágnàr",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Mauriana",
-                  "Hits": 6
-                },
-                {
-                  "Name": "Edelweiss",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Ìshkur",
-                  "Hits": 2
+                  "Name": "Thomämmer",
+                  "Hits": 8
                 },
                 {
                   "Name": "Shandrelar",
                   "Hits": 2
                 },
                 {
-                  "Name": "Silicâ",
+                  "Name": "Overgnomi",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Terránigma",
                   "Hits": 3
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 2
                 },
                 {
                   "Name": "Laona",
@@ -4561,40 +4662,44 @@
                   "Hits": 3
                 },
                 {
-                  "Name": "Elizea",
-                  "Hits": 2
+                  "Name": "Silicâ",
+                  "Hits": 3
                 },
                 {
-                  "Name": "Ameliê",
-                  "Hits": 1
+                  "Name": "Blòódý",
+                  "Hits": 4
                 },
                 {
                   "Name": "Cela",
                   "Hits": 1
                 },
                 {
-                  "Name": "Overgnomi",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 8
-                },
-                {
-                  "Name": "Terránigma",
-                  "Hits": 3
+                  "Name": "Mauriana",
+                  "Hits": 6
                 },
                 {
                   "Name": "Merokald",
                   "Hits": 2
                 },
                 {
+                  "Name": "Elizea",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
                   "Name": "Shyreal",
                   "Hits": 3
                 },
                 {
-                  "Name": "Blòódý",
-                  "Hits": 4
+                  "Name": "Rágnàr",
+                  "Hits": 5
                 }
               ],
               "HitType": 0
@@ -4603,16 +4708,16 @@
               "Name": "Flames of Punishment",
               "PlayerHits": [
                 {
-                  "Name": "Blòódý",
-                  "Hits": 1
+                  "Name": "Bakaryú",
+                  "Hits": 2
                 },
                 {
                   "Name": "Vórkath",
                   "Hits": 2
                 },
                 {
-                  "Name": "Bakaryú",
-                  "Hits": 2
+                  "Name": "Blòódý",
+                  "Hits": 1
                 },
                 {
                   "Name": "Ameliê",
@@ -4633,7 +4738,7 @@
               "Name": "Deadly Hex",
               "PlayerHits": [
                 {
-                  "Name": "Mauriana",
+                  "Name": "Ameliê",
                   "Hits": 2
                 },
                 {
@@ -4641,7 +4746,7 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Ameliê",
+                  "Name": "Mauriana",
                   "Hits": 2
                 },
                 {
@@ -4649,6 +4754,11 @@
                   "Hits": 2
                 }
               ],
+              "HitType": 0
+            },
+            {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [],
               "HitType": 0
             },
             {
@@ -4667,7 +4777,19 @@
                   "Hits": 1
                 },
                 {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 1
+                },
+                {
                   "Name": "Overgnomi",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Shyreal",
                   "Hits": 1
                 },
                 {
@@ -4675,19 +4797,7 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Merokald",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Bakaryú",
-                  "Hits": 1
-                },
-                {
                   "Name": "Blòódý",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Shyreal",
                   "Hits": 1
                 }
               ],
@@ -4742,55 +4852,7 @@
               "Name": "Scorching Ground",
               "PlayerHits": [
                 {
-                  "Name": "Rágnàr",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Thsndftz",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Mauriana",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Edelweiss",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Shandrelar",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Ìshkur",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Silicâ",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Laona",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Bakaryú",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Vórkath",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Elizea",
-                  "Hits": 1
-                },
-                {
                   "Name": "Ameliê",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Cela",
                   "Hits": 4
                 },
                 {
@@ -4798,7 +4860,7 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Overgnomi",
+                  "Name": "Shandrelar",
                   "Hits": 1
                 },
                 {
@@ -4806,11 +4868,59 @@
                   "Hits": 2
                 },
                 {
+                  "Name": "Overgnomi",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Edelweiss",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Vórkath",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Silicâ",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cela",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Bakaryú",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Mauriana",
+                  "Hits": 2
+                },
+                {
                   "Name": "Merokald",
                   "Hits": 5
                 },
                 {
-                  "Name": "Blòódý",
+                  "Name": "Elizea",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Ìshkur",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Rágnàr",
                   "Hits": 1
                 }
               ],
@@ -4820,11 +4930,23 @@
               "Name": "Flame Jet",
               "PlayerHits": [
                 {
-                  "Name": "Rágnàr",
-                  "Hits": 4
+                  "Name": "Ameliê",
+                  "Hits": 3
                 },
                 {
-                  "Name": "Mauriana",
+                  "Name": "Thomämmer",
+                  "Hits": 6
+                },
+                {
+                  "Name": "Shandrelar",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Terránigma",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Overgnomi",
                   "Hits": 2
                 },
                 {
@@ -4832,11 +4954,11 @@
                   "Hits": 5
                 },
                 {
-                  "Name": "Shandrelar",
-                  "Hits": 5
+                  "Name": "Laona",
+                  "Hits": 1
                 },
                 {
-                  "Name": "Ìshkur",
+                  "Name": "Vórkath",
                   "Hits": 3
                 },
                 {
@@ -4844,19 +4966,7 @@
                   "Hits": 3
                 },
                 {
-                  "Name": "Laona",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Bakaryú",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Vórkath",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Ameliê",
+                  "Name": "Blòódý",
                   "Hits": 3
                 },
                 {
@@ -4864,15 +4974,19 @@
                   "Hits": 6
                 },
                 {
-                  "Name": "Thomämmer",
-                  "Hits": 6
-                },
-                {
-                  "Name": "Overgnomi",
+                  "Name": "Bakaryú",
                   "Hits": 2
                 },
                 {
-                  "Name": "Terránigma",
+                  "Name": "Mauriana",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Merokald",
+                  "Hits": 5
+                },
+                {
+                  "Name": "Ìshkur",
                   "Hits": 3
                 },
                 {
@@ -4880,16 +4994,12 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Merokald",
-                  "Hits": 5
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 3
-                },
-                {
                   "Name": "Shyreal",
                   "Hits": 1
+                },
+                {
+                  "Name": "Rágnàr",
+                  "Hits": 4
                 }
               ],
               "HitType": 0
@@ -4898,7 +5008,15 @@
               "Name": "Flames of Punishment",
               "PlayerHits": [
                 {
+                  "Name": "Bakaryú",
+                  "Hits": 3
+                },
+                {
                   "Name": "Mauriana",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Shyreal",
                   "Hits": 2
                 },
                 {
@@ -4906,24 +5024,16 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Bakaryú",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Shyreal",
-                  "Hits": 2
-                },
-                {
                   "Name": "Thomämmer",
                   "Hits": 2
                 },
                 {
-                  "Name": "Laona",
-                  "Hits": 1
-                },
-                {
                   "Name": "Merokald",
                   "Hits": 5
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -4932,14 +5042,19 @@
               "Name": "Deadly Hex",
               "PlayerHits": [
                 {
-                  "Name": "Rágnàr",
+                  "Name": "Shandrelar",
                   "Hits": 2
                 },
                 {
-                  "Name": "Shandrelar",
+                  "Name": "Rágnàr",
                   "Hits": 2
                 }
               ],
+              "HitType": 0
+            },
+            {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [],
               "HitType": 0
             },
             {
@@ -4950,11 +5065,11 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Ìshkur",
+                  "Name": "Elizea",
                   "Hits": 2
                 },
                 {
-                  "Name": "Elizea",
+                  "Name": "Ìshkur",
                   "Hits": 2
                 },
                 {
