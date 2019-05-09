@@ -683,6 +683,11 @@
               "HitType": 0
             },
             {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -872,6 +877,11 @@
             },
             {
               "Name": "Deadly Hex",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
+              "Name": "Creeping Blaze",
               "PlayerHits": [],
               "HitType": 0
             },
@@ -1095,6 +1105,11 @@
                   "Hits": 1
                 }
               ],
+              "HitType": 0
+            },
+            {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [],
               "HitType": 0
             },
             {
@@ -1382,6 +1397,11 @@
               "HitType": 0
             },
             {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -1649,6 +1669,11 @@
               "HitType": 0
             },
             {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -1881,6 +1906,11 @@
                   "Hits": 2
                 }
               ],
+              "HitType": 0
+            },
+            {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [],
               "HitType": 0
             },
             {
@@ -2131,6 +2161,11 @@
                   "Hits": 1
                 }
               ],
+              "HitType": 0
+            },
+            {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [],
               "HitType": 0
             },
             {
@@ -2430,6 +2465,11 @@
               "HitType": 0
             },
             {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [],
+              "HitType": 0
+            },
+            {
               "Name": "Crush",
               "PlayerHits": [
                 {
@@ -2658,6 +2698,11 @@
                   "Hits": 1
                 }
               ],
+              "HitType": 0
+            },
+            {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [],
               "HitType": 0
             },
             {
@@ -2936,6 +2981,20 @@
                 {
                   "Name": "Cela",
                   "Hits": 2
+                }
+              ],
+              "HitType": 0
+            },
+            {
+              "Name": "Creeping Blaze",
+              "PlayerHits": [
+                {
+                  "Name": "Cela",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blutleid",
+                  "Hits": 3
                 }
               ],
               "HitType": 0
