@@ -26,11 +26,11 @@
               "Name": "Torrential Swell",
               "PlayerHits": [
                 {
-                  "Name": "Selfina",
+                  "Name": "Endiness",
                   "Hits": 1
                 },
                 {
-                  "Name": "Endiness",
+                  "Name": "Selfina",
                   "Hits": 1
                 }
               ],
@@ -128,11 +128,11 @@
               "Name": "Torrential Swell",
               "PlayerHits": [
                 {
-                  "Name": "Selfina",
+                  "Name": "Rágnáár",
                   "Hits": 1
                 },
                 {
-                  "Name": "Rágnáár",
+                  "Name": "Selfina",
                   "Hits": 1
                 }
               ],
@@ -142,11 +142,7 @@
               "Name": "Thunderous Boom",
               "PlayerHits": [
                 {
-                  "Name": "Selfina",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Blòódý",
+                  "Name": "Dèathnight",
                   "Hits": 1
                 },
                 {
@@ -158,7 +154,11 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Dèathnight",
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Selfina",
                   "Hits": 1
                 }
               ],
@@ -188,15 +188,11 @@
               "Name": "Voltaic Flash",
               "PlayerHits": [
                 {
-                  "Name": "Aleksândra",
-                  "Hits": 1
-                },
-                {
                   "Name": "Dèathnight",
                   "Hits": 1
                 },
                 {
-                  "Name": "Blòódý",
+                  "Name": "Aleksândra",
                   "Hits": 1
                 },
                 {
@@ -204,15 +200,19 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Thomämmer",
-                  "Hits": 1
-                },
-                {
                   "Name": "Terránigma",
                   "Hits": 1
                 },
                 {
+                  "Name": "Thomämmer",
+                  "Hits": 1
+                },
+                {
                   "Name": "Thsndftz",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
                   "Hits": 1
                 }
               ],
@@ -222,11 +222,11 @@
               "Name": "Torrential Swell",
               "PlayerHits": [
                 {
-                  "Name": "Aleksândra",
+                  "Name": "Terránigma",
                   "Hits": 2
                 },
                 {
-                  "Name": "Terránigma",
+                  "Name": "Aleksândra",
                   "Hits": 2
                 }
               ],
@@ -236,11 +236,11 @@
               "Name": "Thunderous Boom",
               "PlayerHits": [
                 {
-                  "Name": "Cord",
-                  "Hits": 2
+                  "Name": "Dèathnight",
+                  "Hits": 1
                 },
                 {
-                  "Name": "Patrícía",
+                  "Name": "Cord",
                   "Hits": 2
                 },
                 {
@@ -248,8 +248,8 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Dèathnight",
-                  "Hits": 1
+                  "Name": "Patrícía",
+                  "Hits": 2
                 }
               ],
               "HitType": 2
@@ -299,8 +299,8 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Endiness",
-                  "Hits": 1
+                  "Name": "Terránigma",
+                  "Hits": 2
                 },
                 {
                   "Name": "Thomämmer",
@@ -311,16 +311,16 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Patrícía",
-                  "Hits": 1
-                },
-                {
                   "Name": "Aleksândra",
                   "Hits": 1
                 },
                 {
-                  "Name": "Terránigma",
-                  "Hits": 2
+                  "Name": "Endiness",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Patrícía",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -339,12 +339,12 @@
               "Name": "Glacial Ray",
               "PlayerHits": [
                 {
-                  "Name": "Cord",
-                  "Hits": 1
-                },
-                {
                   "Name": "Thomämmer",
                   "Hits": 2
+                },
+                {
+                  "Name": "Cord",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -387,11 +387,11 @@
               "Name": "Blistering Tornado",
               "PlayerHits": [
                 {
-                  "Name": "Blòódý",
+                  "Name": "Thomämmer",
                   "Hits": 1
                 },
                 {
-                  "Name": "Thomämmer",
+                  "Name": "Blòódý",
                   "Hits": 1
                 }
               ],
@@ -405,11 +405,11 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Patrícía",
+                  "Name": "Terránigma",
                   "Hits": 1
                 },
                 {
-                  "Name": "Terránigma",
+                  "Name": "Patrícía",
                   "Hits": 1
                 }
               ],
@@ -419,15 +419,7 @@
               "Name": "Hand of Frost",
               "PlayerHits": [
                 {
-                  "Name": "Blòódý",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Selfina",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Patrícía",
+                  "Name": "Thsndftz",
                   "Hits": 1
                 },
                 {
@@ -435,7 +427,15 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Thsndftz",
+                  "Name": "Patrícía",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Selfina",
                   "Hits": 1
                 }
               ],
@@ -460,11 +460,11 @@
               "Name": "Bombard",
               "PlayerHits": [
                 {
-                  "Name": "Cord",
+                  "Name": "Terránigma",
                   "Hits": 1
                 },
                 {
-                  "Name": "Terránigma",
+                  "Name": "Cord",
                   "Hits": 1
                 }
               ],
@@ -514,11 +514,11 @@
               "Name": "Freezing Blast",
               "PlayerHits": [
                 {
-                  "Name": "Blòódý",
+                  "Name": "Cord",
                   "Hits": 1
                 },
                 {
-                  "Name": "Cord",
+                  "Name": "Blòódý",
                   "Hits": 1
                 }
               ],
@@ -548,27 +548,19 @@
               "Name": "Bombard",
               "PlayerHits": [
                 {
-                  "Name": "Selfina",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 3
-                },
-                {
                   "Name": "Rágnáár",
                   "Hits": 3
-                },
-                {
-                  "Name": "Cord",
-                  "Hits": 1
                 },
                 {
                   "Name": "Thomämmer",
                   "Hits": 1
                 },
                 {
-                  "Name": "Patrícía",
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Cord",
                   "Hits": 1
                 },
                 {
@@ -576,7 +568,15 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Dèathnight",
+                  "Name": "Patrícía",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Selfina",
                   "Hits": 1
                 }
               ],
@@ -655,12 +655,12 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Patrícía",
-                  "Hits": 1
-                },
-                {
                   "Name": "Dèathnight",
                   "Hits": 2
+                },
+                {
+                  "Name": "Patrícía",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -703,7 +703,7 @@
               "Name": "Glacial Shards",
               "PlayerHits": [
                 {
-                  "Name": "Selfina",
+                  "Name": "Laona",
                   "Hits": 1
                 },
                 {
@@ -711,7 +711,7 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Laona",
+                  "Name": "Selfina",
                   "Hits": 1
                 }
               ],
@@ -755,15 +755,15 @@
               "Name": "Freezing Blast",
               "PlayerHits": [
                 {
-                  "Name": "Blòódý",
-                  "Hits": 1
-                },
-                {
                   "Name": "Aleksândra",
                   "Hits": 1
                 },
                 {
                   "Name": "Patrícía",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
                   "Hits": 1
                 }
               ],
@@ -772,14 +772,6 @@
             {
               "Name": "Hand of Frost",
               "PlayerHits": [
-                {
-                  "Name": "Selfina",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Blòódý",
-                  "Hits": 1
-                },
                 {
                   "Name": "Rágnáár",
                   "Hits": 1
@@ -790,6 +782,14 @@
                 },
                 {
                   "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Selfina",
                   "Hits": 1
                 }
               ],
@@ -809,10 +809,6 @@
               "Name": "Broadside",
               "PlayerHits": [
                 {
-                  "Name": "Blòódý",
-                  "Hits": 1
-                },
-                {
                   "Name": "Rágnáár",
                   "Hits": 1
                 },
@@ -822,6 +818,10 @@
                 },
                 {
                   "Name": "Endiness",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
                   "Hits": 1
                 },
                 {
@@ -849,16 +849,16 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Patrícía",
-                  "Hits": 1
+                  "Name": "Aleksândra",
+                  "Hits": 2
                 },
                 {
                   "Name": "Laona",
                   "Hits": 1
                 },
                 {
-                  "Name": "Aleksândra",
-                  "Hits": 2
+                  "Name": "Patrícía",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -867,35 +867,7 @@
               "Name": "Crystalline Dust",
               "PlayerHits": [
                 {
-                  "Name": "Blòódý",
-                  "Hits": 2
-                },
-                {
                   "Name": "Rágnáár",
-                  "Hits": 3
-                },
-                {
-                  "Name": "Cord",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Thomämmer",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Endiness",
-                  "Hits": 4
-                },
-                {
-                  "Name": "Aleksândra",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Patrícía",
-                  "Hits": 2
-                },
-                {
-                  "Name": "Laona",
                   "Hits": 3
                 },
                 {
@@ -903,12 +875,40 @@
                   "Hits": 1
                 },
                 {
-                  "Name": "Thsndftz",
-                  "Hits": 2
+                  "Name": "Thomämmer",
+                  "Hits": 1
                 },
                 {
                   "Name": "Dèathnight",
                   "Hits": 1
+                },
+                {
+                  "Name": "Cord",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Thsndftz",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 4
+                },
+                {
+                  "Name": "Laona",
+                  "Hits": 3
+                },
+                {
+                  "Name": "Patrícía",
+                  "Hits": 2
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 2
                 }
               ],
               "HitType": 0
@@ -917,11 +917,11 @@
               "Name": "Glacial Ray",
               "PlayerHits": [
                 {
-                  "Name": "Blòódý",
-                  "Hits": 4
+                  "Name": "Rágnáár",
+                  "Hits": 2
                 },
                 {
-                  "Name": "Rágnáár",
+                  "Name": "Aleksândra",
                   "Hits": 2
                 },
                 {
@@ -929,8 +929,8 @@
                   "Hits": 10
                 },
                 {
-                  "Name": "Aleksândra",
-                  "Hits": 2
+                  "Name": "Blòódý",
+                  "Hits": 4
                 }
               ],
               "HitType": 0
@@ -953,27 +953,15 @@
               "Name": "Icefall",
               "PlayerHits": [
                 {
-                  "Name": "Blòódý",
-                  "Hits": 1
-                },
-                {
                   "Name": "Thomämmer",
                   "Hits": 1
                 },
                 {
-                  "Name": "Endiness",
-                  "Hits": 1
+                  "Name": "Dèathnight",
+                  "Hits": 2
                 },
                 {
                   "Name": "Cord",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Aleksândra",
-                  "Hits": 1
-                },
-                {
-                  "Name": "Patrícía",
                   "Hits": 1
                 },
                 {
@@ -981,8 +969,20 @@
                   "Hits": 2
                 },
                 {
-                  "Name": "Dèathnight",
-                  "Hits": 2
+                  "Name": "Aleksândra",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Patrícía",
+                  "Hits": 1
                 }
               ],
               "HitType": 0
@@ -996,12 +996,12 @@
               "Name": "Heart of Frost",
               "PlayerHits": [
                 {
-                  "Name": "Selfina",
-                  "Hits": 3
-                },
-                {
                   "Name": "Thsndftz",
                   "Hits": 1
+                },
+                {
+                  "Name": "Selfina",
+                  "Hits": 3
                 }
               ],
               "HitType": 0
@@ -1025,32 +1025,32 @@
               "Name": "Hand of Frost",
               "PlayerHits": [
                 {
-                  "Name": "Blòódý",
-                  "Hits": 1
-                },
-                {
                   "Name": "Rágnáár",
                   "Hits": 2
-                },
-                {
-                  "Name": "Endiness",
-                  "Hits": 1
                 },
                 {
                   "Name": "Thomämmer",
                   "Hits": 2
                 },
                 {
+                  "Name": "Dèathnight",
+                  "Hits": 1
+                },
+                {
                   "Name": "Cord",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Endiness",
+                  "Hits": 1
+                },
+                {
+                  "Name": "Blòódý",
                   "Hits": 1
                 },
                 {
                   "Name": "Patrícía",
                   "Hits": 2
-                },
-                {
-                  "Name": "Dèathnight",
-                  "Hits": 1
                 }
               ],
               "HitType": 2
